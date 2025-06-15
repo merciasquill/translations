@@ -24,7 +24,7 @@
   "scheduling.alerts.content.Special_Twitch_Drop_Reminder_Description": "**트위치 드롭스 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 [지금 받기]({[sot_article_url]})를 클릭하여 수령하세요.",
   "scheduling.alerts.content.Special_Twitch_Drops_Main_Description": "[{[availability_name]}]({[availability_link]})을(를) 시청하고 **{[rewards_total_time]}** 동안 추가로 시청하여 모든 드롭스를 획득하세요! 트위치 계정을 씨 오브 시브즈에 연결하여 드롭스가 잠금 해제되면 수령하는 것을 잊지 마세요!",
   "scheduling.alerts.globals.Ends_Text": "종료일",
-  "scheduling.alerts.globals.Event_Powered_by_Footer": "{[logo_emoji]} Mercia's Quill 제공 / :flag_kr: seaofthievestavern 번역",
+  "scheduling.alerts.globals.Event_Powered_by_Footer": "{[logo_emoji]} Mercia's Quill 제공 / :flag_kr: Sea of Thieves Tavern 번역",
   "scheduling.alerts.globals.Main_Powered_by_Footer": "Mercia's Quill 제공",
   "scheduling.alerts.globals.View_Rewards_Button": "보상 확인",
   "scheduling.alerts.meta.Capture_a_Code_Alt_Name": "캡쳐 코드: {[event_theme]}",
