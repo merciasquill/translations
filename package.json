@@ -1,6 +1,7 @@
 {
   "name": "mercias-quill-translations",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "sort": "node sort.mjs",
     "sync": "node sync.mjs",
