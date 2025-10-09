@@ -119,6 +119,9 @@
     "ko": "탱커드를 들고 커뮤니티 축제를 준비하세요! 골드, 평판, 명성 등 [더 많은]({[sot_article_url]}) 혜택을 즐기세요!",
     "pt-BR": "Levantem suas canecas e se preparem pra mais uma celebração da comunidade! Aproveite o boost em ouro, reputação, renome e [mais]({[sot_article_url]})!"
   },
+  "content.Ghoul_and_Glory_Main_Description": {
+    "en-GB": "Summon your crew and raise the skeletons — a spooky new Ghoul & Glory Weekend has begun! You'll gain boosted reputation, gold, renown, and allegiance for all your dark deeds!"
+  },
   "content.Gold_Rush_Main_Description": {
     "en-GB": "Gold Rush is now active until <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! All loot cashed in will enjoy a 1.5x multiplier — so grab that gold!",
     "es-ES": "¡La Fiebre del Oro estará activa hasta las <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! Todo el botín que entreguéis tendrá un multiplicador de 1.5x, ¡a por el oro!",
@@ -252,6 +255,15 @@
     "es-ES": "Temporada {[season_number]}",
     "ko": "시즌 {[season_number]}",
     "pt-BR": "Temporada {[season_number]}"
+  },
+  "meta.Ghoul_and_Glory_Alt_Name": {
+    "en-GB": "Ghoul & Glory"
+  },
+  "meta.Ghoul_and_Glory_Main_Name": {
+    "en-GB": "Ghoul & Glory"
+  },
+  "meta.Ghoul_and_Glory_Subtitle": {
+    "en-GB": "Ghoul & Glory"
   },
   "meta.Gold_Rush_Alt_Name": {
     "en-GB": "Daily Gold Rush Cycle",
