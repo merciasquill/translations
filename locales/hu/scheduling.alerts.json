@@ -1,6 +1,6 @@
 {
-  "content.Community_Event_Reminder_Description": "A jelenlegi **Közösségi Esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[sot_article_url]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
-  "content.Miscellaneous_Event_Reminder_Description": "A jelenlegi **Játék esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[details_link]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Community_Event_Reminder_Description": "A jelenlegi **Közösségi Esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[sot_article_url]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "A jelenlegi **Játék esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[details_link]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.components.Change_Week_Button": "Hét módosítása",
   "scheduling.alerts.components.Completed_Button": "Teljesítve",
   "scheduling.alerts.components.Details_and_Connections_Button": "Részletek és kapcsolatok",

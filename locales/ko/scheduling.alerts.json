@@ -1,6 +1,6 @@
 {
-  "content.Community_Event_Reminder_Description": "**커뮤니티 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[sot_article_url]})를 완료하세요.",
-  "content.Miscellaneous_Event_Reminder_Description": "**게임 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[details_link]})를 완료하세요.",
+  "scheduling.alerts.content.Community_Event_Reminder_Description": "**커뮤니티 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[sot_article_url]})를 완료하세요.",
+  "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "**게임 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[details_link]})를 완료하세요.",
   "scheduling.alerts.components.Change_Week_Button": "주간 변경",
   "scheduling.alerts.components.Completed_Button": "완료함",
   "scheduling.alerts.components.Details_and_Connections_Button": "세부 사항 & 연결",

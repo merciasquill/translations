@@ -1,6 +1,6 @@
 {
-  "content.Community_Event_Reminder_Description": "The current **Community Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
-  "content.Miscellaneous_Event_Reminder_Description": "The current **Game Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Community_Event_Reminder_Description": "The current **Community Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "The current **Game Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.components.Change_Week_Button": "Change Week",
   "scheduling.alerts.components.Completed_Button": "Completed",
   "scheduling.alerts.components.Details_and_Connections_Button": "Details & Connections",

@@ -1,6 +1,6 @@
 {
-  "content.Community_Event_Reminder_Description": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
-  "content.Miscellaneous_Event_Reminder_Description": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Community_Event_Reminder_Description": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.components.Change_Week_Button": "Alterar Semana",
   "scheduling.alerts.components.Completed_Button": "Completado",
   "scheduling.alerts.components.Details_and_Connections_Button": "Detalhes & Conexões",

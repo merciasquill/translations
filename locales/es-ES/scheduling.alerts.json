@@ -1,6 +1,6 @@
 {
-  "content.Community_Event_Reminder_Description": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[sot_article_url]}) antes del <t:{[end_timestamp_s]}:f>.",
-  "content.Miscellaneous_Event_Reminder_Description": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[details_link]}) antes del <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Community_Event_Reminder_Description": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[sot_article_url]}) antes del <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[details_link]}) antes del <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.components.Change_Week_Button": "Cambiar Semana",
   "scheduling.alerts.components.Completed_Button": "Completado",
   "scheduling.alerts.components.Details_and_Connections_Button": "Enlaza tus cuentas",

@@ -1,6 +1,6 @@
 {
-  "content.Community_Event_Reminder_Description": "La **campagne d'événement communautaire** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[sot_article_url]}) avant le <t:{[end_timestamp_s]}:f>.",
-  "content.Miscellaneous_Event_Reminder_Description": "La **campagne d'événement de jeu** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[details_link]}) avant le <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Community_Event_Reminder_Description": "La **campagne d'événement communautaire** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[sot_article_url]}) avant le <t:{[end_timestamp_s]}:f>.",
+  "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "La **campagne d'événement de jeu** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[details_link]}) avant le <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.components.Change_Week_Button": "Semaine de changement",
   "scheduling.alerts.components.Completed_Button": "Terminé",
   "scheduling.alerts.components.Details_and_Connections_Button": "Détails et Connexions",
