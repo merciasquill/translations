@@ -1,20 +1,4 @@
 {
-  "content.Community_Event_Reminder_Description": {
-    "en-GB": "The current **Community Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
-    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[sot_article_url]}) antes del <t:{[end_timestamp_s]}:f>.",
-    "fr": "La **campagne d'événement communautaire** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[sot_article_url]}) avant le <t:{[end_timestamp_s]}:f>.",
-    "hu": "A jelenlegi **Közösségi Esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[sot_article_url]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
-    "ko": "**커뮤니티 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[sot_article_url]})를 완료하세요.",
-    "pt-BR": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>."
-  },
-  "content.Miscellaneous_Event_Reminder_Description": {
-    "en-GB": "The current **Game Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
-    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[details_link]}) antes del <t:{[end_timestamp_s]}:f>.",
-    "fr": "La **campagne d'événement de jeu** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[details_link]}) avant le <t:{[end_timestamp_s]}:f>.",
-    "hu": "A jelenlegi **Játék esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[details_link]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
-    "ko": "**게임 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[details_link]})를 완료하세요.",
-    "pt-BR": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[details_link]}) before <t:{[end_timestamp_s]}:f>."
-  },
   "components.Change_Week_Button": {
     "en-GB": "Change Week",
     "es-ES": "Cambiar Semana",
@@ -119,6 +103,17 @@
     "ko": "탱커드를 들고 커뮤니티 축제를 준비하세요! 골드, 평판, 명성 등 [더 많은]({[sot_article_url]}) 혜택을 즐기세요!",
     "pt-BR": "Levantem suas canecas e se preparem pra mais uma celebração da comunidade! Aproveite o boost em ouro, reputação, renome e [mais]({[sot_article_url]})!"
   },
+  "content.Community_Event_Reminder_Description": {
+    "en-GB": "The current **Community Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
+    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[sot_article_url]}) antes del <t:{[end_timestamp_s]}:f>.",
+    "fr": "La **campagne d'événement communautaire** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[sot_article_url]}) avant le <t:{[end_timestamp_s]}:f>.",
+    "hu": "A jelenlegi **Közösségi Esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[sot_article_url]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
+    "ko": "**커뮤니티 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[sot_article_url]})를 완료하세요.",
+    "pt-BR": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>."
+  },
+  "content.Ghoul_and_Glory_Main_Description": {
+    "en-GB": "Summon your crew and raise the skeletons — a spooky new Ghoul & Glory Weekend has begun! You'll gain boosted reputation, gold, renown, and allegiance for all your dark deeds!"
+  },
   "content.Gold_Rush_Main_Description": {
     "en-GB": "Gold Rush is now active until <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! All loot cashed in will enjoy a 1.5x multiplier — so grab that gold!",
     "es-ES": "¡La Fiebre del Oro estará activa hasta las <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! Todo el botín que entreguéis tendrá un multiplicador de 1.5x, ¡a por el oro!",
@@ -150,6 +145,14 @@
     "hu": "A jelenlegi **Insider hét** véget ér <t:{[end_timestamp_s]}:R>! Győződj meg róla, hogy elég reputationt szerzel ez előtt <t:{[end_timestamp_s]}:F>.",
     "ko": "**인사이더 주간**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:F> 전까지 목표를 완료하세요.",
     "pt-BR": "A **Semana de Insider** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de ganhar reputação suficiente antes de <t:{[end_timestamp_s]}:F>."
+  },
+  "content.Miscellaneous_Event_Reminder_Description": {
+    "en-GB": "The current **Game Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
+    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[details_link]}) antes del <t:{[end_timestamp_s]}:f>.",
+    "fr": "La **campagne d'événement de jeu** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[details_link]}) avant le <t:{[end_timestamp_s]}:f>.",
+    "hu": "A jelenlegi **Játék esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[details_link]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
+    "ko": "**게임 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[details_link]})를 완료하세요.",
+    "pt-BR": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[details_link]}) before <t:{[end_timestamp_s]}:f>."
   },
   "content.Partner_Cosmetic_Main_Description": {
     "en-GB": "{[partner_name]} is hosting a {[availability_name]} for the exclusive {[reward_items]}! You can view more details by checking out their [channel]({[partner_page]}).",
@@ -252,6 +255,15 @@
     "es-ES": "Temporada {[season_number]}",
     "ko": "시즌 {[season_number]}",
     "pt-BR": "Temporada {[season_number]}"
+  },
+  "meta.Ghoul_and_Glory_Alt_Name": {
+    "en-GB": "Ghoul & Glory"
+  },
+  "meta.Ghoul_and_Glory_Main_Name": {
+    "en-GB": "Ghoul & Glory"
+  },
+  "meta.Ghoul_and_Glory_Subtitle": {
+    "en-GB": "Ghoul & Glory"
   },
   "meta.Gold_Rush_Alt_Name": {
     "en-GB": "Daily Gold Rush Cycle",
