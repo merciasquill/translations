@@ -1,0 +1,18 @@
+{
+  "scheduling.alerts.short.Any_Twitch_Drop_Host": "bármelyik Sea of Thieves streamer",
+  "scheduling.alerts.short.Community_Invite_Text": "Közösségi meghívó",
+  "scheduling.alerts.short.Custom_Twitch_Drop_Host": "{[custom_username]}",
+  "scheduling.alerts.short.General_Competition_Availability": "verseny",
+  "scheduling.alerts.short.Giveaway_Availability": "nyereményjáték",
+  "scheduling.alerts.short.Host_Text": "Házigazda",
+  "scheduling.alerts.short.Insider_Estimated_Finish": "Becsült befejezés",
+  "scheduling.alerts.short.Insider_Refreshes": "Frissít",
+  "scheduling.alerts.short.Insider_Upcoming_Week": "Következő hét {{week}}",
+  "scheduling.alerts.short.Official_Twitch_Drop_Host": "a hivatalos Sea of Thieves csatorna",
+  "scheduling.alerts.short.Partner_Twitch_Drop_Host": "bármelyik Sea of Thieves partner",
+  "scheduling.alerts.short.PvP_Competition_Availability": "PvP verseny",
+  "scheduling.alerts.short.Riddle_Competition_Availability": "rejtvény verseny",
+  "scheduling.alerts.short.Screenshot_Competition_Availability": "screenshot verseny",
+  "scheduling.alerts.short.Time_Conjunction": " és ",
+  "scheduling.alerts.short.Twitch_Inventory_Text": "Twitch Drop raktár"
+}
