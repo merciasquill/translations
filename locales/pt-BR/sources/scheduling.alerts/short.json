@@ -1,0 +1,18 @@
+{
+  "scheduling.alerts.short.Any_Twitch_Drop_Host": "qualquer streamer de Sea of Thieves",
+  "scheduling.alerts.short.Community_Invite_Text": "Convite da Comunidade",
+  "scheduling.alerts.short.Custom_Twitch_Drop_Host": "{[custom_username]}",
+  "scheduling.alerts.short.General_Competition_Availability": "competição",
+  "scheduling.alerts.short.Giveaway_Availability": "Sorteio",
+  "scheduling.alerts.short.Host_Text": "Host",
+  "scheduling.alerts.short.Insider_Estimated_Finish": "Final Estimado",
+  "scheduling.alerts.short.Insider_Refreshes": "Atualiza",
+  "scheduling.alerts.short.Insider_Upcoming_Week": "Na semana que vem {{week}}",
+  "scheduling.alerts.short.Official_Twitch_Drop_Host": "o Canal Oficial do Sea of Thieves",
+  "scheduling.alerts.short.Partner_Twitch_Drop_Host": "qualquer Parceiro do Sea of Thieves",
+  "scheduling.alerts.short.PvP_Competition_Availability": "torneio PvP",
+  "scheduling.alerts.short.Riddle_Competition_Availability": "torneio de enigmas",
+  "scheduling.alerts.short.Screenshot_Competition_Availability": "concurso de fotos",
+  "scheduling.alerts.short.Time_Conjunction": " e ",
+  "scheduling.alerts.short.Twitch_Inventory_Text": "Inventário da Twitch Drops"
+}

@@ -1,0 +1,18 @@
+{
+  "scheduling.alerts.short.Any_Twitch_Drop_Host": "참여 중인 씨 오브 시브즈 스트리머",
+  "scheduling.alerts.short.Community_Invite_Text": "커뮤니티 초대",
+  "scheduling.alerts.short.Custom_Twitch_Drop_Host": "{[custom_username]}",
+  "scheduling.alerts.short.General_Competition_Availability": "대회",
+  "scheduling.alerts.short.Giveaway_Availability": "경품",
+  "scheduling.alerts.short.Host_Text": "주최자",
+  "scheduling.alerts.short.Insider_Estimated_Finish": "예상 종료일",
+  "scheduling.alerts.short.Insider_Refreshes": "새로고침",
+  "scheduling.alerts.short.Insider_Upcoming_Week": "다가오는 {{week}}주차",
+  "scheduling.alerts.short.Official_Twitch_Drop_Host": "씨 오브 시브즈 공식 채널",
+  "scheduling.alerts.short.Partner_Twitch_Drop_Host": "참여 중인 씨 오브 시브즈 파트너",
+  "scheduling.alerts.short.PvP_Competition_Availability": "PvP 대회",
+  "scheduling.alerts.short.Riddle_Competition_Availability": "수수께끼 대회",
+  "scheduling.alerts.short.Screenshot_Competition_Availability": "스크린샷 대회",
+  "scheduling.alerts.short.Time_Conjunction": " ",
+  "scheduling.alerts.short.Twitch_Inventory_Text": "트위치 드롭스 인벤토리"
+}
