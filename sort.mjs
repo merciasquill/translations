@@ -2,20 +2,23 @@ import { readdirSync, readFileSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
-const sourceFiles = readdirSync("./sources");
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-for (const source of sourceFiles) {
-  const sourcePath = join(__dirname, "sources", source);
-    const importedData = JSON.parse(readFileSync(sourcePath, "utf8"));
+const sourceDirectories = readdirSync(join(__dirname, "sources"));
 
+for (const directory of sourceDirectories) {
+  const sourceFiles = readdirSync(join(__dirname, "sources", directory));
 
-  const sortedData = {};
+  for (const file of sourceFiles) {
+    const filePath = join(__dirname, "sources", directory, file);
+    const importedData = JSON.parse(readFileSync(filePath, "utf8"));
 
-  const keys = Object.keys(importedData).sort();
-  for (const key of keys) sortedData[key] = importedData[key];
- 
-  writeFileSync(`./sources/${source}`, JSON.stringify(sortedData, null, 2));
+    const sortedData = {};
+
+    const keys = Object.keys(importedData).sort();
+    for (const key of keys) sortedData[key] = importedData[key];
+
+    writeFileSync(`./sources/${directory}/${file}`, JSON.stringify(sortedData, null, 2));
+  }
 }
