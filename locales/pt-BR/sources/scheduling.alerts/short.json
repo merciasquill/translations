@@ -10,9 +10,13 @@
   "scheduling.alerts.short.Insider_Upcoming_Week": "Na semana que vem {{week}}",
   "scheduling.alerts.short.Official_Twitch_Drop_Host": "o Canal Oficial do Sea of Thieves",
   "scheduling.alerts.short.Partner_Twitch_Drop_Host": "qualquer Parceiro do Sea of Thieves",
+  "scheduling.alerts.short.Post": "Post",
   "scheduling.alerts.short.PvP_Competition_Availability": "torneio PvP",
+  "scheduling.alerts.short.Reply": "Reply",
+  "scheduling.alerts.short.Repost": "Repost",
   "scheduling.alerts.short.Riddle_Competition_Availability": "torneio de enigmas",
   "scheduling.alerts.short.Screenshot_Competition_Availability": "concurso de fotos",
+  "scheduling.alerts.short.Thread": "Thread",
   "scheduling.alerts.short.Time_Conjunction": " e ",
   "scheduling.alerts.short.Twitch_Inventory_Text": "Inventário da Twitch Drops"
 }
