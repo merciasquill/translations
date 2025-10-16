@@ -1,4 +1,7 @@
 {
+  "scheduling.alerts.components.All_Entries_Button": "All Entries",
+  "scheduling.alerts.components.Author_Feed": "Author Feed",
+  "scheduling.alerts.components.Category_Feed_Button": "View Full {[locale_specific-Category_Feed]}",
   "scheduling.alerts.components.Change_Week_Button": "Change Week",
   "scheduling.alerts.components.Completed_Button": "Completed",
   "scheduling.alerts.components.Details_and_Connections_Button": "Details & Connections",
@@ -7,5 +10,11 @@
   "scheduling.alerts.components.Details_and_Tips_Button": "Details & Tips",
   "scheduling.alerts.components.Forum_Thread_Button": "Forum Thread",
   "scheduling.alerts.components.History_Button": "History",
-  "scheduling.alerts.components.Theme_Announcement_Button": "Theme Announcement"
+  "scheduling.alerts.components.Subreddit_Feed_Button": "Subreddit Feed",
+  "scheduling.alerts.components.Theme_Announcement_Button": "Theme Announcement",
+  "scheduling.alerts.components.View_Full_Dynamic_Post_Button": "View Full {[locale_specific-Post_Type]}",
+  "scheduling.alerts.components.View_Full_Post_Button": "View Full Post",
+  "scheduling.alerts.components.Visit_Full_Thread_Button": "Visit Full Thread",
+  "scheduling.alerts.components.Watch_Full_Video_Button": "Watch Full Video",
+  "scheduling.alerts.components.YouTube_Channel_Button": "Youtube Channel"
 }
