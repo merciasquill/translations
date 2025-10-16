@@ -1,6 +1,6 @@
 {
   "scheduling.alerts.components.All_Entries_Button": "All Entries",
-  "scheduling.alerts.components.Author_Feed": "Author Feed",
+  "scheduling.alerts.components.Author_Feed_Button": "Author Feed",
   "scheduling.alerts.components.Category_Feed_Button": "View Full {[locale_specific-Category_Feed]}",
   "scheduling.alerts.components.Change_Week_Button": "Hét módosítása",
   "scheduling.alerts.components.Completed_Button": "Teljesítve",
