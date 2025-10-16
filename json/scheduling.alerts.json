@@ -6,7 +6,7 @@
     "en-GB": "Author Feed"
   },
   "components.Category_Feed_Button": {
-    "en-GB": "View Full {[locale_specific-Category_Feed]}"
+    "en-GB": "Category Feed"
   },
   "components.Change_Week_Button": {
     "en-GB": "Change Week",
