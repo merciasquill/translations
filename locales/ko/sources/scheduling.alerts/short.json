@@ -10,9 +10,13 @@
   "scheduling.alerts.short.Insider_Upcoming_Week": "다가오는 {{week}}주차",
   "scheduling.alerts.short.Official_Twitch_Drop_Host": "씨 오브 시브즈 공식 채널",
   "scheduling.alerts.short.Partner_Twitch_Drop_Host": "참여 중인 씨 오브 시브즈 파트너",
+  "scheduling.alerts.short.Post": "Post",
   "scheduling.alerts.short.PvP_Competition_Availability": "PvP 대회",
+  "scheduling.alerts.short.Reply": "Reply",
+  "scheduling.alerts.short.Repost": "Repost",
   "scheduling.alerts.short.Riddle_Competition_Availability": "수수께끼 대회",
   "scheduling.alerts.short.Screenshot_Competition_Availability": "스크린샷 대회",
+  "scheduling.alerts.short.Thread": "Thread",
   "scheduling.alerts.short.Time_Conjunction": " ",
   "scheduling.alerts.short.Twitch_Inventory_Text": "트위치 드롭스 인벤토리"
 }
