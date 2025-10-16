@@ -1,4 +1,13 @@
 {
+  "components.All_Entries_Button": {
+    "en-GB": "All Entries"
+  },
+  "components.Author_Feed": {
+    "en-GB": "Author Feed"
+  },
+  "components.Category_Feed_Button": {
+    "en-GB": "View Full {[locale_specific-Category_Feed]}"
+  },
   "components.Change_Week_Button": {
     "en-GB": "Change Week",
     "es-ES": "Cambiar Semana",
@@ -63,6 +72,9 @@
     "ko": "보상 내역",
     "pt-BR": "Histórico"
   },
+  "components.Subreddit_Feed_Button": {
+    "en-GB": "Subreddit Feed"
+  },
   "components.Theme_Announcement_Button": {
     "en-GB": "Theme Announcement",
     "es-ES": "Anuncio del tema",
@@ -70,6 +82,21 @@
     "hu": "Téma bejelentés",
     "ko": "테마 발표",
     "pt-BR": "Anúncio de Tema"
+  },
+  "components.View_Full_Dynamic_Post_Button": {
+    "en-GB": "View Full {[locale_specific-Post_Type]}"
+  },
+  "components.View_Full_Post_Button": {
+    "en-GB": "View Full Post"
+  },
+  "components.Visit_Full_Thread_Button": {
+    "en-GB": "Visit Full Thread"
+  },
+  "components.Watch_Full_Video_Button": {
+    "en-GB": "Watch Full Video"
+  },
+  "components.YouTube_Channel_Button": {
+    "en-GB": "Youtube Channel"
   },
   "content.Affiliate_Cosmetic_Main_Description": {
     "en-GB": "{[community_name]} is hosting a {[availability_name]} for the coveted **{[reward_items]}**! You can view more details by [joining]({[community_invite]}) their community.",
@@ -439,6 +466,9 @@
     "ko": "참여 중인 씨 오브 시브즈 파트너",
     "pt-BR": "qualquer Parceiro do Sea of Thieves"
   },
+  "short.Post": {
+    "en-GB": "Post"
+  },
   "short.PvP_Competition_Availability": {
     "en-GB": "PvP competition",
     "es-ES": "concurso de PVP",
@@ -446,6 +476,12 @@
     "hu": "PvP verseny",
     "ko": "PvP 대회",
     "pt-BR": "torneio PvP"
+  },
+  "short.Reply": {
+    "en-GB": "Reply"
+  },
+  "short.Repost": {
+    "en-GB": "Repost"
   },
   "short.Riddle_Competition_Availability": {
     "en-GB": "riddle competition",
@@ -462,6 +498,9 @@
     "hu": "screenshot verseny",
     "ko": "스크린샷 대회",
     "pt-BR": "concurso de fotos"
+  },
+  "short.Thread": {
+    "en-GB": "Thread"
   },
   "short.Time_Conjunction": {
     "en-GB": " and ",
