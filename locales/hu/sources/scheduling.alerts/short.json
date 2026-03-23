@@ -10,9 +10,13 @@
   "scheduling.alerts.short.Insider_Upcoming_Week": "Következő hét {{week}}",
   "scheduling.alerts.short.Official_Twitch_Drop_Host": "a hivatalos Sea of Thieves csatorna",
   "scheduling.alerts.short.Partner_Twitch_Drop_Host": "bármelyik Sea of Thieves partner",
+  "scheduling.alerts.short.Post": "Post",
   "scheduling.alerts.short.PvP_Competition_Availability": "PvP verseny",
+  "scheduling.alerts.short.Reply": "Reply",
+  "scheduling.alerts.short.Repost": "Repost",
   "scheduling.alerts.short.Riddle_Competition_Availability": "rejtvény verseny",
   "scheduling.alerts.short.Screenshot_Competition_Availability": "screenshot verseny",
+  "scheduling.alerts.short.Thread": "Thread",
   "scheduling.alerts.short.Time_Conjunction": " és ",
   "scheduling.alerts.short.Twitch_Inventory_Text": "Twitch Drop raktár"
 }
