@@ -1,0 +1,10 @@
+{
+  "commands.global.fun.Cast_Description": "A cute rng-based fishing mini-game",
+  "commands.global.fun.Cast_Leaderboard_Subcommand_Description": "View the top of the cast mini-game leaderboards",
+  "commands.global.fun.Cast_Leaderboard_Subcommand_Name": "leaderboard",
+  "commands.global.fun.Cast_Name": "cast",
+  "commands.global.fun.Cast_Play_Description": "Cast out to the sea and try your luck in this fishing mini-game",
+  "commands.global.fun.Cast_Play_Subcommand_Name": "play",
+  "commands.global.fun.Compass_Description": "Spin the Compass of Chaos for inspiration on your next adventure",
+  "commands.global.fun.Compass_Name": "compass"
+}
