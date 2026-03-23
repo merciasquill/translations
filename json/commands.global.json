@@ -1,8 +1,227 @@
 {
-  "base.ping.description": {
+  "base.Credits_Description": {
+    "en-GB": "View the people who have contributed to Mercia's Quill"
+  },
+  "base.Credits_Name": {
+    "en-GB": "credits"
+  },
+  "base.Invite_Description": {
+    "en-GB": "Invite Mercia's Quill to your own servers"
+  },
+  "base.Invite_Name": {
+    "en-GB": "invite"
+  },
+  "base.Legal_Description": {
+    "en-GB": "View Mercia's Quill's Privacy Policy and Terms of Use"
+  },
+  "base.Legal_Name": {
+    "en-GB": "legal"
+  },
+  "base.Ping_Description": {
     "en-GB": "Test the bot's service and latency"
   },
-  "base.ping.name": {
+  "base.Ping_Name": {
     "en-GB": "ping"
+  },
+  "context.Player_Information_Name": {
+    "en-GB": "Player Information"
+  },
+  "fun.Cast_Description": {
+    "en-GB": "A cute rng-based fishing mini-game"
+  },
+  "fun.Cast_Leaderboard_Subcommand_Description": {
+    "en-GB": "View the top of the cast mini-game leaderboards"
+  },
+  "fun.Cast_Leaderboard_Subcommand_Name": {
+    "en-GB": "leaderboard"
+  },
+  "fun.Cast_Name": {
+    "en-GB": "cast"
+  },
+  "fun.Cast_Play_Description": {
+    "en-GB": "Cast out to the sea and try your luck in this fishing mini-game"
+  },
+  "fun.Cast_Play_Subcommand_Name": {
+    "en-GB": "play"
+  },
+  "fun.Compass_Description": {
+    "en-GB": "Spin the Compass of Chaos for inspiration on your next adventure"
+  },
+  "fun.Compass_Name": {
+    "en-GB": "compass"
+  },
+  "game.Calendar_Description": {
+    "en-GB": "View upcoming events from Taaamas' monthly calendar"
+  },
+  "game.Calendar_Name": {
+    "en-GB": "calendar"
+  },
+  "game.Gold_Rush_Description": {
+    "en-GB": "View the current in-game Gold Rush cycle"
+  },
+  "game.Gold_Rush_Name": {
+    "en-GB": "gold_rush"
+  },
+  "game.Support_Description": {
+    "en-GB": "Receive help for in-game related issues"
+  },
+  "game.Support_Name": {
+    "en-GB": "support"
+  },
+  "game.Support_Request_3rd_Party_Issue_Choice_Name": {
+    "en-GB": "Website / Forum Issue / Twitch Drops"
+  },
+  "game.Support_Request_Bug_Report_Choice_Name": {
+    "en-GB": "Bug Report"
+  },
+  "game.Support_Request_General_Enquiry_Choice_Name": {
+    "en-GB": "General Enquiry"
+  },
+  "game.Support_Request_Option_Description": {
+    "en-GB": "Create a support ticket with Sea of Thieves' team"
+  },
+  "game.Support_Request_Option_Name": {
+    "en-GB": "request"
+  },
+  "game.Support_Request_Paid_Content_Issue_Choice_Name": {
+    "en-GB": "Store / Ancient Coins / Paid Content"
+  },
+  "game.Support_Request_Player_Report_Choice_Name": {
+    "en-GB": "Player Report"
+  },
+  "game.Support_Request_Progression_Issue_Choice_Name": {
+    "en-GB": "Game Issues / Rewards / Commendations"
+  },
+  "game.Support_Request_Suspension_Enquiry_Choice_Name": {
+    "en-GB": "Suspension Enquiry"
+  },
+  "game.Support_Request_Technical_Issue_Choice_Name": {
+    "en-GB": "Technical Issue / Beard Error"
+  },
+  "game.Support_Search_Option_Description": {
+    "en-GB": "Search for a Sea of Thieves support article"
+  },
+  "game.Support_Search_Option_Name": {
+    "en-GB": "search"
+  },
+  "game.Weather_Description": {
+    "en-GB": "View the current position of the storm in-game"
+  },
+  "game.Weather_Name": {
+    "en-GB": "weather"
+  },
+  "globals.Ephemeral_Description": {
+    "en-GB": "Run this command as a hidden message"
+  },
+  "globals.Ephemeral_Name": {
+    "en-GB": "ephemeral"
+  },
+  "utility.Help_Description": {
+    "en-GB": "Receive help from Mercia's Quill's support server"
+  },
+  "utility.Help_Name": {
+    "en-GB": "help"
+  },
+  "utility.Setup_Description": {
+    "en-GB": "Configure Mercia's Quill's active features and modules"
+  },
+  "utility.Setup_Feature_Gamertag_Nicknames_Subcommand_Description": {
+    "en-GB": "Configure automatic nickname changes into gamertags"
+  },
+  "utility.Setup_Feature_Gamertag_Nicknames_Subcommand_Name": {
+    "en-GB": "gamertag_nicknames"
+  },
+  "utility.Setup_Feature_Subcommand_Group_Name": {
+    "en-GB": "feature"
+  },
+  "utility.Setup_Feature_Wiki_GG_Lock_Subcommand_Description": {
+    "en-GB": "Configure automatic redirects to the wiki.gg domain"
+  },
+  "utility.Setup_Feature_Wiki_GG_Lock_Subcommand_Name": {
+    "en-GB": "wiki_gg_lock"
+  },
+  "utility.Setup_Moderation_Alternate_Account_Gate_Subcommand_Description": {
+    "en-GB": "Setup a verification gate to monitor for alternate accounts"
+  },
+  "utility.Setup_Moderation_Alternate_Account_Gate_Subcommand_Name": {
+    "en-GB": "alt_account_gate"
+  },
+  "utility.Setup_Moderation_Subcommand_Group_Name": {
+    "en-GB": "moderation"
+  },
+  "utility.Setup_Name": {
+    "en-GB": "setup"
+  },
+  "utility.Setup_Utility_Alert_Description": {
+    "en-GB": "Setup core event alerts for Sea of Thieves"
+  },
+  "utility.Setup_Utility_Alert_Subcommand_Name": {
+    "en-GB": "alert"
+  },
+  "utility.Setup_Utility_Feed_Description": {
+    "en-GB": "Setup social media feeds from official channels"
+  },
+  "utility.Setup_Utility_Feed_Subcommand_Name": {
+    "en-GB": "feed"
+  },
+  "utility.Setup_Utility_Subcommand_Group_Name": {
+    "en-GB": "utility"
+  },
+  "utility.Setup_Utility_Thread_Description": {
+    "en-GB": "Setup thread-type feeds from official forums"
+  },
+  "utility.Setup_Utility_Thread_Subcommand_Name": {
+    "en-GB": "thread"
+  },
+  "utility.Subscribe_Game_Events_Subcommand_Description": {
+    "en-GB": "Subscribe to game event reminder direct messages"
+  },
+  "utility.Subscribe_Game_Events_Subcommand_Name": {
+    "en-GB": "game_events"
+  },
+  "utility.Subscribe_Insider_Rewards_Subcommand_Description": {
+    "en-GB": "Subscribe to insider week reward reminder direct messages"
+  },
+  "utility.Subscribe_Insider_Rewards_Subcommand_Name": {
+    "en-GB": "insider_rewards"
+  },
+  "utility.Subscribe_Name": {
+    "en-GB": "Configure Mercia;s Quill's active direct message modules"
+  },
+  "utility.Subscribe_Twitch_Drops_Subcommand_Description": {
+    "en-GB": "Subscribe to Twitch Drop reminder direct messages"
+  },
+  "utility.Subscribe_Twitch_Drops_Subcommand_Name": {
+    "en-GB": "twitch_drops"
+  },
+  "utility.Wiki_Commendation_Option_Description": {
+    "en-GB": "Query for a specifically named commendation name"
+  },
+  "utility.Wiki_Commendation_Option_Name": {
+    "en-GB": "commendation"
+  },
+  "utility.Wiki_Description": {
+    "en-GB": "Query the official Sea of Thieves wiki"
+  },
+  "utility.Wiki_Name": {
+    "en-GB": "wiki"
+  },
+  "utility.Wiki_Page_Option_Description": {
+    "en-GB": "Query for a specifically named wiki page"
+  },
+  "utility.Wiki_Page_Option_Name": {
+    "en-GB": "page"
+  },
+  "utility.Wiki_Search_Option_Description": {
+    "en-GB": "Query for a partial text match from the wiki"
+  },
+  "utility.Wiki_Search_Option_Name": {
+    "en-GB": "search"
+  },
+  "utility.Wiki_Title_Option_Description": {
+    "en-GB": "Query for a specifically named title name"
+  },
+  "utility.Wiki_Title_Option_Name": {
+    "en-GB": "title"
   }
 }
