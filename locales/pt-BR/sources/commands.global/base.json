@@ -1,0 +1,4 @@
+{
+  "commands.global.base.ping.description": "Test the bot's service and latency",
+  "commands.global.base.ping.name": "ping"
+}
