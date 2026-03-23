@@ -1,0 +1,8 @@
+{
+  "base.ping.description": {
+    "en-GB": "Test the bot's service and latency"
+  },
+  "base.ping.name": {
+    "en-GB": "ping"
+  }
+}
