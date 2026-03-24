@@ -1,6 +1,4 @@
 {
-  "commands.global.game.Calendar_Archive_Option_Description": "Select a past archived calendar",
-  "commands.global.game.Calendar_Archive_Option_Name": "archive",
   "commands.global.game.Calendar_Description": "View upcoming events from Taaamas' monthly calendar",
   "commands.global.game.Calendar_Name": "calendar",
   "commands.global.game.Gold_Rush_Description": "View the current in-game Gold Rush cycle",
