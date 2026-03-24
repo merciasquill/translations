@@ -25,9 +25,6 @@
   "base.Ping_Name": {
     "en-GB": "ping"
   },
-  "context.Player_Information_Name": {
-    "en-GB": "Player Information"
-  },
   "fun.Cast_Description": {
     "en-GB": "A cute rng-based fishing mini-game"
   },
