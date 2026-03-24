@@ -1,4 +1,4 @@
 {
-  "commands.global.globals.Ephemeral_Option_Description": "Run this command as a hidden message",
-  "commands.global.globals.Ephemeral_Option_Name": "ephemeral"
+  "commands.global.globals.Ephemeral_Description": "Run this command as a hidden message",
+  "commands.global.globals.Ephemeral_Name": "ephemeral"
 }
