@@ -2,8 +2,12 @@
   "commands.global.fun.Cast_Description": "A cute rng-based fishing mini-game",
   "commands.global.fun.Cast_Leaderboard_Subcommand_Description": "View the top of the cast mini-game leaderboards",
   "commands.global.fun.Cast_Leaderboard_Subcommand_Name": "leaderboard",
+  "commands.global.fun.Cast_Leaderboard_Timeframe_All_Time_Choice_Name": "All-Time",
+  "commands.global.fun.Cast_Leaderboard_Timeframe_Monthly_Choice_Name": "Monthly",
+  "commands.global.fun.Cast_Leaderboard_Timeframe_Option_Description": "Set the timeframe to filter the leaderboard by",
+  "commands.global.fun.Cast_Leaderboard_Timeframe_Option_Name": "timeframe",
   "commands.global.fun.Cast_Name": "cast",
-  "commands.global.fun.Cast_Play_Description": "Cast out to the sea and try your luck in this fishing mini-game",
+  "commands.global.fun.Cast_Play_Subcommand_Description": "Cast out to the sea and try your luck in this fishing mini-game",
   "commands.global.fun.Cast_Play_Subcommand_Name": "play",
   "commands.global.fun.Compass_Description": "Spin the Compass of Chaos for inspiration on your next adventure",
   "commands.global.fun.Compass_Name": "compass"
