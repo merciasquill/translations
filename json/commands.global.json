@@ -1,9 +1,11 @@
 {
   "base.Credits_Description": {
-    "en-GB": "View the people who have contributed to Mercia's Quill"
+    "en-GB": "View the people who have contributed to Mercia's Quill",
+    "pt-BR": "Visualizar contribuintes do Mercia's Quill"
   },
   "base.Credits_Name": {
-    "en-GB": "credits"
+    "en-GB": "credits",
+    "pt-BR": "créditos"
   },
   "base.Invite_Description": {
     "en-GB": "Invite Mercia's Quill to your own servers"
@@ -35,10 +37,22 @@
   "fun.Cast_Leaderboard_Subcommand_Name": {
     "en-GB": "leaderboard"
   },
+  "fun.Cast_Leaderboard_Timeframe_All_Time_Choice_Name": {
+    "en-GB": "All-Time"
+  },
+  "fun.Cast_Leaderboard_Timeframe_Monthly_Choice_Name": {
+    "en-GB": "Monthly"
+  },
+  "fun.Cast_Leaderboard_Timeframe_Option_Description": {
+    "en-GB": "Set the timeframe to filter the leaderboard by"
+  },
+  "fun.Cast_Leaderboard_Timeframe_Option_Name": {
+    "en-GB": "timeframe"
+  },
   "fun.Cast_Name": {
     "en-GB": "cast"
   },
-  "fun.Cast_Play_Description": {
+  "fun.Cast_Play_Subcommand_Description": {
     "en-GB": "Cast out to the sea and try your luck in this fishing mini-game"
   },
   "fun.Cast_Play_Subcommand_Name": {
@@ -49,6 +63,12 @@
   },
   "fun.Compass_Name": {
     "en-GB": "compass"
+  },
+  "game.Calendar_Archive_Option_Description": {
+    "en-GB": "Select a past archived calendar"
+  },
+  "game.Calendar_Archive_Option_Name": {
+    "en-GB": "archive"
   },
   "game.Calendar_Description": {
     "en-GB": "View upcoming events from Taaamas' monthly calendar"
@@ -75,7 +95,8 @@
     "en-GB": "Bug Report"
   },
   "game.Support_Request_General_Enquiry_Choice_Name": {
-    "en-GB": "General Enquiry"
+    "en-GB": "General Enquiry",
+    "en-US": "General Inquiry"
   },
   "game.Support_Request_Option_Description": {
     "en-GB": "Create a support ticket with Sea of Thieves' team"
@@ -93,7 +114,8 @@
     "en-GB": "Game Issues / Rewards / Commendations"
   },
   "game.Support_Request_Suspension_Enquiry_Choice_Name": {
-    "en-GB": "Suspension Enquiry"
+    "en-GB": "Suspension Enquiry",
+    "en-US": "Suspension Inquiry"
   },
   "game.Support_Request_Technical_Issue_Choice_Name": {
     "en-GB": "Technical Issue / Beard Error"
@@ -110,10 +132,10 @@
   "game.Weather_Name": {
     "en-GB": "weather"
   },
-  "globals.Ephemeral_Description": {
+  "globals.Ephemeral_Option_Description": {
     "en-GB": "Run this command as a hidden message"
   },
-  "globals.Ephemeral_Name": {
+  "globals.Ephemeral_Option_Name": {
     "en-GB": "ephemeral"
   },
   "utility.Help_Description": {
@@ -125,26 +147,26 @@
   "utility.Setup_Description": {
     "en-GB": "Configure Mercia's Quill's active features and modules"
   },
-  "utility.Setup_Feature_Gamertag_Nicknames_Subcommand_Description": {
-    "en-GB": "Configure automatic nickname changes into gamertags"
-  },
-  "utility.Setup_Feature_Gamertag_Nicknames_Subcommand_Name": {
-    "en-GB": "gamertag_nicknames"
-  },
   "utility.Setup_Feature_Subcommand_Group_Name": {
     "en-GB": "feature"
   },
-  "utility.Setup_Feature_Wiki_GG_Lock_Subcommand_Description": {
+  "utility.Setup_Feature_WikiGG_Lock_Subcommand_Description": {
     "en-GB": "Configure automatic redirects to the wiki.gg domain"
   },
-  "utility.Setup_Feature_Wiki_GG_Lock_Subcommand_Name": {
-    "en-GB": "wiki_gg_lock"
+  "utility.Setup_Feature_WikiGG_Lock_Subcommand_Name": {
+    "en-GB": "wikigg_lock"
   },
-  "utility.Setup_Moderation_Alternate_Account_Gate_Subcommand_Description": {
+  "utility.Setup_Moderation_Alt_Account_Gate_Subcommand_Description": {
     "en-GB": "Setup a verification gate to monitor for alternate accounts"
   },
-  "utility.Setup_Moderation_Alternate_Account_Gate_Subcommand_Name": {
+  "utility.Setup_Moderation_Alt_Account_Gate_Subcommand_Name": {
     "en-GB": "alt_account_gate"
+  },
+  "utility.Setup_Moderation_Gamertag_Nicknames_Subcommand_Description": {
+    "en-GB": "Configure automatic nickname changes into gamertags"
+  },
+  "utility.Setup_Moderation_Gamertag_Nicknames_Subcommand_Name": {
+    "en-GB": "gamertag_nicknames"
   },
   "utility.Setup_Moderation_Subcommand_Group_Name": {
     "en-GB": "moderation"
@@ -152,13 +174,13 @@
   "utility.Setup_Name": {
     "en-GB": "setup"
   },
-  "utility.Setup_Utility_Alert_Description": {
+  "utility.Setup_Utility_Alert_Subcommand_Description": {
     "en-GB": "Setup core event alerts for Sea of Thieves"
   },
   "utility.Setup_Utility_Alert_Subcommand_Name": {
     "en-GB": "alert"
   },
-  "utility.Setup_Utility_Feed_Description": {
+  "utility.Setup_Utility_Feed_Subcommand_Description": {
     "en-GB": "Setup social media feeds from official channels"
   },
   "utility.Setup_Utility_Feed_Subcommand_Name": {
@@ -167,7 +189,7 @@
   "utility.Setup_Utility_Subcommand_Group_Name": {
     "en-GB": "utility"
   },
-  "utility.Setup_Utility_Thread_Description": {
+  "utility.Setup_Utility_Thread_Subcommand_Description": {
     "en-GB": "Setup thread-type feeds from official forums"
   },
   "utility.Setup_Utility_Thread_Subcommand_Name": {
