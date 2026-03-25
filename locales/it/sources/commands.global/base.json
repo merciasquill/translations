@@ -1,8 +1,8 @@
 {
   "commands.global.base.Credits_Description": "View the people who have contributed to Mercia's Quill",
-  "commands.global.base.Credits_Name": "credits",
+  "commands.global.base.Credits_Name": "crediti",
   "commands.global.base.Invite_Description": "Invite Mercia's Quill to your own servers",
-  "commands.global.base.Invite_Name": "invite",
+  "commands.global.base.Invite_Name": "invita",
   "commands.global.base.Legal_Description": "View Mercia's Quill's Privacy Policy and Terms of Use",
   "commands.global.base.Legal_Name": "legal",
   "commands.global.base.Ping_Description": "Test the bot's service and latency",
