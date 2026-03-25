@@ -33,7 +33,7 @@
   "commands.global.utility.Wiki_Page_Option_Description": "Query for a specifically named wiki page",
   "commands.global.utility.Wiki_Page_Option_Name": "oldal",
   "commands.global.utility.Wiki_Search_Option_Description": "Query for a partial text match from the wiki",
-  "commands.global.utility.Wiki_Search_Option_Name": "kereses",
+  "commands.global.utility.Wiki_Search_Option_Name": "search",
   "commands.global.utility.Wiki_Title_Option_Description": "Query for a specifically named title name",
   "commands.global.utility.Wiki_Title_Option_Name": "rang"
 }
