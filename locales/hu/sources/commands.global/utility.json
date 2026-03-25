@@ -18,6 +18,7 @@
   "commands.global.utility.Setup_Utility_Subcommand_Group_Name": "hasznalhatosag",
   "commands.global.utility.Setup_Utility_Thread_Subcommand_Description": "Setup thread-type feeds from official forums",
   "commands.global.utility.Setup_Utility_Thread_Subcommand_Name": "thread",
+  "commands.global.utility.Subscribe_Description": "Configure Mercia's Quill's active direct message modules",
   "commands.global.utility.Subscribe_Game_Events_Subcommand_Description": "Subscribe to game event reminder direct messages",
   "commands.global.utility.Subscribe_Game_Events_Subcommand_Name": "game_events",
   "commands.global.utility.Subscribe_Insider_Rewards_Subcommand_Description": "Subscribe to insider week reward reminder direct messages",
