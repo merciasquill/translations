@@ -5,13 +5,16 @@
   },
   "base.Credits_Name": {
     "en-GB": "credits",
+    "it": "crediti",
     "pt-BR": "créditos"
   },
   "base.Invite_Description": {
     "en-GB": "Invite Mercia's Quill to your own servers"
   },
   "base.Invite_Name": {
-    "en-GB": "invite"
+    "en-GB": "invite",
+    "hu": "meghivas",
+    "it": "invita"
   },
   "base.Legal_Description": {
     "en-GB": "View Mercia's Quill's Privacy Policy and Terms of Use"
@@ -24,6 +27,9 @@
   },
   "base.Ping_Name": {
     "en-GB": "ping"
+  },
+  "context.Player_Information_Name": {
+    "en-GB": "Player Information"
   },
   "fun.Cast_Description": {
     "en-GB": "A cute rng-based fishing mini-game"
@@ -53,7 +59,8 @@
     "en-GB": "Cast out to the sea and try your luck in this fishing mini-game"
   },
   "fun.Cast_Play_Subcommand_Name": {
-    "en-GB": "play"
+    "en-GB": "play",
+    "hu": "jatek"
   },
   "fun.Compass_Description": {
     "en-GB": "Spin the Compass of Chaos for inspiration on your next adventure"
@@ -65,13 +72,17 @@
     "en-GB": "Select a past archived calendar"
   },
   "game.Calendar_Archive_Option_Name": {
-    "en-GB": "archive"
+    "en-GB": "archive",
+    "hu": "archivum",
+    "it": "archivio"
   },
   "game.Calendar_Description": {
     "en-GB": "View upcoming events from Taaamas' monthly calendar"
   },
   "game.Calendar_Name": {
-    "en-GB": "calendar"
+    "en-GB": "calendar",
+    "hu": "naptar",
+    "it": "calendario"
   },
   "game.Gold_Rush_Description": {
     "en-GB": "View the current in-game Gold Rush cycle"
@@ -83,63 +94,80 @@
     "en-GB": "Receive help for in-game related issues"
   },
   "game.Support_Name": {
-    "en-GB": "support"
+    "en-GB": "support",
+    "hu": "tamogatas",
+    "it": "supporto"
   },
   "game.Support_Request_3rd_Party_Issue_Choice_Name": {
-    "en-GB": "Website / Forum Issue / Twitch Drops"
+    "en-GB": "Website / Forum Issue / Twitch Drops",
+    "it": "Problemi con il sito / con il forum / con i Twitch Drops"
   },
   "game.Support_Request_Bug_Report_Choice_Name": {
-    "en-GB": "Bug Report"
+    "en-GB": "Bug Report",
+    "it": "Segnalazione di bug"
   },
   "game.Support_Request_General_Enquiry_Choice_Name": {
     "en-GB": "General Enquiry",
-    "en-US": "General Inquiry"
+    "en-US": "General Inquiry",
+    "it": "Richiesta generale"
   },
   "game.Support_Request_Option_Description": {
     "en-GB": "Create a support ticket with Sea of Thieves' team"
   },
   "game.Support_Request_Option_Name": {
-    "en-GB": "request"
+    "en-GB": "request",
+    "it": "richiesta"
   },
   "game.Support_Request_Paid_Content_Issue_Choice_Name": {
-    "en-GB": "Store / Ancient Coins / Paid Content"
+    "en-GB": "Store / Ancient Coins / Paid Content",
+    "it": "Negozio / Monete Antiche / Contenuti a pagamento"
   },
   "game.Support_Request_Player_Report_Choice_Name": {
-    "en-GB": "Player Report"
+    "en-GB": "Player Report",
+    "it": "Segnalazione di giocatori"
   },
   "game.Support_Request_Progression_Issue_Choice_Name": {
-    "en-GB": "Game Issues / Rewards / Commendations"
+    "en-GB": "Game Issues / Rewards / Commendations",
+    "it": "Problemi in gioco / Premi / Obiettivi"
   },
   "game.Support_Request_Suspension_Enquiry_Choice_Name": {
     "en-GB": "Suspension Enquiry",
-    "en-US": "Suspension Inquiry"
+    "en-US": "Suspension Inquiry",
+    "it": "Richiesta di sospensione"
   },
   "game.Support_Request_Technical_Issue_Choice_Name": {
-    "en-GB": "Technical Issue / Beard Error"
+    "en-GB": "Technical Issue / Beard Error",
+    "it": "Errori tecnici / Errori Beard"
   },
   "game.Support_Search_Option_Description": {
     "en-GB": "Search for a Sea of Thieves support article"
   },
   "game.Support_Search_Option_Name": {
-    "en-GB": "search"
+    "en-GB": "search",
+    "it": "ricerca"
   },
   "game.Weather_Description": {
     "en-GB": "View the current position of the storm in-game"
   },
   "game.Weather_Name": {
-    "en-GB": "weather"
+    "en-GB": "weather",
+    "hu": "idojaras",
+    "it": "meteo"
   },
   "globals.Ephemeral_Option_Description": {
     "en-GB": "Run this command as a hidden message"
   },
   "globals.Ephemeral_Option_Name": {
-    "en-GB": "ephemeral"
+    "en-GB": "ephemeral",
+    "it": "nascosto"
   },
   "utility.Help_Description": {
     "en-GB": "Receive help from Mercia's Quill's support server"
   },
   "utility.Help_Name": {
-    "en-GB": "help"
+    "en-GB": "help",
+    "hu": "segitseg",
+    "it": "aiuto"
   },
   "utility.Setup_Description": {
     "en-GB": "Configure Mercia's Quill's active features and modules"
@@ -169,13 +197,19 @@
     "en-GB": "moderation"
   },
   "utility.Setup_Name": {
-    "en-GB": "setup"
+    "en-GB": "setup",
+    "es-ES": "configuracion",
+    "hu": "beallit",
+    "it": "configura"
   },
   "utility.Setup_Utility_Alert_Subcommand_Description": {
     "en-GB": "Setup core event alerts for Sea of Thieves"
   },
   "utility.Setup_Utility_Alert_Subcommand_Name": {
-    "en-GB": "alert"
+    "en-GB": "alert",
+    "es-ES": "alerta",
+    "hu": "felhivas",
+    "it": "notifiche"
   },
   "utility.Setup_Utility_Feed_Subcommand_Description": {
     "en-GB": "Setup social media feeds from official channels"
@@ -184,13 +218,17 @@
     "en-GB": "feed"
   },
   "utility.Setup_Utility_Subcommand_Group_Name": {
-    "en-GB": "utility"
+    "en-GB": "utility",
+    "hu": "hasznalhatosag"
   },
   "utility.Setup_Utility_Thread_Subcommand_Description": {
     "en-GB": "Setup thread-type feeds from official forums"
   },
   "utility.Setup_Utility_Thread_Subcommand_Name": {
     "en-GB": "thread"
+  },
+  "utility.Subscribe_Description": {
+    "en-GB": "Configure Mercia's Quill's active direct message modules"
   },
   "utility.Subscribe_Game_Events_Subcommand_Description": {
     "en-GB": "Subscribe to game event reminder direct messages"
@@ -205,7 +243,9 @@
     "en-GB": "insider_rewards"
   },
   "utility.Subscribe_Name": {
-    "en-GB": "Configure Mercia;s Quill's active direct message modules"
+    "en-GB": "subscribe",
+    "hu": "feliratkozas",
+    "it": "iscrivit"
   },
   "utility.Subscribe_Twitch_Drops_Subcommand_Description": {
     "en-GB": "Subscribe to Twitch Drop reminder direct messages"
@@ -217,7 +257,9 @@
     "en-GB": "Query for a specifically named commendation name"
   },
   "utility.Wiki_Commendation_Option_Name": {
-    "en-GB": "commendation"
+    "en-GB": "commendation",
+    "es-ES": "elogios",
+    "it": "obiettivi"
   },
   "utility.Wiki_Description": {
     "en-GB": "Query the official Sea of Thieves wiki"
@@ -229,18 +271,27 @@
     "en-GB": "Query for a specifically named wiki page"
   },
   "utility.Wiki_Page_Option_Name": {
-    "en-GB": "page"
+    "en-GB": "page",
+    "es-ES": "pagina",
+    "hu": "oldal",
+    "it": "pagina"
   },
   "utility.Wiki_Search_Option_Description": {
     "en-GB": "Query for a partial text match from the wiki"
   },
   "utility.Wiki_Search_Option_Name": {
-    "en-GB": "search"
+    "en-GB": "search",
+    "es-ES": "buscar",
+    "hu": "kereses",
+    "it": "cerca"
   },
   "utility.Wiki_Title_Option_Description": {
     "en-GB": "Query for a specifically named title name"
   },
   "utility.Wiki_Title_Option_Name": {
-    "en-GB": "title"
+    "en-GB": "title",
+    "es-ES": "titulo",
+    "hu": "rang",
+    "it": "titolo"
   }
 }
