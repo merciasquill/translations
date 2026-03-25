@@ -18,7 +18,7 @@
   "commands.global.game.Support_Request_Suspension_Enquiry_Choice_Name": "Suspension Enquiry",
   "commands.global.game.Support_Request_Technical_Issue_Choice_Name": "Technical Issue / Beard Error",
   "commands.global.game.Support_Search_Option_Description": "Search for a Sea of Thieves support article",
-  "commands.global.game.Support_Search_Option_Name": "search",
+  "commands.global.game.Support_Search_Option_Name": "keresés",
   "commands.global.game.Weather_Description": "View the current position of the storm in-game",
   "commands.global.game.Weather_Name": "idojaras"
 }
