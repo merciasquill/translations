@@ -1,0 +1,4 @@
+{
+  "bot.interface.errors.Missing_Interaction_Handler_Action": "The handler associated with this interaction could not be found. Please contact a developer for further assistance.",
+  "bot.interface.errors.Learn_More_Hyperlink": "learn more"
+}
