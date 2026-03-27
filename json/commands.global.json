@@ -116,19 +116,23 @@
   },
   "game.Support_Request_Option_Name": {
     "en-GB": "request",
-    "it": "richiesta"
+    "it": "richiesta",
+    "pt-BR": "pedido"
   },
   "game.Support_Request_Paid_Content_Issue_Choice_Name": {
     "en-GB": "Store / Ancient Coins / Paid Content",
-    "it": "Negozio / Monete Antiche / Contenuti a pagamento"
+    "it": "Negozio / Monete Antiche / Contenuti a pagamento",
+    "pt-BR": "Loja / Moedas Antigas / Conteúdo Pago"
   },
   "game.Support_Request_Player_Report_Choice_Name": {
     "en-GB": "Player Report",
-    "it": "Segnalazione di giocatori"
+    "it": "Segnalazione di giocatori",
+    "pt-BR": "Denúncia de Jogador"
   },
   "game.Support_Request_Progression_Issue_Choice_Name": {
     "en-GB": "Game Issues / Rewards / Commendations",
-    "it": "Problemi in gioco / Premi / Obiettivi"
+    "it": "Problemi in gioco / Premi / Obiettivi",
+    "pt-BR": "Problemas de Jogo / Recompensas / Recomendações"
   },
   "game.Support_Request_Suspension_Enquiry_Choice_Name": {
     "en-GB": "Suspension Enquiry",
@@ -137,43 +141,55 @@
   },
   "game.Support_Request_Technical_Issue_Choice_Name": {
     "en-GB": "Technical Issue / Beard Error",
-    "it": "Errori tecnici / Errori Beard"
+    "it": "Errori tecnici / Errori Beard",
+    "pt-BR": "Erro Técnico / Erro de Barba"
   },
   "game.Support_Search_Option_Description": {
-    "en-GB": "Search for a Sea of Thieves support article"
+    "en-GB": "Search for a Sea of Thieves support article",
+    "pt-BR": "Procure por artigos de suporte do Sea of Thieves"
   },
   "game.Support_Search_Option_Name": {
     "en-GB": "search",
-    "it": "ricerca"
+    "es-ES": "buscar",
+    "hu": "keresés",
+    "it": "ricerca",
+    "pt-BR": "pesquisar"
   },
   "game.Weather_Description": {
-    "en-GB": "View the current position of the storm in-game"
+    "en-GB": "View the current position of the storm in-game",
+    "pt-BR": "Ver posição atual da tempestade no jogo"
   },
   "game.Weather_Name": {
     "en-GB": "weather",
     "hu": "idojaras",
-    "it": "meteo"
+    "it": "meteo",
+    "pt-BR": "clima"
   },
   "globals.Ephemeral_Option_Description": {
-    "en-GB": "Run this command as a hidden message"
+    "en-GB": "Run this command as a hidden message",
+    "pt-BR": "Executar esse comando como uma mensagem escondida"
   },
   "globals.Ephemeral_Option_Name": {
     "en-GB": "ephemeral",
     "it": "nascosto"
   },
   "utility.Help_Description": {
-    "en-GB": "Receive help from Mercia's Quill's support server"
+    "en-GB": "Receive help from Mercia's Quill's support server",
+    "pt-BR": "Receba ajuda do servidor de suporte do Mercia's Quill's"
   },
   "utility.Help_Name": {
     "en-GB": "help",
     "hu": "segitseg",
-    "it": "aiuto"
+    "it": "aiuto",
+    "pt-BR": "ajuda"
   },
   "utility.Setup_Description": {
-    "en-GB": "Configure Mercia's Quill's active features and modules"
+    "en-GB": "Configure Mercia's Quill's active features and modules",
+    "pt-BR": "Configurar funções ativas e módulos do Mercia's Quill's"
   },
   "utility.Setup_Feature_Subcommand_Group_Name": {
-    "en-GB": "feature"
+    "en-GB": "feature",
+    "pt-BR": "função"
   },
   "utility.Setup_Feature_WikiGG_Lock_Subcommand_Description": {
     "en-GB": "Configure automatic redirects to the wiki.gg domain"
@@ -182,59 +198,71 @@
     "en-GB": "wikigg_lock"
   },
   "utility.Setup_Moderation_Alt_Account_Gate_Subcommand_Description": {
-    "en-GB": "Setup a verification gate to monitor for alternate accounts"
+    "en-GB": "Setup a verification gate to monitor for alternate accounts",
+    "pt-BR": "Configurar um portão de verificação para monitorar contas alternativas"
   },
   "utility.Setup_Moderation_Alt_Account_Gate_Subcommand_Name": {
     "en-GB": "alt_account_gate"
   },
   "utility.Setup_Moderation_Gamertag_Nicknames_Subcommand_Description": {
-    "en-GB": "Configure automatic nickname changes into gamertags"
+    "en-GB": "Configure automatic nickname changes into gamertags",
+    "pt-BR": "Configurar mudanças automáticas de apelido para gamertags"
   },
   "utility.Setup_Moderation_Gamertag_Nicknames_Subcommand_Name": {
-    "en-GB": "gamertag_nicknames"
+    "en-GB": "gamertag_nicknames",
+    "pt-BR": "gamertag_apelidos"
   },
   "utility.Setup_Moderation_Subcommand_Group_Name": {
-    "en-GB": "moderation"
+    "en-GB": "moderation",
+    "pt-BR": "moderação"
   },
   "utility.Setup_Name": {
     "en-GB": "setup",
     "es-ES": "configuracion",
     "hu": "beallit",
-    "it": "configura"
+    "it": "configura",
+    "pt-BR": "configuração"
   },
   "utility.Setup_Utility_Alert_Subcommand_Description": {
-    "en-GB": "Setup core event alerts for Sea of Thieves"
+    "en-GB": "Setup core event alerts for Sea of Thieves",
+    "pt-BR": "Configurar alerta de evento principal para Sea of Thieves"
   },
   "utility.Setup_Utility_Alert_Subcommand_Name": {
     "en-GB": "alert",
     "es-ES": "alerta",
     "hu": "felhivas",
-    "it": "notifiche"
+    "it": "notifiche",
+    "pt-BR": "alerta"
   },
   "utility.Setup_Utility_Feed_Subcommand_Description": {
-    "en-GB": "Setup social media feeds from official channels"
+    "en-GB": "Setup social media feeds from official channels",
+    "pt-BR": "Configurar feed de mídias de canais oficiais"
   },
   "utility.Setup_Utility_Feed_Subcommand_Name": {
     "en-GB": "feed"
   },
   "utility.Setup_Utility_Subcommand_Group_Name": {
     "en-GB": "utility",
-    "hu": "hasznalhatosag"
+    "hu": "hasznalhatosag",
+    "pt-BR": "utilidade"
   },
   "utility.Setup_Utility_Thread_Subcommand_Description": {
     "en-GB": "Setup thread-type feeds from official forums"
   },
   "utility.Setup_Utility_Thread_Subcommand_Name": {
-    "en-GB": "thread"
+    "en-GB": "thread",
+    "pt-BR": "discussão"
   },
   "utility.Subscribe_Description": {
     "en-GB": "Configure Mercia's Quill's active direct message modules"
   },
   "utility.Subscribe_Game_Events_Subcommand_Description": {
-    "en-GB": "Subscribe to game event reminder direct messages"
+    "en-GB": "Subscribe to game event reminder direct messages",
+    "pt-BR": "Inscreva-se para mensagens diretas de lembretes de eventos do jogo"
   },
   "utility.Subscribe_Game_Events_Subcommand_Name": {
-    "en-GB": "game_events"
+    "en-GB": "game_events",
+    "pt-BR": "eventos_jogo"
   },
   "utility.Subscribe_Insider_Rewards_Subcommand_Description": {
     "en-GB": "Subscribe to insider week reward reminder direct messages"
@@ -245,7 +273,8 @@
   "utility.Subscribe_Name": {
     "en-GB": "subscribe",
     "hu": "feliratkozas",
-    "it": "iscrivit"
+    "it": "iscrivit",
+    "pt-BR": "inscreva-se"
   },
   "utility.Subscribe_Twitch_Drops_Subcommand_Description": {
     "en-GB": "Subscribe to Twitch Drop reminder direct messages"
@@ -281,7 +310,10 @@
   },
   "utility.Wiki_Search_Option_Name": {
     "en-GB": "search",
-    "it": "ricerca"
+    "es-ES": "buscar",
+    "hu": "keresés",
+    "it": "ricerca",
+    "pt-BR": "pesquisar"
   },
   "utility.Wiki_Title_Option_Description": {
     "en-GB": "Query for a specifically named title name"

@@ -1,9 +1,11 @@
 {
   "components.All_Entries_Button": {
-    "en-GB": "All Entries"
+    "en-GB": "All Entries",
+    "pt-BR": "Todas as entradas"
   },
   "components.Author_Feed_Button": {
-    "en-GB": "Author Feed"
+    "en-GB": "Author Feed",
+    "pt-BR": "Feed do Autor"
   },
   "components.Category_Feed_Button": {
     "en-GB": "Category Feed"
@@ -93,10 +95,12 @@
     "en-GB": "Visit Full Thread"
   },
   "components.Watch_Full_Video_Button": {
-    "en-GB": "Watch Full Video"
+    "en-GB": "Watch Full Video",
+    "pt-BR": "Assista o Vídeo Completo"
   },
   "components.YouTube_Channel_Button": {
-    "en-GB": "Youtube Channel"
+    "en-GB": "Youtube Channel",
+    "pt-BR": "Canal do Youtube"
   },
   "content.Affiliate_Cosmetic_Main_Description": {
     "en-GB": "{[community_name]} is hosting a {[availability_name]} for the coveted **{[reward_items]}**! You can view more details by [joining]({[community_invite]}) their community.",
