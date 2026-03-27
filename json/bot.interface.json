@@ -1,0 +1,11 @@
+{
+  "errors.Active_Command_Cooldown_Action": {
+    "en-GB": "This command is currently under a cooldown. Please try again in <t:{time}:R>"
+  },
+  "errors.Learn_More_Hyperlink": {
+    "en-GB": "learn more"
+  },
+  "errors.Missing_Interaction_Handler_Action": {
+    "en-GB": "The handler associated with this interaction could not be found. Please contact a developer for further assistance."
+  }
+}

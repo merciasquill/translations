@@ -281,9 +281,7 @@
   },
   "utility.Wiki_Search_Option_Name": {
     "en-GB": "search",
-    "es-ES": "buscar",
-    "hu": "kereses",
-    "it": "cerca"
+    "it": "ricerca"
   },
   "utility.Wiki_Title_Option_Description": {
     "en-GB": "Query for a specifically named title name"
