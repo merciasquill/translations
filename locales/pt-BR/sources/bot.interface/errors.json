@@ -1,6 +1,9 @@
 {
-  "bot.interface.errors.Active_Command_Cooldown": "This command is currently under a cooldown. Please try again in <t:{time}:R>",
+  "bot.interface.errors.Active_Command_Cooldown_Description": "This command is currently under a cooldown. Please try again in <t:{time}:R>",
+  "bot.interface.errors.Active_Command_Cooldown_Name": "Active Command Cooldown",
   "bot.interface.errors.Learn_More_Hyperlink": "learn more",
-  "bot.interface.errors.Missing_Interaction_Handler": "The handler associated with this interaction could not be found. Please contact a developer for further assistance.",
-  "bot.interface.errors.Unknown_Server_Error": "An unexpected internal server occurred while trying to process this request. Please try again later."
+  "bot.interface.errors.Missing_Interaction_Handler_Description": "The handler associated with this interaction could not be found. Please contact a developer for further assistance.",
+  "bot.interface.errors.Missing_Interaction_Handler_Name": "Missing Interaction Handler",
+  "bot.interface.errors.Unexpected_Server_Error_Description": "An unexpected internal server occurred while trying to process this request. Please try again later.",
+  "bot.interface.errors.Unexpected_Server_Error_Name": "Unknown Server Error"
 }
