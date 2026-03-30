@@ -1,14 +1,23 @@
 {
-  "errors.Active_Command_Cooldown": {
+  "errors.Active_Command_Cooldown_Description": {
     "en-GB": "This command is currently under a cooldown. Please try again in <t:{time}:R>"
+  },
+  "errors.Active_Command_Cooldown_Name": {
+    "en-GB": "Active Command Cooldown"
   },
   "errors.Learn_More_Hyperlink": {
     "en-GB": "learn more"
   },
-  "errors.Missing_Interaction_Handler": {
+  "errors.Missing_Interaction_Handler_Description": {
     "en-GB": "The handler associated with this interaction could not be found. Please contact a developer for further assistance."
   },
-  "errors.Unknown_Server_Error": {
+  "errors.Missing_Interaction_Handler_Name": {
+    "en-GB": "Missing Interaction Handler"
+  },
+  "errors.Unexpected_Server_Error_Description": {
     "en-GB": "An unexpected internal server occurred while trying to process this request. Please try again later."
+  },
+  "errors.Unexpected_Server_Error_Name": {
+    "en-GB": "Unknown Server Error"
   }
 }
