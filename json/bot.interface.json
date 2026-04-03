@@ -5,8 +5,26 @@
   "errors.Active_Command_Cooldown_Name": {
     "en-GB": "Active Command Cooldown"
   },
+  "errors.Collector_Timeout_Description": {
+    "en-GB": "The interaction collector for this message has timed out. Please try again and select an option within {time}."
+  },
+  "errors.Collector_Timeout_Name": {
+    "en-GB": "Collector Timed Out"
+  },
+  "errors.Failed_To_Fetch_Sea_Of_Thieves_Description": {
+    "en-GB": "An unexpected error occurred while accessing the Sea Of Thieves API. Please try again later."
+  },
+  "errors.Failed_To_Fetch_Sea_Of_Thieves_Name": {
+    "en-GB": "Failed To Fetch Sea Of Thieves"
+  },
   "errors.Learn_More_Hyperlink": {
     "en-GB": "learn more"
+  },
+  "errors.Missing_Cast_Progress_Description": {
+    "en-GB": "No progress using {command_markdown} during the provided timeframe could be found. Please try again with a different timeframe."
+  },
+  "errors.Missing_Cast_Progress_Name": {
+    "en-GB": "Missing Cast Progress"
   },
   "errors.Missing_Interaction_Handler_Description": {
     "en-GB": "The handler associated with this interaction could not be found. Please contact a developer for further assistance."
