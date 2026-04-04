@@ -17,6 +17,12 @@
   "errors.Failed_To_Fetch_Sea_Of_Thieves_Name": {
     "en-GB": "Failed To Fetch Sea Of Thieves"
   },
+  "errors.Invalid_Autocomplete_Option_Description": {
+    "en-GB": "The provided value for the {option_name} option is not valid. Please try again and select an autocompleted option."
+  },
+  "errors.Invalid_Autocomplete_Option_Name": {
+    "en-GB": "Invalid Autocomplete Option"
+  },
   "errors.Learn_More_Hyperlink": {
     "en-GB": "learn more"
   },
