@@ -5,6 +5,8 @@
   "bot.interface.errors.Collector_Timeout_Name": "Collector Timed Out",
   "bot.interface.errors.Failed_To_Fetch_Sea_Of_Thieves_Description": "An unexpected error occurred while accessing the Sea Of Thieves API. Please try again later.",
   "bot.interface.errors.Failed_To_Fetch_Sea_Of_Thieves_Name": "Failed To Fetch Sea Of Thieves",
+  "bot.interface.errors.Invalid_Autocomplete_Option_Description": "The provided value for the {option_name} option is not valid. Please try again and select an autocompleted option.",
+  "bot.interface.errors.Invalid_Autocomplete_Option_Name": "Invalid Autocomplete Option",
   "bot.interface.errors.Learn_More_Hyperlink": "learn more",
   "bot.interface.errors.Missing_Cast_Progress_Description": "No progress using {command_markdown} during the provided timeframe could be found. Please try again with a different timeframe.",
   "bot.interface.errors.Missing_Cast_Progress_Name": "Missing Cast Progress",
