@@ -1,13 +1,4 @@
 {
-  "base.Credits_Description": {
-    "en-GB": "View the people who have contributed to Mercia's Quill",
-    "pt-BR": "Visualizar contribuintes do Mercia's Quill"
-  },
-  "base.Credits_Name": {
-    "en-GB": "credits",
-    "it": "crediti",
-    "pt-BR": "créditos"
-  },
   "base.Invite_Description": {
     "en-GB": "Invite Mercia's Quill to your own servers"
   },
