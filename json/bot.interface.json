@@ -39,7 +39,18 @@
     "en-GB": "Missing Interaction Handler"
   },
   "errors.Missing_Xbox_Connection_Description": {
-    "en-GB": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later."
+    "en-GB": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please link your account and try again later.",
+    "de": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "en-US": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "es-ES": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "fr": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "hu": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "it": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "ja": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "ko": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "pl": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "pt-BR": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+    "zh-CN": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later."
   },
   "errors.Missing_Xbox_Connection_Name": {
     "en-GB": "Missing Xbox Connection"
@@ -49,5 +60,11 @@
   },
   "errors.Unexpected_Server_Error_Name": {
     "en-GB": "Unknown Server Error"
+  },
+  "errors.Unknown_User_Connections": {
+    "en-GB": "Unknown User Connections"
+  },
+  "errors.Unknown_User_Connections_Description": {
+    "en-GB": "The requested user has not connected their accounts to Mercia's Quill. Please try again later."
   }
 }
