@@ -38,6 +38,12 @@
   "errors.Missing_Interaction_Handler_Name": {
     "en-GB": "Missing Interaction Handler"
   },
+  "errors.Missing_Xbox_Connection_Description": {
+    "en-GB": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later."
+  },
+  "errors.Missing_Xbox_Connection_Name": {
+    "en-GB": "Missing Xbox Connection"
+  },
   "errors.Unexpected_Server_Error_Description": {
     "en-GB": "An unexpected internal server occurred while trying to process this request. Please try again later."
   },
