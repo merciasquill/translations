@@ -61,10 +61,10 @@
   "errors.Unexpected_Server_Error_Name": {
     "en-GB": "Unknown Server Error"
   },
-  "errors.Unknown_User_Connections": {
-    "en-GB": "Unknown User Connections"
-  },
   "errors.Unknown_User_Connections_Description": {
     "en-GB": "The requested user has not connected their accounts to Mercia's Quill. Please try again later."
+  },
+  "errors.Unknown_User_Connections_Name": {
+    "en-GB": "Unknown User Connections"
   }
 }
