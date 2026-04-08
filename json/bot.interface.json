@@ -39,18 +39,7 @@
     "en-GB": "Missing Interaction Handler"
   },
   "errors.Missing_Xbox_Connection_Description": {
-    "en-GB": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please link your account and try again later.",
-    "de": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "en-US": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "es-ES": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "fr": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "hu": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "it": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "ja": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "ko": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "pl": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "pt-BR": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
-    "zh-CN": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later."
+    "en-GB": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please link your account and try again later."
   },
   "errors.Missing_Xbox_Connection_Name": {
     "en-GB": "Missing Xbox Connection"
@@ -66,5 +55,13 @@
   },
   "errors.Unknown_User_Connections_Name": {
     "en-GB": "Unknown User Connections"
+  },
+  "globals.Powered_by_Footer": {
+    "en-GB": "Powered by Mercia's Quill",
+    "es-ES": "Desarrollado por Mercia's Quill",
+    "fr": "Propulsé par Mercia's Quill",
+    "hu": "Mercia's Quill által működtetve",
+    "ko": "Mercia's Quill 제공",
+    "pt-BR": "Fornecido por Mercia's Quilll"
   }
 }
