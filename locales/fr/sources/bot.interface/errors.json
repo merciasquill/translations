@@ -12,6 +12,8 @@
   "bot.interface.errors.Missing_Cast_Progress_Name": "Missing Cast Progress",
   "bot.interface.errors.Missing_Interaction_Handler_Description": "The handler associated with this interaction could not be found. Please contact a developer for further assistance.",
   "bot.interface.errors.Missing_Interaction_Handler_Name": "Missing Interaction Handler",
+  "bot.interface.errors.Missing_Xbox_Connection_Description": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+  "bot.interface.errors.Missing_Xbox_Connection_Name": "Missing Xbox Connection",
   "bot.interface.errors.Unexpected_Server_Error_Description": "An unexpected internal server occurred while trying to process this request. Please try again later.",
   "bot.interface.errors.Unexpected_Server_Error_Name": "Unknown Server Error"
 }
