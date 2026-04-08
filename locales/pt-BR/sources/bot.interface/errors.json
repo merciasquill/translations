@@ -1,5 +1,19 @@
 {
-  "bot.interface.errors.Active_Command_Cooldown_Action": "This command is currently under a cooldown. Please try again in <t:{time}:R>",
+  "bot.interface.errors.Active_Command_Cooldown_Description": "This command is currently under a cooldown. Please try again in <t:{time}:R>",
+  "bot.interface.errors.Active_Command_Cooldown_Name": "Active Command Cooldown",
+  "bot.interface.errors.Collector_Timeout_Description": "The interaction collector for this message has timed out. Please try again and select an option within {time}.",
+  "bot.interface.errors.Collector_Timeout_Name": "Collector Timed Out",
+  "bot.interface.errors.Failed_To_Fetch_Sea_Of_Thieves_Description": "An unexpected error occurred while accessing the Sea Of Thieves API. Please try again later.",
+  "bot.interface.errors.Failed_To_Fetch_Sea_Of_Thieves_Name": "Failed To Fetch Sea Of Thieves",
+  "bot.interface.errors.Invalid_Autocomplete_Option_Description": "The provided value for the {option_name} option is not valid. Please try again and select an autocompleted option.",
+  "bot.interface.errors.Invalid_Autocomplete_Option_Name": "Invalid Autocomplete Option",
   "bot.interface.errors.Learn_More_Hyperlink": "learn more",
-  "bot.interface.errors.Missing_Interaction_Handler_Action": "The handler associated with this interaction could not be found. Please contact a developer for further assistance."
+  "bot.interface.errors.Missing_Cast_Progress_Description": "No progress using {command_markdown} during the provided timeframe could be found. Please try again with a different timeframe.",
+  "bot.interface.errors.Missing_Cast_Progress_Name": "Missing Cast Progress",
+  "bot.interface.errors.Missing_Interaction_Handler_Description": "The handler associated with this interaction could not be found. Please contact a developer for further assistance.",
+  "bot.interface.errors.Missing_Interaction_Handler_Name": "Missing Interaction Handler",
+  "bot.interface.errors.Missing_Xbox_Connection_Description": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please try again later.",
+  "bot.interface.errors.Missing_Xbox_Connection_Name": "Missing Xbox Connection",
+  "bot.interface.errors.Unexpected_Server_Error_Description": "An unexpected internal server occurred while trying to process this request. Please try again later.",
+  "bot.interface.errors.Unexpected_Server_Error_Name": "Unknown Server Error"
 }
