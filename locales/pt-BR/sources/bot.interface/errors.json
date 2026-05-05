@@ -17,5 +17,7 @@
   "bot.interface.errors.Unexpected_Server_Error_Description": "An unexpected internal server occurred while trying to process this request. Please try again later.",
   "bot.interface.errors.Unexpected_Server_Error_Name": "Unknown Server Error",
   "bot.interface.errors.Unknown_User_Connections_Description": "The requested user has not connected their accounts to Mercia's Quill. Please try again later.",
-  "bot.interface.errors.Unknown_User_Connections_Name": "Unknown User Connections"
+  "bot.interface.errors.Unknown_User_Connections_Name": "Unknown User Connections",
+  "bot.interface.errors.Unknown_Wiki_Page_Description": "The queried wiki page could not be found. Please try again later.",
+  "bot.interface.errors.Unknown_Wiki_Page_Name": "Unknown Wiki Page"
 }
