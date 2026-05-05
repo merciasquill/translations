@@ -2,6 +2,8 @@
   "commands.global.utility.Help_Description": "Receive help from Mercia's Quill's support server",
   "commands.global.utility.Help_Name": "segitseg",
   "commands.global.utility.Setup_Description": "Configure Mercia's Quill's active features and modules",
+  "commands.global.utility.Setup_Feature_Custom_Profile_Subcommand_Description": "Configure Mercia's Quill's custom profile in this server",
+  "commands.global.utility.Setup_Feature_Custom_Profile_Subcommand_Name": "custom_profile",
   "commands.global.utility.Setup_Feature_Subcommand_Group_Name": "feature",
   "commands.global.utility.Setup_Feature_WikiGG_Lock_Subcommand_Description": "Configure automatic redirects to the wiki.gg domain",
   "commands.global.utility.Setup_Feature_WikiGG_Lock_Subcommand_Name": "wikigg_lock",
