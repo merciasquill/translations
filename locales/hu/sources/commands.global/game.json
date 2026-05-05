@@ -20,5 +20,11 @@
   "commands.global.game.Support_Search_Option_Description": "Search for a Sea of Thieves support article",
   "commands.global.game.Support_Search_Option_Name": "keresés",
   "commands.global.game.Weather_Description": "View the current position of the storm in-game",
-  "commands.global.game.Weather_Name": "idojaras"
+  "commands.global.game.Weather_Name": "idojaras",
+  "commands.global.game.Wiki_Description": "Query the official Sea of Thieves wiki",
+  "commands.global.game.Wiki_Name": "wiki",
+  "commands.global.game.Wiki_Page_Option_Description": "Query for a specifically named wiki page",
+  "commands.global.game.Wiki_Page_Option_Name": "oldal",
+  "commands.global.game.Wiki_Search_Option_Description": "Query for a partial text match from the wiki",
+  "commands.global.game.Wiki_Search_Option_Name": "keresés"
 }
