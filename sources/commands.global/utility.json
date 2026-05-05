@@ -25,15 +25,5 @@
   "commands.global.utility.Subscribe_Insider_Rewards_Subcommand_Name": "insider_rewards",
   "commands.global.utility.Subscribe_Name": "subscribe",
   "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Description": "Subscribe to Twitch Drop reminder direct messages",
-  "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Name": "twitch_drops",
-  "commands.global.utility.Wiki_Commendation_Option_Description": "Query for a specifically named commendation name",
-  "commands.global.utility.Wiki_Commendation_Option_Name": "commendation",
-  "commands.global.utility.Wiki_Description": "Query the official Sea of Thieves wiki",
-  "commands.global.utility.Wiki_Name": "wiki",
-  "commands.global.utility.Wiki_Page_Option_Description": "Query for a specifically named wiki page",
-  "commands.global.utility.Wiki_Page_Option_Name": "page",
-  "commands.global.utility.Wiki_Search_Option_Description": "Query for a partial text match from the wiki",
-  "commands.global.utility.Wiki_Search_Option_Name": "search",
-  "commands.global.utility.Wiki_Title_Option_Description": "Query for a specifically named title name",
-  "commands.global.utility.Wiki_Title_Option_Name": "title"
+  "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Name": "twitch_drops"
 }
