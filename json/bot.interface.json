@@ -56,6 +56,12 @@
   "errors.Unknown_User_Connections_Name": {
     "en-GB": "Unknown User Connections"
   },
+  "errors.Unknown_Wiki_Page_Description": {
+    "en-GB": "The queried wiki page could not be found. Please try again later."
+  },
+  "errors.Unknown_Wiki_Page_Name": {
+    "en-GB": "Unknown Wiki Page"
+  },
   "globals.Powered_by_Footer": {
     "en-GB": "Powered by Mercia's Quill",
     "es-ES": "Desarrollado por Mercia's Quill",
