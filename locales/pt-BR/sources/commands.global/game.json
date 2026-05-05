@@ -20,5 +20,11 @@
   "commands.global.game.Support_Search_Option_Description": "Procure por artigos de suporte do Sea of Thieves",
   "commands.global.game.Support_Search_Option_Name": "pesquisar",
   "commands.global.game.Weather_Description": "Ver posição atual da tempestade no jogo",
-  "commands.global.game.Weather_Name": "clima"
+  "commands.global.game.Weather_Name": "clima",
+  "commands.global.game.Wiki_Description": "Query the official Sea of Thieves wiki",
+  "commands.global.game.Wiki_Name": "wiki",
+  "commands.global.game.Wiki_Page_Option_Description": "Query for a specifically named wiki page",
+  "commands.global.game.Wiki_Page_Option_Name": "page",
+  "commands.global.game.Wiki_Search_Option_Description": "Query for a partial text match from the wiki",
+  "commands.global.game.Wiki_Search_Option_Name": "pesquisar"
 }
