@@ -1,4 +1,10 @@
 {
+  "base.Help_Description": {
+    "en-GB": "Receive help from Mercia's Quill's support server"
+  },
+  "base.Help_Name": {
+    "en-GB": "help"
+  },
   "base.Invite_Description": {
     "en-GB": "Invite Mercia's Quill to your own servers"
   },
@@ -149,6 +155,24 @@
     "hu": "idojaras",
     "it": "meteo",
     "pt-BR": "clima"
+  },
+  "game.Wiki_Description": {
+    "en-GB": "Query the official Sea of Thieves wiki"
+  },
+  "game.Wiki_Name": {
+    "en-GB": "wiki"
+  },
+  "game.Wiki_Page_Option_Description": {
+    "en-GB": "Query for a specifically named wiki page"
+  },
+  "game.Wiki_Page_Option_Name": {
+    "en-GB": "page"
+  },
+  "game.Wiki_Search_Option_Description": {
+    "en-GB": "Query for a partial text match from the wiki"
+  },
+  "game.Wiki_Search_Option_Name": {
+    "en-GB": "search"
   },
   "globals.Ephemeral_Option_Description": {
     "en-GB": "Run this command as a hidden message",
