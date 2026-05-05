@@ -1,4 +1,6 @@
 {
+  "commands.global.base.Help_Description": "Receive help from Mercia's Quill's support server",
+  "commands.global.base.Help_Name": "help",
   "commands.global.base.Invite_Description": "Invite Mercia's Quill to your own servers",
   "commands.global.base.Invite_Name": "invite",
   "commands.global.base.Legal_Description": "View Mercia's Quill's Privacy Policy and Terms of Use",
