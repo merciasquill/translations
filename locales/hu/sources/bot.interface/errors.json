@@ -1,5 +1,5 @@
 {
-  "bot.interface.errors.Active_Command_Cooldown_Description": "This command is currently under a cooldown. Please try again in <t:{time}:R>",
+  "bot.interface.errors.Active_Command_Cooldown_Description": "This command is currently under a cooldown. Please try again <t:{time}:R>",
   "bot.interface.errors.Active_Command_Cooldown_Name": "Active Command Cooldown",
   "bot.interface.errors.Collector_Timeout_Description": "The interaction collector for this message has timed out. Please try again and select an option within {time}.",
   "bot.interface.errors.Collector_Timeout_Name": "Collector Timed Out",
