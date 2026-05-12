@@ -6,6 +6,6 @@
   "scheduling.alerts.meta.Gold_and_Glory_Campaign_Name": "Gold & Glory",
   "scheduling.alerts.meta.Regular_Twitch_Drop_Campaign_Name": "Twitch Drops Campaign",
   "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{event_theme}}",
-  "scheduling.alerts.meta.Special_Twitch_Drop_Alt_Name": "Twitch Drops Campaign",
+  "scheduling.alerts.meta.Special_Twitch_Drop_Campaign_Name": "Twitch Drops Campaign",
   "scheduling.alerts.meta.Style_of_Thieves_Campaign_Name": "StyleOfThieves: {{event_theme}}"
 }
