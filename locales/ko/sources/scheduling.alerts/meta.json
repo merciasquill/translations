@@ -1,9 +1,9 @@
 {
   "scheduling.alerts.meta.Capture_a_Code_Campaign_Name": "캡쳐 코드: {{event_theme}}",
   "scheduling.alerts.meta.Capture_a_Code_Subtitle": "캡쳐 코드",
-  "scheduling.alerts.meta.Community_Weekend_Alt_Name": "커뮤니티 주말: 시즌 {[season_number]}",
-  "scheduling.alerts.meta.Community_Weekend_Campaign_Name": "시즌 {[season_number]} 커뮤니티 주말",
-  "scheduling.alerts.meta.Community_Weekend_Subtitle": "시즌 {[season_number]}",
+  "scheduling.alerts.meta.Community_Weekend_Alt_Name": "커뮤니티 주말: 시즌 {{season_number}}",
+  "scheduling.alerts.meta.Community_Weekend_Campaign_Name": "시즌 {{season_number}} 커뮤니티 주말",
+  "scheduling.alerts.meta.Community_Weekend_Subtitle": "시즌 {{season_number}}",
   "scheduling.alerts.meta.Ghoul_and_Glory_Alt_Name": "Ghoul & Glory",
   "scheduling.alerts.meta.Ghoul_and_Glory_Campaign_Name": "Ghoul & Glory",
   "scheduling.alerts.meta.Ghoul_and_Glory_Subtitle": "Ghoul & Glory",
@@ -16,10 +16,10 @@
   "scheduling.alerts.meta.Gold_and_Glory_Alt_Name": "골드 & 글로리",
   "scheduling.alerts.meta.Gold_and_Glory_Campaign_Name": "골드 & 글로리",
   "scheduling.alerts.meta.Gold_and_Glory_Subtitle": "골드 & 글로리",
-  "scheduling.alerts.meta.Regular_Twitch_Drop_Alt_Name": "트위치 드롭스: {[main_event_name]}",
+  "scheduling.alerts.meta.Regular_Twitch_Drop_Alt_Name": "트위치 드롭스: {{campaign_name}}",
   "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{event_theme}}",
   "scheduling.alerts.meta.SoTShot_Subtitle": "SoTShot",
-  "scheduling.alerts.meta.Special_Twitch_Drop_Alt_Name": "트위치 드롭스: {[main_event_name]}",
+  "scheduling.alerts.meta.Special_Twitch_Drop_Alt_Name": "트위치 드롭스: {{campaign_name}}",
   "scheduling.alerts.meta.Style_of_Thieves_Campaign_Name": "도적의 스타일: {{event_theme}}",
   "scheduling.alerts.meta.Style_of_Thieves_Subtitle": "도적의 스타일"
 }
