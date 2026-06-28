@@ -1,6 +1,6 @@
 {
   "errors.Active_Command_Cooldown_Description": {
-    "en-GB": "This command is currently under a cooldown. Please try again in <t:{time}:R>"
+    "en-GB": "This command is currently under a cooldown. Please try again <t:{time}:R>"
   },
   "errors.Active_Command_Cooldown_Name": {
     "en-GB": "Active Command Cooldown"
@@ -23,8 +23,20 @@
   "errors.Invalid_Autocomplete_Option_Name": {
     "en-GB": "Invalid Autocomplete Option"
   },
+  "errors.Invalid_Profile_File_Attachment_Description": {
+    "en-GB": "The provided attachment does not meet the requirements for a profile picture or banner. Please try again with a different file."
+  },
+  "errors.Invalid_Profile_File_Attachment_Name": {
+    "en-GB": "Invalid Profile File Attachment"
+  },
   "errors.Learn_More_Hyperlink": {
     "en-GB": "learn more"
+  },
+  "errors.Locked_Interaction_Collector_Description": {
+    "en-GB": "This interaction collector has an specific filter present which prevents use from unknown users."
+  },
+  "errors.Locked_Interaction_Collector_Name": {
+    "en-GB": "Locked Interaction Collector"
   },
   "errors.Missing_Cast_Progress_Description": {
     "en-GB": "No progress using {command_markdown} during the provided timeframe could be found. Please try again with a different timeframe."
@@ -61,6 +73,9 @@
   },
   "errors.Unknown_Wiki_Page_Name": {
     "en-GB": "Unknown Wiki Page"
+  },
+  "globals.Learn_More_CTA_Footer": {
+    "en-GB": "learn more"
   },
   "globals.Powered_by_Footer": {
     "en-GB": "Powered by Mercia's Quill",
