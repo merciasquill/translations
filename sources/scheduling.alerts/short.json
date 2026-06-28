@@ -23,6 +23,7 @@
   "scheduling.alerts.short.Regular_Twitch_Drop_Reward_Subtitle": "Watch for {{reward_watch_time#}}",
   "scheduling.alerts.short.Reply": "Reply",
   "scheduling.alerts.short.Repost": "Repost",
+  "scheduling.alerts.short.Reward_Conjunction": " and ",
   "scheduling.alerts.short.Riddle_Competition_Availability": "riddle competition",
   "scheduling.alerts.short.Screenshot_Competition_Availability": "screenshot competition",
   "scheduling.alerts.short.Thread": "Thread",
