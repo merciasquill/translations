@@ -1,11 +1,19 @@
 {
+  "scheduling.alerts.meta.Boost_Events_Subcategory": "Boost Events",
   "scheduling.alerts.meta.Capture_a_Code_Campaign_Name": "Capturez un Code : {{event_theme}}",
-  "scheduling.alerts.meta.Community_Weekend_Campaign_Name": "Season {[season_number]} Community Weekend",
+  "scheduling.alerts.meta.Community_Weekend_Campaign_Name": "Season {{season_number}} Community Weekend",
+  "scheduling.alerts.meta.Community_Weekend_Events_Subcategory": "Community Weekend Events",
+  "scheduling.alerts.meta.Game_Events_Category": "Game Events",
   "scheduling.alerts.meta.Ghoul_and_Glory_Campaign_Name": "Ghoul & Glory",
   "scheduling.alerts.meta.Gold_Rush_Campaign_Name": "Cycle Quotidien de Ruee vers l'Or",
   "scheduling.alerts.meta.Gold_and_Glory_Campaign_Name": "Or & Gloire",
-  "scheduling.alerts.meta.Regular_Twitch_Drop_Campaign_Name": "Twitch Drops Campaign",
+  "scheduling.alerts.meta.Gold_and_Glory_Events_Subcategory": "Gold & Glory Events",
+  "scheduling.alerts.meta.Miscellaneous_Event_Subcategory": "Miscellaneous Events",
+  "scheduling.alerts.meta.Regular_Twitch_Drops_Subcategory": "Regular Twitch Drops",
   "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot : {{event_theme}}",
-  "scheduling.alerts.meta.Special_Twitch_Drop_Campaign_Name": "Twitch Drops Campaign",
-  "scheduling.alerts.meta.Style_of_Thieves_Campaign_Name": "StyleOfThieves : {{event_theme}}"
+  "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory": "Special Twitch Drops",
+  "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory_Name": "Special Twitch Drops",
+  "scheduling.alerts.meta.Style_of_Thieves_Campaign_Name": "StyleOfThieves : {{event_theme}}",
+  "scheduling.alerts.meta.Twitch_Drops_Campaign_Name": "Twitch Drops Campaign",
+  "scheduling.alerts.meta.Twitch_Drops_Category": "Twitch Drops"
 }
