@@ -12,7 +12,17 @@
   "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "La actual **Campaña de eventos del juego** termina <t:{{end_timestamp_s}}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[details_link]}) antes del <t:{{end_timestamp_s}}:f>.",
   "scheduling.alerts.content.Partner_Cosmetic_Message_Description": "¡{[partner_name]} está organizando un {{availability_name}} en el que podrás conseguir **{[reward_items]}**! Podrás obtener más información visitando su [canal]({[partner_page]}).",
   "scheduling.alerts.content.Regular_Twitch_Drop_Message_Description": "¡Conéctate y mira [{{availability_name}}]({{campaign_resource_url}}) durante un total de **{{total_rewards_watch_time_text}}** para ganar todas las recompensas! Recuerda vincular tu cuenta de Twitch a Sea of Thieves y reclamar tu recompensa una vez que esté desbloqueada.",
-  "scheduling.alerts.content.Regular_Twitch_Drop_Reminder_Description": "La actual **campaña de Twitch Drops** termina el <t:{{end_timestamp_s}}:R>! Asegúrate de [reclamar]({[twitch_inventory_url]}) tus recompensas antes del <t:{{end_timestamp_s}}:f>.",
+  "scheduling.alerts.content.Twitch_Drop_Reminder_Description": 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "La actual campaña de **{{public_alert_category}}** termina el <t:{{end_timestamp_s}}:R>! Asegúrate de [reclamar]({[twitch_inventory_url]}) tus recompensas antes del <t:{{end_timestamp_s}}:f>.",
   "scheduling.alerts.content.Special_Twitch_Drop_Reminder_Description": "La actual **campaña de Twitch Drops** termina el <t:{{end_timestamp_s}}:R>! Asegúrate de [reclamar]({[twitch_inventory_url]}) tus recompensas antes del <t:{{end_timestamp_s}}:f>.",
   "scheduling.alerts.content.Special_Twitch_Drops_Message_Description": "¡Conéctate y mira [{{availability_name}}]({{campaign_resource_url}}) durante un total de **{{total_rewards_watch_time_text}}** para ganar todas las recompensas! Recuerda vincular tu cuenta de Twitch a Sea of Thieves y reclamar tu recompensa una vez que esté desbloqueada."
 }
