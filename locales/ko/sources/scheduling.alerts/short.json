@@ -2,7 +2,7 @@
   "scheduling.alerts.short.Any_Twitch_Drop_Host": "참여 중인 씨 오브 시브즈 스트리머",
   "scheduling.alerts.short.Community_Invite_Text": "커뮤니티 초대",
   "scheduling.alerts.short.Custom_Twitch_Drop_Host": "{[custom_username]}",
-  "scheduling.alerts.short.General_Competition_Availability": "대회",
+  "scheduling.alerts.short.Competition_Availability": "대회",
   "scheduling.alerts.short.Giveaway_Availability": "경품",
   "scheduling.alerts.short.Host_Text": "주최자",
   "scheduling.alerts.short.Insider_Estimated_Finish": "예상 종료일",
