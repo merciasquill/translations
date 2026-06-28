@@ -4,6 +4,7 @@
   "scheduling.alerts.components.Category_Feed_Button": "Category Feed",
   "scheduling.alerts.components.Change_Week_Button": "Semaine de changement",
   "scheduling.alerts.components.Completed_Button": "Terminé",
+  "scheduling.alerts.components.Details_Button": "Details",
   "scheduling.alerts.components.Details_and_Connections_Button": "Détails et Connexions",
   "scheduling.alerts.components.Details_and_Entries_Button": "Détails et Participations",
   "scheduling.alerts.components.Details_and_Info_Button": "Détails et Informations",
