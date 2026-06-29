@@ -1,14 +1,14 @@
 {
   "scheduling.alerts.meta.Affiliate_Alliance_Cosmetics_Subcategory": "Affiliate Alliance Cosmetics",
   "scheduling.alerts.meta.Boost_Events_Subcategory": "Boost Events",
+  "scheduling.alerts.meta.Capture_A_Code_Campaign_Name": "Capture a Code: {{theme_name}}",
   "scheduling.alerts.meta.Capture_A_Code_Competitions_Subcategory": "Capture a Code Competitions",
-  "scheduling.alerts.meta.Capture_a_Code_Campaign_Name": "Capture a Code: {{event_theme}}",
   "scheduling.alerts.meta.Community_Weekend_Campaign_Name": "Fim de Semana da Comunidade da Temporada {{season_number}}",
   "scheduling.alerts.meta.Community_Weekend_Events_Subcategory": "Community Weekend Events",
   "scheduling.alerts.meta.Competitions_Category": "Competitions",
   "scheduling.alerts.meta.Cosmetics_Category": "Cosmetics",
   "scheduling.alerts.meta.Game_Events_Category": "Game Events",
-  "scheduling.alerts.meta.Ghoul_and_Glory_Campaign_Name": "Ghoul & Glory",
+  "scheduling.alerts.meta.Ghoul_And_Glory_Campaign_Name": "Ghoul & Glory",
   "scheduling.alerts.meta.Gold_And_Glory_Campaign_Name": "Ouro & Glória",
   "scheduling.alerts.meta.Gold_And_Glory_Events_Subcategory": "Gold & Glory Events",
   "scheduling.alerts.meta.Gold_Rush_Campaign_Name": "A Febre do Ouro começou!",
@@ -20,8 +20,8 @@
   "scheduling.alerts.meta.SoTShot_Competitions_Subcategory": "SoTShot Competitions",
   "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory": "Special Twitch Drops",
   "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory_Name": "Special Twitch Drops",
+  "scheduling.alerts.meta.Style_Of_Thieves_Campaign_Name": "StyleOfThieves: {{theme_name}}",
   "scheduling.alerts.meta.Style_Of_Thieves_Competitions_Subcategory": "Style of Thieves Competitions",
-  "scheduling.alerts.meta.Style_of_Thieves_Campaign_Name": "StyleOfThieves: {{event_theme}}",
   "scheduling.alerts.meta.Twitch_Drops_Campaign_Name": "Twitch Drops Campaign",
   "scheduling.alerts.meta.Twitch_Drops_Category": "Twitch Drops"
 }
