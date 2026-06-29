@@ -5,7 +5,7 @@
   "scheduling.alerts.meta.Community_Weekend_Campaign_Name": "Season {{season_number}} Közösségi Hétvége",
   "scheduling.alerts.meta.Community_Weekend_Subtitle": "Season {{season_number}}",
   "scheduling.alerts.meta.Ghoul_and_Glory_Alt_Name": "Ghoul & Glory",
-  "scheduling.alerts.meta.Ghoul_and_Glory_Campaign_Name": "Ghoul & Glory",
+  "scheduling.alerts.meta.Ghoul_And_Glory_Campaign_Name": "Ghoul & Glory",
   "scheduling.alerts.meta.Ghoul_and_Glory_Subtitle": "Ghoul & Glory",
   "scheduling.alerts.meta.Gold_Rush_Campaign_Name": "Napi Gold Rush ciklus",
   "scheduling.alerts.meta.Gold_Rush_Main_Name": "Gold Rush",
@@ -20,6 +20,6 @@
   "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{theme_name}}",
   "scheduling.alerts.meta.SoTShot_Subtitle": "SoTShot",
   "scheduling.alerts.meta.Special_Twitch_Drop_Alt_Name": "Twitch Dropok: {{campaign_name}}",
-  "scheduling.alerts.meta.Style_of_Thieves_Campaign_Name": "StyleOfThieves: {{theme_name}}",
+  "scheduling.alerts.meta.Style_Of_Thieves_Campaign_Name": "StyleOfThieves: {{theme_name}}",
   "scheduling.alerts.meta.Style_of_Thieves_Subtitle": "StyleOfThieves"
 }

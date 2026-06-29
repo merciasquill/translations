@@ -5,7 +5,7 @@
   "scheduling.alerts.meta.Community_Weekend_Campaign_Name": "Fim de Semana da Comunidade da Temporada {{season_number}}",
   "scheduling.alerts.meta.Community_Weekend_Subtitle": "Temporada {{season_number}}",
   "scheduling.alerts.meta.Ghoul_and_Glory_Alt_Name": "Ghoul & Glory",
-  "scheduling.alerts.meta.Ghoul_and_Glory_Campaign_Name": "Ghoul & Glory",
+  "scheduling.alerts.meta.Ghoul_And_Glory_Campaign_Name": "Ghoul & Glory",
   "scheduling.alerts.meta.Ghoul_and_Glory_Subtitle": "Ghoul & Glory",
   "scheduling.alerts.meta.Gold_Rush_Campaign_Name": "A Febre do Ouro começou!",
   "scheduling.alerts.meta.Gold_Rush_Main_Name": "Febre do Ouro",
@@ -20,6 +20,6 @@
   "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{theme_name}}",
   "scheduling.alerts.meta.SoTShot_Subtitle": "SoTShot",
   "scheduling.alerts.meta.Special_Twitch_Drop_Alt_Name": "Twitch Drops: {{campaign_name}}",
-  "scheduling.alerts.meta.Style_of_Thieves_Campaign_Name": "StyleOfThieves: {{theme_name}}",
+  "scheduling.alerts.meta.Style_Of_Thieves_Campaign_Name": "StyleOfThieves: {{theme_name}}",
   "scheduling.alerts.meta.Style_of_Thieves_Subtitle": "StyleOfThieves"
 }
