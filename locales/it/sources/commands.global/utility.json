@@ -31,5 +31,7 @@
   "commands.global.utility.Subscribe_Insider_Rewards_Subcommand_Name": "insider_rewards",
   "commands.global.utility.Subscribe_Name": "iscrivit",
   "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Description": "Subscribe to Twitch Drop reminder direct messages",
-  "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Name": "twitch_drops"
+  "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Name": "twitch_drops",
+  "commands.global.utility.Verify_Description": "Verify your account with Mercia's Quill",
+  "commands.global.utility.Verify_Name": "verify"
 }
