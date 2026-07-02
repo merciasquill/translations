@@ -6,7 +6,7 @@
   "scheduling.alerts.content.Community_Weekend_Game_Event_Reminder_Description": "**커뮤니티 이벤트 캠페인**이 <t:{{end_timestamp_s}}:R>에 종료됩니다! <t:{{end_timestamp_s}}:f> 이전에 로그인하여 [심심풀이]({{campaign_details_url}})를 완료하세요.",
   "scheduling.alerts.content.Ghoul_And_Glory_Message_Description": "Summon your crew and raise the skeletons- a spooky new Ghoul & Glory Weekend has begun! You'll gain boosted reputation, gold, renown, and allegiance for all your dark deeds!",
   "scheduling.alerts.content.Gold_And_Glory_Message_Description": "크루를 불러 항해를 테이블 위에 올려놓으세요. - 새로운 골드 & 글로리 주말이 시작되었습니다! 모든 멀티플레이어 해역에서 골드, 평판, 명성, 충성도가 증가합니다!",
-  "scheduling.alerts.content.Gold_Rush_Message_Description": "골드 러시는<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>까지 진행됩니다! 판매한 모든 전리품은 1.5배 보너스가 적용됩니다. - 골드를 모을 절호의 기회를 놓치지 마세요!",
+  "scheduling.alerts.content.Gold_Rush_Message_Description": "골드 러시는**<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>**까지 진행됩니다! 판매한 모든 전리품은 1.5배 보너스가 적용됩니다. - 골드를 모을 절호의 기회를 놓치지 마세요!",
   "scheduling.alerts.content.Insider_Rewards_Reminder_Description": "**인사이더 주간**이 <t:{{end_timestamp_s}}:R>에 종료됩니다! <t:{{end_timestamp_s}}:F> 전까지 목표를 완료하세요.",
   "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "**게임 이벤트 캠페인**이 <t:{{end_timestamp_s}}:R>에 종료됩니다! <t:{{end_timestamp_s}}:f> 이전에 로그인하여 [심심풀이]({[details_link]})를 완료하세요.",
   "scheduling.alerts.content.Regular_Twitch_Drop_Message_Description": "[{{availability_name}}]({{campaign_resource_url}})을(를) 시청하고 **{{total_rewards_watch_time_text}}** 동안 추가로 시청하여 모든 드롭스를 획득하세요! 트위치 계정을 씨 오브 시브즈에 연결하여 드롭스가 잠금 해제되면 수령하는 것을 잊지 마세요!",
