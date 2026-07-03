@@ -18,11 +18,11 @@
   "scheduling.alerts.meta.Miscellaneous_Event_Subcategory": "Miscellaneous Events",
   "scheduling.alerts.meta.Official_Cosmetics_Subcategory": "Official Cosmetics",
   "scheduling.alerts.meta.Regular_Twitch_Drops_Subcategory": "Regular Twitch Drops",
-  "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{event_theme}}",
+  "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{theme_name}}",
   "scheduling.alerts.meta.SoTShot_Competitions_Subcategory": "SoTShot Competitions",
   "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory": "Special Twitch Drops",
   "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory_Name": "Special Twitch Drops",
-  "scheduling.alerts.meta.Style_Of_Thieves_Campaign_Name": "도적의 스타일: {{theme_name}}",
+  "scheduling.alerts.meta.Style_Of_Thieves_Campaign_Name": "StyleOfThieves: {{theme_name}}",
   "scheduling.alerts.meta.Style_Of_Thieves_Competitions_Subcategory": "Style of Thieves Competitions",
   "scheduling.alerts.meta.Twitch_Drops_Campaign_Name": "Twitch Drops Campaign",
   "scheduling.alerts.meta.Twitch_Drops_Category": "Twitch Drops"
