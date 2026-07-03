@@ -1,5 +1,5 @@
 {
-  "scheduling.alerts.content.Affiliate_Cosmetic_Message_Description": "{{community_name}}이(가) **{[reward_items]}**에 대한 {{availability_name}}을(를) 주최하고 있습니다! 더 많은 세부 사항은 해당 커뮤니티에 [참가]({[community_invite]})하여 확인할 수 있습니다.",
+  "scheduling.alerts.content.Affiliate_Cosmetic_Message_Description": "{{community_name}}이(가) **{[reward_items]}**에 대한 {{availability_name}}을(를) 주최하고 있습니다! 더 많은 세부 사항은 해당 커뮤니티에 [참가]({{campaign_resource_url}})하여 확인할 수 있습니다.",
   "scheduling.alerts.content.Boost_Event_Message_Description": "크루를 모아 출항 준비를 하세요 - {{campaign_name}}이(가) 시작되었습니다! **{{faction_name}}**에 관련된 모든 활동에서 평판 및 골드가 증가합니다!",
   "scheduling.alerts.content.Capture_A_Code_Message_Description": "갑판장 Lootin' Lizalaroo가 포럼에서 코드 캡처 대회를 시작했습니다! **'{{theme_name}}'**테마의 스크린샷을 제출하여 독점 스킨을 받을 기회를 잡아보세요!",
   "scheduling.alerts.content.Community_Weekend_Game_Event_Message_Description": "탱커드를 들고 커뮤니티 축제를 준비하세요! 골드, 평판, 명성 등 [더 많은]({{campaign_details_url}}) 혜택을 즐기세요!",
