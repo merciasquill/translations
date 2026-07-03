@@ -1,6 +1,4 @@
 {
   "scheduling.alerts.globals.Campaign_Ends_Text": "Campaign Ends",
-  "scheduling.alerts.globals.Event_Powered_by_Footer": "Powered by {{client_name}} events for **{{public_alert_subcategory}}**",
-  "scheduling.alerts.globals.Message_Powered_by_Footer": "Powered by **{{client_name}}** alerts for **{{public_alert_subcategory}}**",
   "scheduling.alerts.globals.Reward_Pages_Footer": "View associated pages on [Mercia's Quill]({{reward_mq_url#}}), the [Sea of Thieves Wiki]({{reward_wiki_url#}}), and [Geekya]({{reward_geekya_url#}})"
 }
