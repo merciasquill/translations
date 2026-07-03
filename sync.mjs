@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, writeFileSync } from "fs";
+import { existsSync, readdirSync, readFileSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
@@ -32,7 +32,15 @@ for (const directory of sourceDirectories) {
         directory,
         file
       );
-      const importedLocaleData = JSON.parse(readFileSync(localePath, "utf8"));
+
+      const fileExists = existsSync(localePath);
+       if (!fileExists) {
+        console.error(`Locale file ${localePath} does not exist.`);
+        continue
+      }
+
+      const fileContents = readFileSync(localePath, "utf8");
+      const importedLocaleData = JSON.parse(fileContents);
 
       for (const key in importedLocaleData) {
         const formattedKey = formatKey(directory, key);
@@ -46,13 +54,13 @@ for (const directory of sourceDirectories) {
     }
   }
 
-  writeFileSync(`./json/${directory}.json`, JSON.stringify(languageData, null, 2));
+  writeFileSync(
+    `./json/${directory}.json`,
+    JSON.stringify(languageData, null, 2)
+  );
 }
 
 function formatKey(base, key) {
-
-
-
   const baseWithoutExtension = base.replace(".json", "");
   return key.replace(baseWithoutExtension + ".", "");
 }
