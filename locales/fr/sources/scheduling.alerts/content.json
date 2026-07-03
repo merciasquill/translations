@@ -5,24 +5,11 @@
   "scheduling.alerts.content.Community_Weekend_Game_Event_Message_Description": "Levez vos chopes et préparez-vous pour une nouvelle célébration communautaire ! Profitez d’un bonus sur l’or, la réputation, la renommée et [plus encore]({{campaign_details_url}}) !",
   "scheduling.alerts.content.Community_Weekend_Game_Event_Reminder_Description": "La **campagne d'événement communautaire** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({{campaign_details_url}}) avant le <t:{{end_timestamp_s}}:f>.",
   "scheduling.alerts.content.Ghoul_And_Glory_Message_Description": "Summon your crew and raise the skeletons- a spooky new Ghoul & Glory Weekend has begun! You'll gain boosted reputation, gold, renown, and allegiance for all your dark deeds!",
-  "scheduling.alerts.content.Gold_Rush_Message_Description": "La Ruée vers l'Or est maintenant active jusqu'au **<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>** ! Tous les butins remis bénéficieront d'un multiplicateur de 1,5×- alors emparez-vous de cet or !",
-  "scheduling.alerts.content.Gold_Twitch_Drop_Message_Description": "Regardez [{{availability_name}}]({{campaign_resource_url}}) pour gagner {[gold_drop_amount_thousands]}k pièces d’or ! N’oubliez pas de [lier]({[twitch_connection_url]}) votre compte Twitch à Sea of Thieves et de réclamer votre or une fois débloqué !",
   "scheduling.alerts.content.Gold_And_Glory_Message_Description": "Appelez votre équipage et lancez une expédition- un nouveau week-end Or et Gloire est désormais en cours ! Vous bénéficierez d’un gain accru de réputation, d’or, de renommée et d’allégeance pour toutes vos aventures en haute mer !",
+  "scheduling.alerts.content.Gold_Rush_Message_Description": "La Ruée vers l'Or est maintenant active jusqu'au **<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>** ! Tous les butins remis bénéficieront d'un multiplicateur de 1,5×- alors emparez-vous de cet or !",
   "scheduling.alerts.content.Insider_Rewards_Reminder_Description": "La **semaine Insider** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de gagner suffisamment de réputation avant le <t:{{end_timestamp_s}}:F>.",
   "scheduling.alerts.content.Miscellaneous_Event_Reminder_Description": "La **campagne d'événement de jeu** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[details_link]}) avant le <t:{{end_timestamp_s}}:f>.",
-  "scheduling.alerts.content.Partner_Cosmetic_Message_Description": "{[partner_name]} organise un(e) {{availability_name}} pour obtenir les exclusifs {[reward_items]} ! Vous pouvez consulter plus de détails en visitant leur [chaîne]({[partner_page]}).",
   "scheduling.alerts.content.Regular_Twitch_Drop_Message_Description": "Regardez [{{availability_name}}]({{campaign_resource_url}}) pendant un total de **{{total_rewards_watch_time_text}}** pour obtenir toutes les récompenses ! N’oubliez pas de lier votre compte Twitch à Sea of Thieves et de réclamer votre drop une fois débloqué !",
-  "scheduling.alerts.content.Twitch_Drop_Reminder_Description": 
-  
-  
-  
-  
-
-  
-
-
-  
-  "La campagne **{{public_alert_category}}** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de [réclamer]({[twitch_inventory_url]}) vos récompenses avant le <t:{{end_timestamp_s}}:f>.",
-  "scheduling.alerts.content.Special_Twitch_Drop_Reminder_Description": "La **campagne Twitch Drops** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de [réclamer]({[twitch_inventory_url]}) vos récompenses avant le <t:{{end_timestamp_s}}:f>.",
-  "scheduling.alerts.content.Special_Twitch_Drops_Message_Description": "Regardez [{{availability_name}}]({{campaign_resource_url}}) pendant un total de **{{total_rewards_watch_time_text}}** pour obtenir toutes les récompenses ! N’oubliez pas de lier votre compte Twitch à Sea of Thieves et de réclamer votre drop une fois débloqué !"
+  "scheduling.alerts.content.Special_Twitch_Drop_Message_Description": "Tune in and watch [{{availability_name}}]({{campaign_resource_url}}) to earn Twitch Drops! Remember to link your Twitch account to Sea of Thieves and claim your drop once it's unlocked!",
+  "scheduling.alerts.content.Twitch_Drop_Reminder_Description": "La campagne **{{public_alert_category}}** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de [réclamer]({[twitch_inventory_url]}) vos récompenses avant le <t:{{end_timestamp_s}}:f>."
 }

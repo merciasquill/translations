@@ -1,2 +1,19 @@
 {
+  "scheduling.alerts.rewards.75000_Gold_Description": "A fair-sized heap of shiny golden coins that can you can spend any cosmetic items at outpost stores.",
+  "scheduling.alerts.rewards.75000_Gold_Name": "75,000 Gold",
+  "scheduling.alerts.rewards.Fashionistas_Finale_Subtitle": "4x Winners",
+  "scheduling.alerts.rewards.Golden_Hour_Sails_Subtitle": "8x Winners",
+  "scheduling.alerts.rewards.Placeholder_Description": "No description is currently available. This value will be updated in the future.",
+  "scheduling.alerts.rewards.Plunder_Pass_Description": "Unlock extra rewards with this Season's Plunder Pass, offering previously unreleased cosmetics plus bonus currency including Ancient Coins to subsidise your purchase!",
+  "scheduling.alerts.rewards.Plunder_Pass_Name": "Plunder Pass",
+  "scheduling.alerts.rewards.Seasonal_Renown_Bonus_Description": "A boost of seasonal renown that can be used to level up your plunder pass for the season.",
+  "scheduling.alerts.rewards.Seasonal_Renown_Bonus_Name": "Seasonal Renown Bonus",
+  "scheduling.alerts.rewards.The_Gilded_Phoenix_Ship_Set_Description": "A collection of lustrous items including the Gilded Phoenix Cannons, Capstan, Figurehead, Flag, Hull, Soaring Sails, and Wheel.",
+  "scheduling.alerts.rewards.The_Gilded_Phoenix_Ship_Set_Name": "The Gilded Phoenix Ship Set",
+  "scheduling.alerts.rewards.The_Gilded_Phoenix_Weapon_Set_Description": "A collection of deadly items including the Gilded Phoenix Blunderbuss, Cutlass, Eye of Reach, and Pistol.",
+  "scheduling.alerts.rewards.The_Gilded_Phoenix_Weapon_Set_Name": "The Gilded Phoenix Weapon Set",
+  "scheduling.alerts.rewards.The_Obsidian_Six_Pack_Description": "A collection of assorted items including the Obsidian Drum, Eye of Reach, Lantern, Pocket Watch, Speaking Trumpet, and Spyglass.",
+  "scheduling.alerts.rewards.The_Obsidian_Six_Pack_Name": "The Obsidian Six Pack",
+  "scheduling.alerts.rewards.Voyage_Of_Luck_Description": "A limited-time voyage offering a chance at lucrative rewards sure to impress any pirate daring enough to embark on it.",
+  "scheduling.alerts.rewards.Voyage_Of_Luck_Name": "Voyage Of Luck"
 }

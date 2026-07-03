@@ -4,6 +4,7 @@
   "scheduling.alerts.components.Category_Feed_Button": "Category Feed",
   "scheduling.alerts.components.Change_Week_Button": "주간 변경",
   "scheduling.alerts.components.Completed_Button": "완료함",
+  "scheduling.alerts.components.Details_Button": "Details",
   "scheduling.alerts.components.Details_and_Connections_Button": "세부 사항 & 연결",
   "scheduling.alerts.components.Details_and_Entries_Button": "세부 사항 & 응모",
   "scheduling.alerts.components.Details_and_Info_Button": "세부 사항 & 정보",

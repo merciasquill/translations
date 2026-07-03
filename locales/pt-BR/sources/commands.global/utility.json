@@ -1,7 +1,13 @@
 {
+  "commands.global.utility.Giveaway_Create_Subcommand_Description": "Create a new giveaway using Mercia's Quill",
+  "commands.global.utility.Giveaway_Create_Subcommand_Name": "create",
+  "commands.global.utility.Giveaway_Description": "Create and manage giveaways using Mercia's Quill",
+  "commands.global.utility.Giveaway_Name": "Sorteio",
   "commands.global.utility.Help_Description": "Receba ajuda do servidor de suporte do Mercia's Quill's",
   "commands.global.utility.Help_Name": "ajuda",
   "commands.global.utility.Setup_Description": "Configurar funções ativas e módulos do Mercia's Quill's",
+  "commands.global.utility.Setup_Feature_Custom_Profile_Subcommand_Description": "Configure Mercia's Quill's custom profile in this server",
+  "commands.global.utility.Setup_Feature_Custom_Profile_Subcommand_Name": "custom_profile",
   "commands.global.utility.Setup_Feature_Subcommand_Group_Name": "função",
   "commands.global.utility.Setup_Feature_WikiGG_Lock_Subcommand_Description": "Configure automatic redirects to the wiki.gg domain",
   "commands.global.utility.Setup_Feature_WikiGG_Lock_Subcommand_Name": "wikigg_lock",
@@ -25,5 +31,7 @@
   "commands.global.utility.Subscribe_Insider_Rewards_Subcommand_Name": "insider_rewards",
   "commands.global.utility.Subscribe_Name": "inscreva-se",
   "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Description": "Subscribe to Twitch Drop reminder direct messages",
-  "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Name": "twitch_drops"
+  "commands.global.utility.Subscribe_Twitch_Drops_Subcommand_Name": "twitch_drops",
+  "commands.global.utility.Verify_Description": "Verify your account with Mercia's Quill",
+  "commands.global.utility.Verify_Name": "verify"
 }
