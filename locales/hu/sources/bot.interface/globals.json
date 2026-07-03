@@ -1,5 +1,4 @@
 {
   "bot.interface.globals.Learn_More_CTA_Footer": "learn more",
-  "bot.interface.globals.Powered_by_Footer": "Mercia's Quill által működtetve",
-  "bot.interface.globals.Giveaway_Powered_by_Footer": "Powered by **{{client_name}}** giveaways for **{{server_name}}**"
+  "bot.interface.globals.Powered_by_Footer": "Mercia's Quill által működtetve"
 }
