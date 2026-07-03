@@ -18,7 +18,7 @@
   "scheduling.alerts.meta.Miscellaneous_Event_Subcategory": "Miscellaneous Events",
   "scheduling.alerts.meta.Official_Cosmetics_Subcategory": "Official Cosmetics",
   "scheduling.alerts.meta.Regular_Twitch_Drops_Subcategory": "Regular Twitch Drops",
-  "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{event_theme}}",
+  "scheduling.alerts.meta.SoTShot_Campaign_Name": "SoTShot: {{theme_name}}",
   "scheduling.alerts.meta.SoTShot_Competitions_Subcategory": "SoTShot Competitions",
   "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory": "Special Twitch Drops",
   "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory_Name": "Special Twitch Drops",
