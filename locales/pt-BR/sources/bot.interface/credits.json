@@ -1,5 +1,5 @@
 {
-  "bot.interface.credits.Alerts_Powered_by_Footer": "Powered by **{{client_name}}** alert webhooks for **{{public_alert_subcategory}}**",
+  "bot.interface.credits.Alerts_Powered_by_Footer": "Powered by **{{client_name}}** alerts for **{{public_alert_subcategory}}**",
   "bot.interface.credits.Events_Powered_by_Footer": "Powered by **{{client_name}}** events for **{{public_alert_subcategory}}**",
   "bot.interface.credits.Giveaway_Powered_by_Footer": "Powered by **{{client_name}}** giveaways for **{{server_name}}**"
 }
