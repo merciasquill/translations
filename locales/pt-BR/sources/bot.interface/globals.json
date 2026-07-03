@@ -1,4 +1,5 @@
 {
   "bot.interface.globals.Learn_More_CTA_Footer": "learn more",
-  "bot.interface.globals.Powered_by_Footer": "Fornecido por Mercia's Quilll"
+  "bot.interface.globals.Powered_by_Footer": "Fornecido por Mercia's Quilll",
+  "bot.interface.globals.Giveaway_Powered_by_Footer": "Powered by **{{client_name}}** giveaways for **{{server_name}}**"
 }
