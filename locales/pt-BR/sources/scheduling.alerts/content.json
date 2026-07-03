@@ -1,5 +1,5 @@
 {
-  "scheduling.alerts.content.Affiliate_Cosmetic_Message_Description": "{{community_name}} está organizando um {{availability_name}}, se liga pra ganhar **{[reward_items]}**! Você pode ver mais detalhes [entrando]({[community_invite]}) na comunidade.",
+  "scheduling.alerts.content.Affiliate_Cosmetic_Message_Description": "{{community_name}} está organizando um {{availability_name}}, se liga pra ganhar **{[reward_items]}**! Você pode ver mais detalhes [entrando]({{campaign_resource_url}}) na comunidade.",
   "scheduling.alerts.content.Boost_Event_Message_Description": "Junte-se à sua tripulação e se preparem pra zarpar, o {{campaign_name}} está ativo! Você vai ganhar reputação e ouro extra por qualquer atividade relacionada a **{{faction_name}}**!",
   "scheduling.alerts.content.Capture_A_Code_Message_Description": "O Deckhand Lootin' Lizalaroo está de volta com mais uma competição \"Capture a Code\" nos fóruns! Tire uma foto de **'{{theme_name}}'** e você terá a chance de ganhar uma variedade de cosméticos exclusivos.",
   "scheduling.alerts.content.Community_Weekend_Game_Event_Message_Description": "Levantem suas canecas e se preparem pra mais uma celebração da comunidade! Aproveite o boost em ouro, reputação, renome e [mais]({{campaign_details_url}})!",
