@@ -7,9 +7,7 @@
     "en-GB": "Author Feed",
     "pt-BR": "Feed do Autor"
   },
-  "components.Category_Feed_Button": {
-    "en-GB": "Category Feed"
-  },
+  "components.Category_Feed_Button": { "en-GB": "Category Feed" },
   "components.Change_Week_Button": {
     "en-GB": "Change Week",
     "es-ES": "Cambiar Semana",
@@ -26,6 +24,7 @@
     "ko": "완료함",
     "pt-BR": "Completado"
   },
+  "components.Details_Button": { "en-GB": "Details" },
   "components.Details_and_Connections_Button": {
     "en-GB": "Details & Connections",
     "es-ES": "Enlaza tus cuentas",
@@ -74,9 +73,7 @@
     "ko": "보상 내역",
     "pt-BR": "Histórico"
   },
-  "components.Subreddit_Feed_Button": {
-    "en-GB": "Subreddit Feed"
-  },
+  "components.Subreddit_Feed_Button": { "en-GB": "Subreddit Feed" },
   "components.Theme_Announcement_Button": {
     "en-GB": "Theme Announcement",
     "es-ES": "Anuncio del tema",
@@ -88,12 +85,8 @@
   "components.View_Full_Dynamic_Post_Button": {
     "en-GB": "View Full {[locale_specific-Post_Type]}"
   },
-  "components.View_Full_Post_Button": {
-    "en-GB": "View Full Post"
-  },
-  "components.Visit_Full_Thread_Button": {
-    "en-GB": "Visit Full Thread"
-  },
+  "components.View_Full_Post_Button": { "en-GB": "View Full Post" },
+  "components.Visit_Full_Thread_Button": { "en-GB": "Visit Full Thread" },
   "components.Watch_Full_Video_Button": {
     "en-GB": "Watch Full Video",
     "pt-BR": "Assista o Vídeo Completo"
@@ -102,292 +95,201 @@
     "en-GB": "Youtube Channel",
     "pt-BR": "Canal do Youtube"
   },
-  "content.Affiliate_Cosmetic_Main_Description": {
-    "en-GB": "{[community_name]} is hosting a {[availability_name]} for the coveted **{[reward_items]}**! You can view more details by [joining]({[community_invite]}) their community.",
-    "es-ES": "¡{[community_name]} está organizando un {[availability_name]} en el que podrás conseguir **{[reward_items]}**! Podrás obtener más información al [unirte]({[community_invite]}) a su comunidad.",
-    "fr": "{[community_name]} organise un(e) {[availability_name]} pour obtenir les très convoités **{[reward_items]}** ! Vous pouvez consulter plus de détails en [rejoignant]({[community_invite]}) leur communauté.",
-    "hu": "A {[community_name]} egy {[availability_name]}-t szervez a következő jutalmakért **{[reward_items]}**! Több részletről olvashatsz, ha [csatlakozol]({[community_invite]}) a közösséghez.",
-    "ko": "{[community_name]}이(가) **{[reward_items]}**에 대한 {[availability_name]}을(를) 주최하고 있습니다! 더 많은 세부 사항은 해당 커뮤니티에 [참가]({[community_invite]})하여 확인할 수 있습니다.",
-    "pt-BR": "{[community_name]} está organizando um {[availability_name]}, se liga pra ganhar **{[reward_items]}**! Você pode ver mais detalhes [entrando]({[community_invite]}) na comunidade."
+  "content.Affiliate_Cosmetic_Message_Description": {
+    "en-GB": "{{community_name}} is hosting a {{availability_name}} for the coveted **{{reward_names_inline_list}}**! You can view more [details]({{campaign_details_url}}) by [joining]({{campaign_resource_url}}) their community.",
+    "es-ES": "¡{{community_name}} está organizando un {{availability_name}} en el que podrás conseguir **{[reward_items]}**! Podrás obtener más información al [unirte]({{campaign_resource_url}}) a su comunidad.",
+    "fr": "{{community_name}} organise un(e) {{availability_name}} pour obtenir les très convoités **{[reward_items]}** ! Vous pouvez consulter plus de détails en [rejoignant]({{campaign_resource_url}}) leur communauté.",
+    "hu": "A {{community_name}} egy {{availability_name}}-t szervez a következő jutalmakért **{[reward_items]}**! Több részletről olvashatsz, ha [csatlakozol]({{campaign_resource_url}}) a közösséghez.",
+    "ko": "{{community_name}}이(가) **{[reward_items]}**에 대한 {{availability_name}}을(를) 주최하고 있습니다! 더 많은 세부 사항은 해당 커뮤니티에 [참가]({{campaign_resource_url}})하여 확인할 수 있습니다.",
+    "pt-BR": "{{community_name}} está organizando um {{availability_name}}, se liga pra ganhar **{[reward_items]}**! Você pode ver mais detalhes [entrando]({{campaign_resource_url}}) na comunidade."
   },
-  "content.Boost_Event_Main_Description": {
-    "en-GB": "Assemble your crew and get ready to set sail — {[main_event_name]} is now live! You'll gain boosted reputation and gold for any activities related to {[boost_faction]}!",
-    "es-ES": "¡Reúne a tu tripulación y prepárate para zarpar: {[main_event_name]} ya está en marcha! ¡Obtendrás un aumento de reputación y oro por cualquier actividad relacionada con {[boost_faction]}!",
-    "fr": "Rassemblez votre équipage et préparez-vous à prendre la mer — {[main_event_name]} est désormais lancé ! Vous bénéficierez d’un gain accru de réputation et d’or pour toutes les activités liées à {[boost_faction]} !",
-    "hu": "Gyűjtsd össze a legénységedet és készülj a vitorlázásra — A {[main_event_name]} már elindult! Megnövelt reputationt és goldot kapsz minden {[boost_faction]} tevékenységnél!",
-    "ko": "크루를 모아 출항 준비를 하세요 - {[main_event_name]}이(가) 시작되었습니다! {[boost_faction]}에 관련된 모든 활동에서 평판 및 골드가 증가합니다!",
-    "pt-BR": "Junte-se à sua tripulação e se preparem pra zarpar, o {[main_event_name]} está ativo! Você vai ganhar reputação e ouro extra por qualquer atividade relacionada a {[boost_faction]}!"
+  "content.Boost_Event_Message_Description": {
+    "en-GB": "Assemble your crew and get ready to set sail- {{campaign_name}} is now live! You'll gain boosted reputation and gold for any activities related to **{{faction_name}}**!",
+    "es-ES": "¡Reúne a tu tripulación y prepárate para zarpar: {{campaign_name}} ya está en marcha! ¡Obtendrás un aumento de reputación y oro por cualquier actividad relacionada con **{{faction_name}}**!",
+    "fr": "Rassemblez votre équipage et préparez-vous à prendre la mer- {{campaign_name}} est désormais lancé ! Vous bénéficierez d’un gain accru de réputation et d’or pour toutes les activités liées à **{{faction_name}}** !",
+    "hu": "Gyűjtsd össze a legénységedet és készülj a vitorlázásra- A {{campaign_name}} már elindult! Megnövelt reputationt és goldot kapsz minden **{{faction_name}}** tevékenységnél!",
+    "ko": "크루를 모아 출항 준비를 하세요 - {{campaign_name}}이(가) 시작되었습니다! **{{faction_name}}**에 관련된 모든 활동에서 평판 및 골드가 증가합니다!",
+    "pt-BR": "Junte-se à sua tripulação e se preparem pra zarpar, o {{campaign_name}} está ativo! Você vai ganhar reputação e ouro extra por qualquer atividade relacionada a **{{faction_name}}**!"
   },
-  "content.Capture_a_Code_Main_Description": {
-    "en-GB": "Deckhand Lootin' Lizalaroo is back with another Capture a Code competition on the forums! Snap a shot of **'{[event_theme]}'** and you'll have a chance to earn a variety of exclusive cosmetics.",
-    "es-ES": "¡Lootin' Lizalaroo regresa con otro Capture a Code a los foros! Haz una captura siguiendo la temática **'{[event_theme]}'** y tendrás la oportunidad de ganar una variedad de cosméticos exclusivos en el juego.",
-    "fr": "La Moussaillonne Pillarde Lizalaroo est de retour avec un nouveau concours « Capturez un Code » sur les forums ! Prenez un cliché de **« {[event_theme]} »** et vous aurez la chance de gagner une variété de cosmétiques exclusifs.",
-    "hu": "Deckhand Lootin' Lizalaroo visszatért egy újabb Capture a Code versennyel a fórumon! Készíts egy képet a **'{[event_theme]}'** témával kapcsolatban és esélyed lesz különféle exkluzív cosmeticokat szerezni.",
-    "ko": "갑판장 Lootin' Lizalaroo가 포럼에서 코드 캡처 대회를 시작했습니다! **'{[event_theme]}'**테마의 스크린샷을 제출하여 독점 스킨을 받을 기회를 잡아보세요!",
-    "pt-BR": "O Deckhand Lootin' Lizalaroo está de volta com mais uma competição \"Capture a Code\" nos fóruns! Tire uma foto de **'{[event_theme]}'** e você terá a chance de ganhar uma variedade de cosméticos exclusivos."
+  "content.Capture_A_Code_Message_Description": {
+    "en-GB": "Deckhand Lootin' Lizalaroo is back with another Capture a Code competition on the forums! Snap a shot of **'{{theme_name}}'** and you'll have a chance to earn a variety of exclusive cosmetics.",
+    "es-ES": "¡Lootin' Lizalaroo regresa con otro Capture a Code a los foros! Haz una captura siguiendo la temática **'{{theme_name}}'** y tendrás la oportunidad de ganar una variedad de cosméticos exclusivos en el juego.",
+    "fr": "La Moussaillonne Pillarde Lizalaroo est de retour avec un nouveau concours « Capturez un Code » sur les forums ! Prenez un cliché de **« {{theme_name}} »** et vous aurez la chance de gagner une variété de cosmétiques exclusifs.",
+    "hu": "Deckhand Lootin' Lizalaroo visszatért egy újabb Capture a Code versennyel a fórumon! Készíts egy képet a **'{{theme_name}}'** témával kapcsolatban és esélyed lesz különféle exkluzív cosmeticokat szerezni.",
+    "ko": "갑판장 Lootin' Lizalaroo가 포럼에서 코드 캡처 대회를 시작했습니다! **'{{theme_name}}'**테마의 스크린샷을 제출하여 독점 스킨을 받을 기회를 잡아보세요!",
+    "pt-BR": "O Deckhand Lootin' Lizalaroo está de volta com mais uma competição \"Capture a Code\" nos fóruns! Tire uma foto de **'{{theme_name}}'** e você terá a chance de ganhar uma variedade de cosméticos exclusivos."
   },
-  "content.Community_Event_Main_Description": {
-    "en-GB": "Raise your tankards and get ready for another community celebration! You can enjoy a boost on gold, reputation, renown, and [more]({[sot_article_url]})!",
-    "es-ES": "¡Alzad vuestras jarras y preparaos para otra celebración en comunidad! ¡Podréis disfrutar de un aumento en oro, reputación, renombre y mucho [más]({[sot_article_url]})!",
-    "fr": "Levez vos chopes et préparez-vous pour une nouvelle célébration communautaire ! Profitez d’un bonus sur l’or, la réputation, la renommée et [plus encore]({[sot_article_url]}) !",
-    "hu": "Emeljétek fel korsóitokat, és készüljetek fel egy újabb közösségi ünnepre!! Élvezheted a reputation, arany, renown és [egyéb]({[sot_article_url]}) megnövelését!",
-    "ko": "탱커드를 들고 커뮤니티 축제를 준비하세요! 골드, 평판, 명성 등 [더 많은]({[sot_article_url]}) 혜택을 즐기세요!",
-    "pt-BR": "Levantem suas canecas e se preparem pra mais uma celebração da comunidade! Aproveite o boost em ouro, reputação, renome e [mais]({[sot_article_url]})!"
+  "content.Community_Weekend_Game_Event_Message_Description": {
+    "en-GB": "Raise your tankards and get ready for another community celebration! You can enjoy a boost on gold, reputation, renown, and [more]({{campaign_details_url}})!",
+    "es-ES": "¡Alzad vuestras jarras y preparaos para otra celebración en comunidad! ¡Podréis disfrutar de un aumento en oro, reputación, renombre y mucho [más]({{campaign_details_url}})!",
+    "fr": "Levez vos chopes et préparez-vous pour une nouvelle célébration communautaire ! Profitez d’un bonus sur l’or, la réputation, la renommée et [plus encore]({{campaign_details_url}}) !",
+    "hu": "Emeljétek fel korsóitokat, és készüljetek fel egy újabb közösségi ünnepre!! Élvezheted a reputation, arany, renown és [egyéb]({{campaign_details_url}}) megnövelését!",
+    "ko": "탱커드를 들고 커뮤니티 축제를 준비하세요! 골드, 평판, 명성 등 [더 많은]({{campaign_details_url}}) 혜택을 즐기세요!",
+    "pt-BR": "Levantem suas canecas e se preparem pra mais uma celebração da comunidade! Aproveite o boost em ouro, reputação, renome e [mais]({{campaign_details_url}})!"
   },
-  "content.Community_Event_Reminder_Description": {
-    "en-GB": "The current **Community Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
-    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[sot_article_url]}) antes del <t:{[end_timestamp_s]}:f>.",
-    "fr": "La **campagne d'événement communautaire** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[sot_article_url]}) avant le <t:{[end_timestamp_s]}:f>.",
-    "hu": "A jelenlegi **Közösségi Esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[sot_article_url]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
-    "ko": "**커뮤니티 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[sot_article_url]})를 완료하세요.",
-    "pt-BR": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>."
+  "content.Community_Weekend_Game_Event_Reminder_Description": {
+    "en-GB": "The current **Community Event campaign** ends <t:{{end_timestamp_s}}:R>! Make sure to login and complete all [deeds]({{campaign_details_url}}) before <t:{{end_timestamp_s}}:f>.",
+    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{{end_timestamp_s}}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({{campaign_details_url}}) antes del <t:{{end_timestamp_s}}:f>.",
+    "fr": "La **campagne d'événement communautaire** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({{campaign_details_url}}) avant le <t:{{end_timestamp_s}}:f>.",
+    "hu": "A jelenlegi **Közösségi Esemény kampány** véget ér <t:{{end_timestamp_s}}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({{campaign_details_url}}) ezelőtt <t:{{end_timestamp_s}}:f>.",
+    "ko": "**커뮤니티 이벤트 캠페인**이 <t:{{end_timestamp_s}}:R>에 종료됩니다! <t:{{end_timestamp_s}}:f> 이전에 로그인하여 [심심풀이]({{campaign_details_url}})를 완료하세요.",
+    "pt-BR": "O **Evento do Jogo** atual termina às <t:{{end_timestamp_s}}:R>! Certifique-se de logar e completar todas as [façanhas]({{campaign_details_url}}) before <t:{{end_timestamp_s}}:f>."
   },
-  "content.Ghoul_and_Glory_Main_Description": {
-    "en-GB": "Summon your crew and raise the skeletons — a spooky new Ghoul & Glory Weekend has begun! You'll gain boosted reputation, gold, renown, and allegiance for all your dark deeds!"
+  "content.Ghoul_And_Glory_Message_Description": {
+    "en-GB": "Summon your crew and raise the skeletons- a spooky new Ghoul & Glory Weekend has begun! You'll gain boosted reputation, gold, renown, and allegiance for all your dark deeds!"
   },
-  "content.Gold_Rush_Main_Description": {
-    "en-GB": "Gold Rush is now active until <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! All loot cashed in will enjoy a 1.5x multiplier — so grab that gold!",
-    "es-ES": "¡La Fiebre del Oro estará activa hasta las <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! Todo el botín que entreguéis tendrá un multiplicador de 1.5x, ¡a por el oro!",
-    "fr": "La Ruée vers l'Or est maintenant active jusqu'au <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R> ! Tous les butins remis bénéficieront d'un multiplicateur de 1,5× — alors emparez-vous de cet or !",
-    "hu": "Gold Rush mostantól aktív eddig <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! Minden beváltott kincsért 1.5-szörös szorzót élvezhetsz - csapj le az aranyra!",
-    "ko": "골드 러시는<t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>까지 진행됩니다! 판매한 모든 전리품은 1.5배 보너스가 적용됩니다. - 골드를 모을 절호의 기회를 놓치지 마세요!",
-    "pt-BR": "A Febre do Ouro está ativa até <t:{[end_timestamp_s]}:t>, <t:{[end_timestamp_s]}:R>! Todo loot vendido receberá um bônus de 1,5x no ouro. Não perde a chance!"
-  },
-  "content.Gold_Twitch_Drop_Main_Description": {
-    "en-GB": "Tune in and watch [{[availability_name]}]({[availability_link]}) to earn {[gold_drop_amount_thousands]}k gold! Remember to [link]({[twitch_connection_url]}) your Twitch account to Sea of Thieves and claim the gold once it's unlocked!",
-    "es-ES": "¡Conéctate y mira [{[availability_name]}]({[availability_link]}) para ganar {[gold_drop_amount_thousands]}k de Oro. Recuerda [vincular]({[twitch_connection_url]}) tu cuenta de Twitch a Sea of Thieves y reclamar tu recompensa una vez que esté desbloqueada.",
-    "fr": "Regardez [{[availability_name]}]({[availability_link]}) pour gagner {[gold_drop_amount_thousands]}k pièces d’or ! N’oubliez pas de [lier]({[twitch_connection_url]}) votre compte Twitch à Sea of Thieves et de réclamer votre or une fois débloqué !",
-    "hu": "Kapcsolódj be és nézd a [{[availability_name]}]({[availability_link]}), hogy {[gold_drop_amount_thousands]}k aranyat szerezz! Ne felejtsd el [link]({[twitch_connection_url]}) csatolni a Twitch fiókodat a Sea of ​​Thieveshez, és amint feloldod az aranyat, váltsd be!",
-    "ko": "[{[availability_name]}]({[availability_link]})을(를) 시청하고 {[gold_drop_amount_thousands]}k 골드를 얻으세요! 트위치 계정을 씨 오브 시브즈에 [연결]({[twitch_connection_url]})하여 골드가 잠금 해제되면 보상받는 것을 잊지 마세요!",
-    "pt-BR": "Clique e assista [{[availability_name]}]({[availability_link]}) pra receber {[gold_drop_amount_thousands]}k moedas de ouro! Lembre-se de [linkar]({[twitch_connection_url]}) sua Twitch ao Sea of Thieves e resgatar o ouro assim que desbloqueá-lo!"
-  },
-  "content.Gold_and_Glory_Main_Description": {
-    "en-GB": "Call your crew and throw a Voyage on the table — a new Gold & Glory Weekend is now live! You'll gain boosted reputation, gold, renown, and allegiance for all your high-sea hijinks!",
+  "content.Gold_And_Glory_Message_Description": {
+    "en-GB": "Call your crew and throw a Voyage on the table- a new Gold & Glory Weekend is now live! You'll gain boosted reputation, gold, renown, and allegiance for all your high-sea hijinks!",
     "es-ES": "¡Llama a tu tripulación y lanza una travesía sobre la mesa: ¡El Fin de Semana de Oro y Gloria ya está aquí! Obtendrás un aumento en reputación, oro, renombre y lealtad por todas tus travesuras en alta mar.",
-    "fr": "Appelez votre équipage et lancez une expédition — un nouveau week-end Or et Gloire est désormais en cours ! Vous bénéficierez d’un gain accru de réputation, d’or, de renommée et d’allégeance pour toutes vos aventures en haute mer !",
-    "hu": "Hívd össze a legénységedet és tegyetek egy küldetést a kapitány asztalra — egy újabb Gold & Glory hétvége elindult! Megnövelt reputation-t, aranyat, renown-t és allegiance-t kapsz minden nyílt tengeri bolondságodért!",
+    "fr": "Appelez votre équipage et lancez une expédition- un nouveau week-end Or et Gloire est désormais en cours ! Vous bénéficierez d’un gain accru de réputation, d’or, de renommée et d’allégeance pour toutes vos aventures en haute mer !",
+    "hu": "Hívd össze a legénységedet és tegyetek egy küldetést a kapitány asztalra- egy újabb Gold & Glory hétvége elindult! Megnövelt reputation-t, aranyat, renown-t és allegiance-t kapsz minden nyílt tengeri bolondságodért!",
     "ko": "크루를 불러 항해를 테이블 위에 올려놓으세요. - 새로운 골드 & 글로리 주말이 시작되었습니다! 모든 멀티플레이어 해역에서 골드, 평판, 명성, 충성도가 증가합니다!",
     "pt-BR": "Junte-se à sua tripulação e votem numa Jornada na mesa: um novo Fim de Semana de Ouro & Glória está rolando! Você ganhará um boost em sua reputação, ouro, renome e lealdade por todas suas façanhas!"
   },
+  "content.Gold_Rush_Message_Description": {
+    "en-GB": "Gold Rush is now active until **<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>**! All loot cashed in will enjoy a 1.5x multiplier on gold for the next hour.",
+    "es-ES": "¡La Fiebre del Oro estará activa hasta las **<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>**! Todo el botín que entreguéis tendrá un multiplicador de 1.5x, ¡a por el oro!",
+    "fr": "La Ruée vers l'Or est maintenant active jusqu'au **<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>** ! Tous les butins remis bénéficieront d'un multiplicateur de 1,5×- alors emparez-vous de cet or !",
+    "hu": "Gold Rush mostantól aktív eddig **<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>**! Minden beváltott kincsért 1.5-szörös szorzót élvezhetsz - csapj le az aranyra!",
+    "ko": "골드 러시는**<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>**까지 진행됩니다! 판매한 모든 전리품은 1.5배 보너스가 적용됩니다. - 골드를 모을 절호의 기회를 놓치지 마세요!",
+    "pt-BR": "A Febre do Ouro está ativa até **<t:{{end_timestamp_s}}:t>, <t:{{end_timestamp_s}}:R>**! Todo loot vendido receberá um bônus de 1,5x no ouro. Não perde a chance!"
+  },
   "content.Insider_Rewards_Reminder_Description": {
-    "en-GB": "The current **Insider week** ends <t:{[end_timestamp_s]}:R>! Make sure to earn enough reputation before <t:{[end_timestamp_s]}:F>.",
-    "es-ES": "La actual **Semana de Insiders** termina el <t:{[end_timestamp_s]}:R>! Asegúrate de ganar suficiente reputación antes del <t:{[end_timestamp_s]}:F>.",
-    "fr": "La **semaine Insider** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de gagner suffisamment de réputation avant le <t:{[end_timestamp_s]}:F>.",
-    "hu": "A jelenlegi **Insider hét** véget ér <t:{[end_timestamp_s]}:R>! Győződj meg róla, hogy elég reputationt szerzel ez előtt <t:{[end_timestamp_s]}:F>.",
-    "ko": "**인사이더 주간**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:F> 전까지 목표를 완료하세요.",
-    "pt-BR": "A **Semana de Insider** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de ganhar reputação suficiente antes de <t:{[end_timestamp_s]}:F>."
+    "en-GB": "The current **Insider week** ends <t:{{end_timestamp_s}}:R>! Make sure to earn enough reputation before <t:{{end_timestamp_s}}:F>.",
+    "es-ES": "La actual **Semana de Insiders** termina el <t:{{end_timestamp_s}}:R>! Asegúrate de ganar suficiente reputación antes del <t:{{end_timestamp_s}}:F>.",
+    "fr": "La **semaine Insider** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de gagner suffisamment de réputation avant le <t:{{end_timestamp_s}}:F>.",
+    "hu": "A jelenlegi **Insider hét** véget ér <t:{{end_timestamp_s}}:R>! Győződj meg róla, hogy elég reputationt szerzel ez előtt <t:{{end_timestamp_s}}:F>.",
+    "ko": "**인사이더 주간**이 <t:{{end_timestamp_s}}:R>에 종료됩니다! <t:{{end_timestamp_s}}:F> 전까지 목표를 완료하세요.",
+    "pt-BR": "A **Semana de Insider** atual termina às <t:{{end_timestamp_s}}:R>! Certifique-se de ganhar reputação suficiente antes de <t:{{end_timestamp_s}}:F>."
   },
   "content.Miscellaneous_Event_Reminder_Description": {
-    "en-GB": "The current **Game Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
-    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{[end_timestamp_s]}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[details_link]}) antes del <t:{[end_timestamp_s]}:f>.",
-    "fr": "La **campagne d'événement de jeu** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[details_link]}) avant le <t:{[end_timestamp_s]}:f>.",
-    "hu": "A jelenlegi **Játék esemény kampány** véget ér <t:{[end_timestamp_s]}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[details_link]}) ezelőtt <t:{[end_timestamp_s]}:f>.",
-    "ko": "**게임 이벤트 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 로그인하여 [심심풀이]({[details_link]})를 완료하세요.",
-    "pt-BR": "O **Evento do Jogo** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de logar e completar todas as [façanhas]({[details_link]}) before <t:{[end_timestamp_s]}:f>."
+    "en-GB": "The current **Game Event campaign** ends <t:{{end_timestamp_s}}:R>! Make sure to login and complete all [deeds]({campaign_resource_url}}) before <t:{{end_timestamp_s}}:f>.",
+    "es-ES": "La actual **Campaña de eventos del juego** termina <t:{{end_timestamp_s}}:R>! Asegúrate de iniciar sesión y completar todas las [hazañas]({[details_link]}) antes del <t:{{end_timestamp_s}}:f>.",
+    "fr": "La **campagne d'événement de jeu** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de vous connecter et de compléter toutes les [actions]({[details_link]}) avant le <t:{{end_timestamp_s}}:f>.",
+    "hu": "A jelenlegi **Játék esemény kampány** véget ér <t:{{end_timestamp_s}}:R>! Jelentkezz be és teljesítsd az összes [deed-eket]({[details_link]}) ezelőtt <t:{{end_timestamp_s}}:f>.",
+    "ko": "**게임 이벤트 캠페인**이 <t:{{end_timestamp_s}}:R>에 종료됩니다! <t:{{end_timestamp_s}}:f> 이전에 로그인하여 [심심풀이]({[details_link]})를 완료하세요.",
+    "pt-BR": "O **Evento do Jogo** atual termina às <t:{{end_timestamp_s}}:R>! Certifique-se de logar e completar todas as [façanhas]({[details_link]}) before <t:{{end_timestamp_s}}:f>."
   },
-  "content.Partner_Cosmetic_Main_Description": {
-    "en-GB": "{[partner_name]} is hosting a {[availability_name]} for the exclusive {[reward_items]}! You can view more details by checking out their [channel]({[partner_page]}).",
-    "es-ES": "¡{[partner_name]} está organizando un {[availability_name]} en el que podrás conseguir **{[reward_items]}**! Podrás obtener más información visitando su [canal]({[partner_page]}).",
-    "fr": "{[partner_name]} organise un(e) {[availability_name]} pour obtenir les exclusifs {[reward_items]} ! Vous pouvez consulter plus de détails en visitant leur [chaîne]({[partner_page]}).",
-    "hu": "{[partner_name]} egy {[availability_name]}-t szervez az exkluzív {[reward_items]} tárgyakért! Több részletetről olvashatsz, ha megnézed a [csatornájukat]({[partner_page]}).",
-    "ko": "{[partner_name]}이(가) **{[reward_items]}**에 대한 {[availability_name]}을(를) 주최하고 있습니다! 더 많은 세부 사항은 해당 [채널]({[partner_page]})에서 확인할 수 있습니다.",
-    "pt-BR": "{[partner_name]} está organizando um {[availability_name]}, se liga pra ganhar {[reward_items]}! Você pode ver mais detalhes visitando seu [canal]({[partner_page]})."
+  "content.Regular_Twitch_Drop_Message_Description": {
+    "en-GB": "Tune in and watch [{{availability_name}}]({{campaign_resource_url}}) for a total of **{{total_rewards_watch_time_text}}** to earn all drops! Remember to link your Twitch account to Sea of Thieves and claim your drop once it's unlocked!",
+    "es-ES": "¡Conéctate y mira [{{availability_name}}]({{campaign_resource_url}}) durante un total de **{{total_rewards_watch_time_text}}** para ganar todas las recompensas! Recuerda vincular tu cuenta de Twitch a Sea of Thieves y reclamar tu recompensa una vez que esté desbloqueada.",
+    "fr": "Regardez [{{availability_name}}]({{campaign_resource_url}}) pendant un total de **{{total_rewards_watch_time_text}}** pour obtenir toutes les récompenses ! N’oubliez pas de lier votre compte Twitch à Sea of Thieves et de réclamer votre drop une fois débloqué !",
+    "hu": "Kapcsolódj be és nézd a [{{availability_name}}]({{campaign_resource_url}})-t összesen **{{total_rewards_watch_time_text}}**-ig, hogy megszerezd az összes jutalmat! Ne felejtsd el összekapcsolni a Twitch-fiókodat a Sea of ​​Thieves-szel, és váltsd be jutalmad, amint feloldottad!",
+    "ko": "[{{availability_name}}]({{campaign_resource_url}})을(를) 시청하고 **{{total_rewards_watch_time_text}}** 동안 추가로 시청하여 모든 드롭스를 획득하세요! 트위치 계정을 씨 오브 시브즈에 연결하여 드롭스가 잠금 해제되면 수령하는 것을 잊지 마세요!",
+    "pt-BR": "Clique e assista [{{availability_name}}]({{campaign_resource_url}}) por um total de **{{total_rewards_watch_time_text}}** para ganhar todos os drops! Lembre-se de vincular sua conta da Twitch ao Sea of Thieves para poder resgatar os drops!"
   },
-  "content.Regular_Twitch_Drop_Main_Description": {
-    "en-GB": "Tune in and watch [{[availability_name]}]({[availability_link]}) for a total of **{[rewards_total_time]}** to earn all drops! Remember to link your Twitch account to Sea of Thieves and claim your drop once it's unlocked!",
-    "es-ES": "¡Conéctate y mira [{[availability_name]}]({[availability_link]}) durante un total de **{[rewards_total_time]}** para ganar todas las recompensas! Recuerda vincular tu cuenta de Twitch a Sea of Thieves y reclamar tu recompensa una vez que esté desbloqueada.",
-    "fr": "Regardez [{[availability_name]}]({[availability_link]}) pendant un total de **{[rewards_total_time]}** pour obtenir toutes les récompenses ! N’oubliez pas de lier votre compte Twitch à Sea of Thieves et de réclamer votre drop une fois débloqué !",
-    "hu": "Kapcsolódj be és nézd a [{[availability_name]}]({[availability_link]})-t összesen **{[rewards_total_time]}**-ig, hogy megszerezd az összes jutalmat! Ne felejtsd el összekapcsolni a Twitch-fiókodat a Sea of ​​Thieves-szel, és váltsd be jutalmad, amint feloldottad!",
-    "ko": "[{[availability_name]}]({[availability_link]})을(를) 시청하고 **{[rewards_total_time]}** 동안 추가로 시청하여 모든 드롭스를 획득하세요! 트위치 계정을 씨 오브 시브즈에 연결하여 드롭스가 잠금 해제되면 수령하는 것을 잊지 마세요!",
-    "pt-BR": "Clique e assista [{[availability_name]}]({[availability_link]}) por um total de **{[rewards_total_time]}** para ganhar todos os drops! Lembre-se de vincular sua conta da Twitch ao Sea of Thieves para poder resgatar os drops!"
+  "content.Special_Twitch_Drop_Message_Description": {
+    "en-GB": "Tune in and watch [{{availability_name}}]({{campaign_resource_url}}) to earn Twitch Drops! Remember to link your Twitch account to Sea of Thieves and claim your drop once it's unlocked!"
   },
-  "content.Regular_Twitch_Drop_Reminder_Description": {
-    "en-GB": "The current **Twitch Drops campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to [claim]({[twitch_inventory_url]}) your drops before <t:{[end_timestamp_s]}:f>.",
-    "es-ES": "La actual **campaña de Twitch Drops** termina el <t:{[end_timestamp_s]}:R>! Asegúrate de [reclamar]({[twitch_inventory_url]}) tus recompensas antes del <t:{[end_timestamp_s]}:f>.",
-    "fr": "La **campagne Twitch Drops** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de [réclamer]({[twitch_inventory_url]}) vos récompenses avant le <t:{[end_timestamp_s]}:f>.",
-    "hu": "A jelenlegi **Twitch Drops kampány** véget ér <t:{[end_timestamp_s]}:R>! Ne felejtsd el [beváltani]({[twitch_inventory_url]}) a dropjaidat <t:{[end_timestamp_s]}:f> előtt.",
-    "ko": "**트위치 드롭스 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 [지금 받기]({[sot_article_url]})를 클릭하여 수령하세요.",
-    "pt-BR": "A **Campanha de Twitch Drops** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de [resgatar]({[twitch_inventory_url]}) seus drops antes de <t:{[end_timestamp_s]}:f>."
+  "content.Twitch_Drop_Reminder_Description": {
+    "en-GB": "The current **{{public_alert_category}}** campaign ends <t:{{end_timestamp_s}}:R>! Make sure to [claim]({{twitch_drops_inventory_url}) your drops before <t:{{end_timestamp_s}}:f>.",
+    "es-ES": "La actual campaña de **{{public_alert_category}}** termina el <t:{{end_timestamp_s}}:R>! Asegúrate de [reclamar]({[twitch_inventory_url]}) tus recompensas antes del <t:{{end_timestamp_s}}:f>.",
+    "fr": "La campagne **{{public_alert_category}}** en cours se termine <t:{{end_timestamp_s}}:R> ! Assurez-vous de [réclamer]({[twitch_inventory_url]}) vos récompenses avant le <t:{{end_timestamp_s}}:f>.",
+    "hu": "A jelenlegi **{{public_alert_category}}** kampány véget ér <t:{{end_timestamp_s}}:R>! Ne felejtsd el [beváltani]({[twitch_inventory_url]}) a dropjaidat <t:{{end_timestamp_s}}:f> előtt.",
+    "ko": "**{{public_alert_category}}** 캠페인이 <t:{{end_timestamp_s}}:R>에 종료됩니다! <t:{{end_timestamp_s}}:f> 이전에 [지금 받기]({{campaign_details_url}})를 클릭하여 수령하세요.",
+    "pt-BR": "A campanha de **{{public_alert_category}}** atual termina às <t:{{end_timestamp_s}}:R>! Certifique-se de [resgatar]({[twitch_inventory_url]}) seus drops antes de <t:{{end_timestamp_s}}:f>."
   },
-  "content.Special_Twitch_Drop_Reminder_Description": {
-    "en-GB": "The current **Twitch Drops campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to [claim]({[twitch_inventory_url]}) your drops before <t:{[end_timestamp_s]}:f>.",
-    "es-ES": "La actual **campaña de Twitch Drops** termina el <t:{[end_timestamp_s]}:R>! Asegúrate de [reclamar]({[twitch_inventory_url]}) tus recompensas antes del <t:{[end_timestamp_s]}:f>.",
-    "fr": "La **campagne Twitch Drops** en cours se termine <t:{[end_timestamp_s]}:R> ! Assurez-vous de [réclamer]({[twitch_inventory_url]}) vos récompenses avant le <t:{[end_timestamp_s]}:f>.",
-    "hu": "A jelenlegi **Twitch Drops kampány** véget ér <t:{[end_timestamp_s]}:R>! Ne felejtsd el [beváltani]({[twitch_inventory_url]}) a dropjaidat <t:{[end_timestamp_s]}:f> előtt.",
-    "ko": "**트위치 드롭스 캠페인**이 <t:{[end_timestamp_s]}:R>에 종료됩니다! <t:{[end_timestamp_s]}:f> 이전에 [지금 받기]({[sot_article_url]})를 클릭하여 수령하세요.",
-    "pt-BR": "A **Campanha de Twitch Drops** atual termina às <t:{[end_timestamp_s]}:R>! Certifique-se de [resgatar]({[twitch_inventory_url]}) seus drops antes de <t:{[end_timestamp_s]}:f>."
+  "globals.Campaign_Ends_Text": { "en-GB": "Campaign Ends" },
+  "globals.Reward_Pages_Footer": {
+    "en-GB": "View associated pages on [Mercia's Quill]({{reward_mq_url#}}), the [Sea of Thieves Wiki]({{reward_wiki_url#}}), and [Geekya]({{reward_geekya_url#}})"
   },
-  "content.Special_Twitch_Drops_Main_Description": {
-    "en-GB": "Tune in and watch [{[availability_name]}]({[availability_link]}) for a total of **{[rewards_total_time]}** to earn all drops! Remember to link your Twitch account to Sea of Thieves and claim your drop once it's unlocked!",
-    "es-ES": "¡Conéctate y mira [{[availability_name]}]({[availability_link]}) durante un total de **{[rewards_total_time]}** para ganar todas las recompensas! Recuerda vincular tu cuenta de Twitch a Sea of Thieves y reclamar tu recompensa una vez que esté desbloqueada.",
-    "fr": "Regardez [{[availability_name]}]({[availability_link]}) pendant un total de **{[rewards_total_time]}** pour obtenir toutes les récompenses ! N’oubliez pas de lier votre compte Twitch à Sea of Thieves et de réclamer votre drop une fois débloqué !",
-    "hu": "Kapcsolódj be és nézd a [{[availability_name]}]({[availability_link]})-t összesen **{[rewards_total_time]}**-ig, hogy megszerezd az összes jutalmat! Ne felejtsd el összekapcsolni a Twitch-fiókodat a Sea of ​​Thieves-szel, és beváltani a jutalmad, amint feloldottad!",
-    "ko": "[{[availability_name]}]({[availability_link]})을(를) 시청하고 **{[rewards_total_time]}** 동안 추가로 시청하여 모든 드롭스를 획득하세요! 트위치 계정을 씨 오브 시브즈에 연결하여 드롭스가 잠금 해제되면 수령하는 것을 잊지 마세요!",
-    "pt-BR": "Clique e assista [{[availability_name]}]({[availability_link]}) por um total de **{[rewards_total_time]}** para ganhar todos os drops! Lembre-se de vincular sua conta da Twitch ao Sea of Thieves para poder resgatar os drops!"
+  "meta.Affiliate_Alliance_Cosmetics_Subcategory": {
+    "en-GB": "Affiliate Alliance Cosmetics"
   },
-  "globals.Ends_Text": {
-    "en-GB": "Ends",
-    "es-ES": "Finaliza",
-    "fr": "Se termine dans ",
-    "hu": "Véget ér",
-    "ko": "종료일",
-    "pt-BR": "Termina"
+  "meta.Boost_Events_Subcategory": { "en-GB": "Boost Events" },
+  "meta.Capture_A_Code_Campaign_Name": {
+    "en-GB": "Capture a Code: {{theme_name}}"
   },
-  "globals.Event_Powered_by_Footer": {
-    "en-GB": "{[logo_emoji]} Powered by Mercia's Quill",
-    "es-ES": "{[logo_emoji]} Desarrollado por Mercia's Quill / :flag_es: Traducido por Greendrift",
-    "fr": "{[logo_emoji]} Propulsé par Mercia's Quill",
-    "hu": "{[logo_emoji]} Mercia's Quill által működtetve / MolnarAmy fordította",
-    "ko": "{[logo_emoji]} Mercia's Quill 제공 / :flag_kr: Sea of Thieves Tavern 번역",
-    "pt-BR": "{[logo_emoji]} Desenvolvido por Mercia's Quill / :flag_br: Tradução por Lendas do Mar <3"
+  "meta.Capture_A_Code_Competitions_Subcategory": {
+    "en-GB": "Capture a Code Competitions"
   },
-  "globals.Main_Powered_by_Footer": {
-    "en-GB": "Powered by Mercia's Quill",
-    "es-ES": "Desarrollado por Mercia's Quill",
-    "fr": "Propulsé par Mercia's Quill",
-    "hu": "Mercia's Quill által működtetve",
-    "ko": "Mercia's Quill 제공",
-    "pt-BR": "Fornecido por Mercia's Quilll"
+  "meta.Community_Weekend_Campaign_Name": {
+    "en-GB": "Season {{season_number}} Community Weekend",
+    "es-ES": "Fin de Semana de la Comunidad de la Temporada {{season_number}}",
+    "hu": "Season {{season_number}} Közösségi Hétvége",
+    "ko": "시즌 {{season_number}} 커뮤니티 주말",
+    "pt-BR": "Fim de Semana da Comunidade da Temporada {{season_number}}"
   },
-  "globals.View_Rewards_Button": {
-    "en-GB": "View Rewards",
-    "es-ES": "Ver Recompensas",
-    "fr": "Voir les Récompenses",
-    "hu": "Jutalmak megtekintése",
-    "ko": "보상 확인",
-    "pt-BR": "Ver Recompensas"
+  "meta.Community_Weekend_Events_Subcategory": {
+    "en-GB": "Community Weekend Events"
   },
-  "meta.Capture_a_Code_Alt_Name": {
-    "en-GB": "Capture a Code: {[event_theme]}",
-    "fr": "Capturez un Code : {[event_theme]}",
-    "ko": "캡쳐 코드: {[event_theme]}"
+  "meta.Competitions_Category": { "en-GB": "Competitions" },
+  "meta.Cosmetics_Category": { "en-GB": "Cosmetics" },
+  "meta.Game_Events_Category": { "en-GB": "Game Events" },
+  "meta.Ghoul_And_Glory_Campaign_Name": { "en-GB": "Ghoul & Glory" },
+  "meta.Gold_And_Glory_Campaign_Name": {
+    "en-GB": "Gold & Glory",
+    "es-ES": "Oro y Gloria",
+    "fr": "Or & Gloire",
+    "ko": "골드 & 글로리",
+    "pt-BR": "Ouro & Glória"
   },
-  "meta.Capture_a_Code_Subtitle": {
-    "en-GB": "Capture a Code",
-    "fr": "Capturez un Code",
-    "ko": "캡쳐 코드"
-  },
-  "meta.Community_Weekend_Alt_Name": {
-    "en-GB": "Community Weekend: Season {[season_number]}",
-    "es-ES": "Fin de Semana de la Comunidad: Temporada {[season_number]}",
-    "hu": "Közösségi Hétvége: Season {[season_number]}",
-    "ko": "커뮤니티 주말: 시즌 {[season_number]}",
-    "pt-BR": "Fim de Semana da Comunidade: Temporada {[season_number]}"
-  },
-  "meta.Community_Weekend_Main_Name": {
-    "en-GB": "Season {[season_number]} Community Weekend",
-    "es-ES": "Fin de Semana de la Comunidad de la Temporada {[season_number]}",
-    "hu": "Season {[season_number]} Közösségi Hétvége",
-    "ko": "시즌 {[season_number]} 커뮤니티 주말",
-    "pt-BR": "Fim de Semana da Comunidade da Temporada {[season_number]}"
-  },
-  "meta.Community_Weekend_Subtitle": {
-    "en-GB": "Season {[season_number]}",
-    "es-ES": "Temporada {[season_number]}",
-    "ko": "시즌 {[season_number]}",
-    "pt-BR": "Temporada {[season_number]}"
-  },
-  "meta.Ghoul_and_Glory_Alt_Name": {
-    "en-GB": "Ghoul & Glory"
-  },
-  "meta.Ghoul_and_Glory_Main_Name": {
-    "en-GB": "Ghoul & Glory"
-  },
-  "meta.Ghoul_and_Glory_Subtitle": {
-    "en-GB": "Ghoul & Glory"
-  },
-  "meta.Gold_Rush_Alt_Name": {
-    "en-GB": "Daily Gold Rush Cycle",
+  "meta.Gold_And_Glory_Events_Subcategory": { "en-GB": "Gold & Glory Events" },
+  "meta.Gold_Rush_Campaign_Name": {
+    "en-GB": "Gold Rush Cycle",
     "es-ES": "¡La Fiebre del Oro ha empezado!",
-    "fr": "Cycle Quotidien de Ruee vers l'Or",
-    "hu": "Napi Gold Rush ciklus",
-    "ko": "일일 골드 러시 주기",
-    "pt-BR": "A Febre do Ouro começou!"
+    "hu": "Gold Rush ciklus",
+    "ko": "골드 러시 주기"
   },
-  "meta.Gold_Rush_Main_Name": {
-    "en-GB": "Gold Rush",
-    "es-ES": "Fiebre del Oro",
-    "fr": "Ruee vers l'Or",
-    "ko": "골드 러시",
-    "pt-BR": "Febre do Ouro"
+  "meta.Gold_Rush_Subcategory": { "en-GB": "Gold Rush" },
+  "meta.Miscellaneous_Category": { "en-GB": "Miscellaneous" },
+  "meta.Miscellaneous_Cosmetics_Subcategory": {
+    "en-GB": "Miscellaneous Cosmetics"
   },
-  "meta.Gold_Rush_Subtitle": {
-    "en-GB": "Gold Rush",
-    "es-ES": "Fiebre del Oro",
-    "fr": "Ruee vers l'Or",
-    "ko": "골드 러시",
-    "pt-BR": "Febre do Ouro"
+  "meta.Miscellaneous_Event_Subcategory": { "en-GB": "Miscellaneous Events" },
+  "meta.Official_Cosmetics_Subcategory": { "en-GB": "Official Cosmetics" },
+  "meta.Regular_Twitch_Drops_Subcategory": { "en-GB": "Regular Twitch Drops" },
+  "meta.SoTShot_Campaign_Name": { "en-GB": "SoTShot: {{theme_name}}" },
+  "meta.SoTShot_Competitions_Subcategory": { "en-GB": "SoTShot Competitions" },
+  "meta.Special_Twitch_Drops_Subcategory": { "en-GB": "Special Twitch Drops" },
+  "meta.Special_Twitch_Drops_Subcategory_Name": {
+    "en-GB": "Special Twitch Drops"
   },
-  "meta.Gold_Twitch_Drop_Alt_Name": {
-    "en-GB": "Tune in for {[gold_drop_amount_thousands]}k Gold",
-    "es-ES": "Entra para ganar {[gold_drop_amount_thousands]}k de Oro",
-    "hu": "Kapcsolódj be {[gold_drop_amount_thousands]}k aranyért",
-    "ko": "{[gold_drop_amount_thousands]}k 골드를 얻으려면 방송 시청하기",
-    "pt-BR": "Assista por {[gold_drop_amount_thousands]}k Moedas de Ouro"
+  "meta.Style_Of_Thieves_Campaign_Name": {
+    "en-GB": "StyleOfThieves: {{theme_name}}"
   },
-  "meta.Gold_Twitch_Drop_Main_Name": {
-    "en-GB": "Gold Twitch Drop: {[gold_drop_amount_thousands]}k",
-    "es-ES": "Twitch Drop de Oro: {[gold_drop_amount_thousands]}k",
-    "hu": "Arany Twitch Drop: {[gold_drop_amount_thousands]}k",
-    "ko": "골드 트위치 드롭스: {[gold_drop_amount_thousands]}k",
-    "pt-BR": "Twitch Drop de Ouro: {[gold_drop_amount_thousands]}k"
+  "meta.Style_Of_Thieves_Competitions_Subcategory": {
+    "en-GB": "Style of Thieves Competitions"
   },
-  "meta.Gold_Twitch_Drop_Subtitle": {
-    "en-GB": "{[gold_drop_amount_thousands]}k Gold",
-    "es-ES": "{[gold_drop_amount_thousands]}k de Oro",
-    "hu": "{[gold_drop_amount_thousands]}k arany",
-    "ko": "{[gold_drop_amount_thousands]}k 골드",
-    "pt-BR": "{[gold_drop_amount_thousands]}k Moedas de Ouro"
+  "meta.Twitch_Drops_Campaign_Name": { "en-GB": "Twitch Drops Campaign" },
+  "meta.Twitch_Drops_Category": { "en-GB": "Twitch Drops" },
+  "rewards.75000_Gold_Description": {
+    "en-GB": "A fair-sized heap of shiny golden coins that can you can spend any cosmetic items at outpost stores."
   },
-  "meta.Gold_and_Glory_Alt_Name": {
-    "en-GB": "Gold & Glory",
-    "es-ES": "Oro y Gloria",
-    "fr": "Or & Gloire",
-    "ko": "골드 & 글로리",
-    "pt-BR": "Ouro & Glória"
+  "rewards.75000_Gold_Name": { "en-GB": "75,000 Gold" },
+  "rewards.Fashionistas_Finale_Subtitle": { "en-GB": "4x Winners" },
+  "rewards.Golden_Hour_Sails_Subtitle": { "en-GB": "8x Winners" },
+  "rewards.Placeholder_Description": {
+    "en-GB": "No description is currently available. This value will be updated in the future."
   },
-  "meta.Gold_and_Glory_Main_Name": {
-    "en-GB": "Gold & Glory",
-    "es-ES": "Oro y Gloria",
-    "fr": "Or & Gloire",
-    "ko": "골드 & 글로리",
-    "pt-BR": "Ouro & Glória"
+  "rewards.Plunder_Pass_Description": {
+    "en-GB": "Unlock extra rewards with this Season's Plunder Pass, offering previously unreleased cosmetics plus bonus currency including Ancient Coins to subsidise your purchase!"
   },
-  "meta.Gold_and_Glory_Subtitle": {
-    "en-GB": "Gold & Glory",
-    "es-ES": "Oro y Gloria",
-    "fr": "Or & Gloire",
-    "ko": "골드 & 글로리",
-    "pt-BR": "Ouro & Glória"
+  "rewards.Plunder_Pass_Name": { "en-GB": "Plunder Pass" },
+  "rewards.Seasonal_Renown_Bonus_Description": {
+    "en-GB": "A boost of seasonal renown that can be used to level up your plunder pass for the season."
   },
-  "meta.Regular_Twitch_Drop_Alt_Name": {
-    "en-GB": "Twitch Drops: {[main_event_name]}",
-    "fr": "Twitch Drops : {[main_event_name]}",
-    "hu": "Twitch Dropok: {[main_event_name]}",
-    "ko": "트위치 드롭스: {[main_event_name]}"
+  "rewards.Seasonal_Renown_Bonus_Name": { "en-GB": "Seasonal Renown Bonus" },
+  "rewards.The_Gilded_Phoenix_Ship_Set_Description": {
+    "en-GB": "A collection of lustrous items including the Gilded Phoenix Cannons, Capstan, Figurehead, Flag, Hull, Soaring Sails, and Wheel."
   },
-  "meta.SoTShot_Alt_Name": {
-    "en-GB": "SoTShot: {[event_theme]}",
-    "fr": "SoTShot : {[event_theme]}"
+  "rewards.The_Gilded_Phoenix_Ship_Set_Name": {
+    "en-GB": "The Gilded Phoenix Ship Set"
   },
-  "meta.SoTShot_Subtitle": {
-    "en-GB": "SoTShot"
+  "rewards.The_Gilded_Phoenix_Weapon_Set_Description": {
+    "en-GB": "A collection of deadly items including the Gilded Phoenix Blunderbuss, Cutlass, Eye of Reach, and Pistol."
   },
-  "meta.Special_Twitch_Drop_Alt_Name": {
-    "en-GB": "Twitch Drops: {[main_event_name]}",
-    "fr": "Twitch Drops : {[main_event_name]}",
-    "hu": "Twitch Dropok: {[main_event_name]}",
-    "ko": "트위치 드롭스: {[main_event_name]}"
+  "rewards.The_Gilded_Phoenix_Weapon_Set_Name": {
+    "en-GB": "The Gilded Phoenix Weapon Set"
   },
-  "meta.Style_of_Thieves_Alt_Name": {
-    "en-GB": "StyleOfThieves: {[event_theme]}",
-    "fr": "StyleOfThieves : {[event_theme]}",
-    "ko": "도적의 스타일: {[event_theme]}"
+  "rewards.The_Obsidian_Six_Pack_Description": {
+    "en-GB": "A collection of assorted items including the Obsidian Drum, Eye of Reach, Lantern, Pocket Watch, Speaking Trumpet, and Spyglass."
   },
-  "meta.Style_of_Thieves_Subtitle": {
-    "en-GB": "StyleOfThieves",
-    "ko": "도적의 스타일"
+  "rewards.The_Obsidian_Six_Pack_Name": { "en-GB": "The Obsidian Six Pack" },
+  "rewards.Voyage_Of_Luck_Description": {
+    "en-GB": "A limited-time voyage offering a chance at lucrative rewards sure to impress any pirate daring enough to embark on it."
   },
+  "rewards.Voyage_Of_Luck_Name": { "en-GB": "Voyage Of Luck" },
   "short.Any_Twitch_Drop_Host": {
     "en-GB": "any Sea of Thieves streamer",
     "es-ES": "cualquier streamer de Sea of Thieves",
@@ -396,6 +298,7 @@
     "ko": "참여 중인 씨 오브 시브즈 스트리머",
     "pt-BR": "qualquer streamer de Sea of Thieves"
   },
+  "short.Athenas_Fortune_Faction": { "en-GB": "Athena's Fortune" },
   "short.Community_Invite_Text": {
     "en-GB": "Community Invite",
     "es-ES": "Invitación a la Comunidad",
@@ -404,10 +307,7 @@
     "ko": "커뮤니티 초대",
     "pt-BR": "Convite da Comunidade"
   },
-  "short.Custom_Twitch_Drop_Host": {
-    "en-GB": "{[custom_username]}"
-  },
-  "short.General_Competition_Availability": {
+  "short.Competition_Availability": {
     "en-GB": "competition",
     "es-ES": "concurso",
     "fr": "concours",
@@ -415,6 +315,7 @@
     "ko": "대회",
     "pt-BR": "competição"
   },
+  "short.Custom_Twitch_Drop_Host": { "en-GB": "{[custom_username]}" },
   "short.Giveaway_Availability": {
     "en-GB": "giveaway",
     "es-ES": "sorteo",
@@ -423,6 +324,7 @@
     "ko": "경품",
     "pt-BR": "Sorteio"
   },
+  "short.Gold_Hoarders_Faction": { "en-GB": "the Gold Hoarders" },
   "short.Host_Text": {
     "en-GB": "Host",
     "es-ES": "Enlace",
@@ -430,6 +332,8 @@
     "hu": "Házigazda",
     "ko": "주최자"
   },
+  "short.Hourglass_Faction": { "en-GB": "the Hourglass of Fate" },
+  "short.Hunters_Call_Faction": { "en-GB": "the Hunter's Call" },
   "short.Insider_Estimated_Finish": {
     "en-GB": "Estimated Finish",
     "es-ES": "Final estimado",
@@ -454,6 +358,8 @@
     "ko": "다가오는 {{week}}주차",
     "pt-BR": "Na semana que vem {{week}}"
   },
+  "short.Login_Reward_Subtitle": { "en-GB": "Login Reward" },
+  "short.Merchant_Alliance_Faction": { "en-GB": "the Merchant Alliance" },
   "short.Official_Twitch_Drop_Host": {
     "en-GB": "the Official Sea of Thieves Channel",
     "es-ES": "el canal Oficial de Sea of Thieves",
@@ -462,6 +368,7 @@
     "ko": "씨 오브 시브즈 공식 채널",
     "pt-BR": "o Canal Oficial do Sea of Thieves"
   },
+  "short.Order_of_Souls_Faction": { "en-GB": "the Order of Souls" },
   "short.Partner_Twitch_Drop_Host": {
     "en-GB": "any Sea of Thieves Partner",
     "es-ES": "cualquier Partner de Sea of Thieves",
@@ -470,9 +377,7 @@
     "ko": "참여 중인 씨 오브 시브즈 파트너",
     "pt-BR": "qualquer Parceiro do Sea of Thieves"
   },
-  "short.Post": {
-    "en-GB": "Post"
-  },
+  "short.Post": { "en-GB": "Post" },
   "short.PvP_Competition_Availability": {
     "en-GB": "PvP competition",
     "es-ES": "concurso de PVP",
@@ -481,11 +386,19 @@
     "ko": "PvP 대회",
     "pt-BR": "torneio PvP"
   },
-  "short.Reply": {
-    "en-GB": "Reply"
+  "short.Reapers_Bones_Faction": { "en-GB": "the Reaper's Bones" },
+  "short.Regular_Twitch_Drop_Reward_Subtitle": {
+    "en-GB": "Watch for {{reward_watch_time#}}"
   },
-  "short.Repost": {
-    "en-GB": "Repost"
+  "short.Reply": { "en-GB": "Reply" },
+  "short.Repost": { "en-GB": "Repost" },
+  "short.Reward_Conjunction": {
+    "en-GB": " and ",
+    "es-ES": " y ",
+    "fr": " et ",
+    "hu": " és ",
+    "ko": " ",
+    "pt-BR": " e "
   },
   "short.Riddle_Competition_Availability": {
     "en-GB": "riddle competition",
@@ -503,9 +416,7 @@
     "ko": "스크린샷 대회",
     "pt-BR": "concurso de fotos"
   },
-  "short.Thread": {
-    "en-GB": "Thread"
-  },
+  "short.Thread": { "en-GB": "Thread" },
   "short.Time_Conjunction": {
     "en-GB": " and ",
     "es-ES": " y ",
