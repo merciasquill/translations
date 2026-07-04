@@ -1,0 +1,12 @@
+{
+  "commands.global.meta.fun.Cast_Description": "A cute rng-based fishing mini-game",
+  "commands.global.meta.fun.Cast_Name": "cast",
+  "commands.global.meta.fun.Cast_Play_Subcommand_Description": "Cast out to the sea and try your luck in this fishing mini-game",
+  "commands.global.meta.fun.Cast_Play_Subcommand_Name": "play",
+  "commands.global.meta.fun.Cast_Rank_Subcommand_Description": "View your global ranking in the cast mini-game",
+  "commands.global.meta.fun.Cast_Rank_Subcommand_Name": "rank",
+  "commands.global.meta.fun.Cast_Rank_Timeframe_Option_Description": "Set the timeframe to filter the leaderboard by",
+  "commands.global.meta.fun.Cast_Rank_Timeframe_Option_Name": "timeframe",
+  "commands.global.meta.fun.Compass_Description": "Spin the Compass of Chaos for inspiration on your next adventure",
+  "commands.global.meta.fun.Compass_Name": "compass"
+}
