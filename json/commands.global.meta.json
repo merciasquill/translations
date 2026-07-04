@@ -1,64 +1,46 @@
 {
   "base.Help_Description": {
-    "en-GB": "Receive help from Mercia's Quill's support server"
+    "en-GB": "Receive help from Mercia's Quill's support server",
+    "pt-BR": "Receba ajuda do servidor de suporte do Mercia's Quill's"
   },
   "base.Help_Name": {
-    "en-GB": "help"
+    "en-GB": "help",
+    "hu": "segitseg",
+    "it": "aiuto",
+    "pt-BR": "ajuda"
   },
   "base.Invite_Description": {
     "en-GB": "Invite Mercia's Quill to your own servers"
   },
-  "base.Invite_Name": {
-    "en-GB": "invite",
-    "hu": "meghivas",
-    "it": "invita"
-  },
+  "base.Invite_Name": { "en-GB": "invite", "hu": "meghivas", "it": "invita" },
   "base.Legal_Description": {
     "en-GB": "View Mercia's Quill's Privacy Policy and Terms of Use"
   },
-  "base.Legal_Name": {
-    "en-GB": "legal"
-  },
-  "base.Ping_Description": {
-    "en-GB": "Test the bot's service and latency"
-  },
-  "base.Ping_Name": {
-    "en-GB": "ping"
-  },
+  "base.Legal_Name": { "en-GB": "legal" },
+  "base.Ping_Description": { "en-GB": "Test the bot's service and latency" },
+  "base.Ping_Name": { "en-GB": "ping" },
   "context.Player_Information_Name": {
-    "en-GB": "Player Information"
+    "en-GB": "Player Information",
+    "it": "Informazioni sul giocatore"
   },
-  "fun.Cast_Description": {
-    "en-GB": "A cute rng-based fishing mini-game"
-  },
-  "fun.Cast_Name": {
-    "en-GB": "cast"
-  },
+  "fun.Cast_Description": { "en-GB": "A cute rng-based fishing mini-game" },
+  "fun.Cast_Name": { "en-GB": "cast" },
   "fun.Cast_Play_Subcommand_Description": {
     "en-GB": "Cast out to the sea and try your luck in this fishing mini-game"
   },
-  "fun.Cast_Play_Subcommand_Name": {
-    "en-GB": "play",
-    "hu": "jatek"
-  },
+  "fun.Cast_Play_Subcommand_Name": { "en-GB": "play", "hu": "jatek" },
   "fun.Cast_Rank_Subcommand_Description": {
     "en-GB": "View your global ranking in the cast mini-game"
   },
-  "fun.Cast_Rank_Subcommand_Name": {
-    "en-GB": "rank"
-  },
+  "fun.Cast_Rank_Subcommand_Name": { "en-GB": "rank" },
   "fun.Cast_Rank_Timeframe_Option_Description": {
     "en-GB": "Set the timeframe to filter the leaderboard by"
   },
-  "fun.Cast_Rank_Timeframe_Option_Name": {
-    "en-GB": "timeframe"
-  },
+  "fun.Cast_Rank_Timeframe_Option_Name": { "en-GB": "timeframe" },
   "fun.Compass_Description": {
     "en-GB": "Spin the Compass of Chaos for inspiration on your next adventure"
   },
-  "fun.Compass_Name": {
-    "en-GB": "compass"
-  },
+  "fun.Compass_Name": { "en-GB": "compass" },
   "game.Calendar_Archive_Option_Description": {
     "en-GB": "Select a past archived calendar"
   },
@@ -78,9 +60,7 @@
   "game.Gold_Rush_Description": {
     "en-GB": "View the current in-game Gold Rush cycle"
   },
-  "game.Gold_Rush_Name": {
-    "en-GB": "gold_rush"
-  },
+  "game.Gold_Rush_Name": { "en-GB": "gold_rush" },
   "game.Support_Description": {
     "en-GB": "Receive help for in-game related issues"
   },
@@ -159,28 +139,45 @@
   "game.Wiki_Description": {
     "en-GB": "Query the official Sea of Thieves wiki"
   },
-  "game.Wiki_Name": {
-    "en-GB": "wiki"
-  },
+  "game.Wiki_Name": { "en-GB": "wiki" },
   "game.Wiki_Page_Option_Description": {
     "en-GB": "Query for a specifically named wiki page"
   },
   "game.Wiki_Page_Option_Name": {
-    "en-GB": "page"
+    "en-GB": "page",
+    "es-ES": "pagina",
+    "hu": "oldal",
+    "it": "pagina"
   },
   "game.Wiki_Search_Option_Description": {
     "en-GB": "Query for a partial text match from the wiki"
   },
   "game.Wiki_Search_Option_Name": {
-    "en-GB": "search"
+    "en-GB": "search",
+    "es-ES": "buscar",
+    "hu": "keresés",
+    "it": "ricerca",
+    "pt-BR": "pesquisar"
   },
   "globals.Ephemeral_Option_Description": {
     "en-GB": "Run this command as a hidden message",
     "pt-BR": "Executar esse comando como uma mensagem escondida"
   },
-  "globals.Ephemeral_Option_Name": {
-    "en-GB": "ephemeral",
-    "it": "nascosto"
+  "globals.Ephemeral_Option_Name": { "en-GB": "ephemeral", "it": "nascosto" },
+  "utility.Giveaway_Create_Subcommand_Description": {
+    "en-GB": "Create a new giveaway using Mercia's Quill"
+  },
+  "utility.Giveaway_Create_Subcommand_Name": { "en-GB": "create" },
+  "utility.Giveaway_Description": {
+    "en-GB": "Create and manage giveaways using Mercia's Quill"
+  },
+  "utility.Giveaway_Name": {
+    "en-GB": "giveaway",
+    "es-ES": "sorteo",
+    "fr": "cadeau",
+    "hu": "nyereményjáték",
+    "ko": "경품",
+    "pt-BR": "sorteio"
   },
   "utility.Help_Description": {
     "en-GB": "Receive help from Mercia's Quill's support server",
@@ -195,6 +192,12 @@
   "utility.Setup_Description": {
     "en-GB": "Configure Mercia's Quill's active features and modules",
     "pt-BR": "Configurar funções ativas e módulos do Mercia's Quill's"
+  },
+  "utility.Setup_Feature_Custom_Profile_Subcommand_Description": {
+    "en-GB": "Configure Mercia's Quill's custom profile in this server"
+  },
+  "utility.Setup_Feature_Custom_Profile_Subcommand_Name": {
+    "en-GB": "custom_profile"
   },
   "utility.Setup_Feature_Subcommand_Group_Name": {
     "en-GB": "feature",
@@ -247,9 +250,7 @@
     "en-GB": "Setup social media feeds from official channels",
     "pt-BR": "Configurar feed de mídias de canais oficiais"
   },
-  "utility.Setup_Utility_Feed_Subcommand_Name": {
-    "en-GB": "feed"
-  },
+  "utility.Setup_Utility_Feed_Subcommand_Name": { "en-GB": "feed" },
   "utility.Setup_Utility_Subcommand_Group_Name": {
     "en-GB": "utility",
     "hu": "hasznalhatosag",
@@ -288,49 +289,9 @@
   "utility.Subscribe_Twitch_Drops_Subcommand_Description": {
     "en-GB": "Subscribe to Twitch Drop reminder direct messages"
   },
-  "utility.Subscribe_Twitch_Drops_Subcommand_Name": {
-    "en-GB": "twitch_drops"
+  "utility.Subscribe_Twitch_Drops_Subcommand_Name": { "en-GB": "twitch_drops" },
+  "utility.Verify_Description": {
+    "en-GB": "Verify your account with Mercia's Quill"
   },
-  "utility.Wiki_Commendation_Option_Description": {
-    "en-GB": "Query for a specifically named commendation name"
-  },
-  "utility.Wiki_Commendation_Option_Name": {
-    "en-GB": "commendation",
-    "es-ES": "elogios",
-    "it": "obiettivi"
-  },
-  "utility.Wiki_Description": {
-    "en-GB": "Query the official Sea of Thieves wiki"
-  },
-  "utility.Wiki_Name": {
-    "en-GB": "wiki"
-  },
-  "utility.Wiki_Page_Option_Description": {
-    "en-GB": "Query for a specifically named wiki page"
-  },
-  "utility.Wiki_Page_Option_Name": {
-    "en-GB": "page",
-    "es-ES": "pagina",
-    "hu": "oldal",
-    "it": "pagina"
-  },
-  "utility.Wiki_Search_Option_Description": {
-    "en-GB": "Query for a partial text match from the wiki"
-  },
-  "utility.Wiki_Search_Option_Name": {
-    "en-GB": "search",
-    "es-ES": "buscar",
-    "hu": "keresés",
-    "it": "ricerca",
-    "pt-BR": "pesquisar"
-  },
-  "utility.Wiki_Title_Option_Description": {
-    "en-GB": "Query for a specifically named title name"
-  },
-  "utility.Wiki_Title_Option_Name": {
-    "en-GB": "title",
-    "es-ES": "titulo",
-    "hu": "rang",
-    "it": "titolo"
-  }
+  "utility.Verify_Name": { "en-GB": "verify" }
 }

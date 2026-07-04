@@ -57,8 +57,6 @@ for (const locale of localeFolders) {
   }
 }
 
-console.log(languageData);
-
 const formattedKeys = {};
 
 for (const key in languageData) {
@@ -93,4 +91,5 @@ for (const fileName in formattedKeys) {
   writeFileSync(jsonFilePath, JSON.stringify(keyData));
 }
 
- 
+const summaryFilePath = join(__dirname, "json", "summary.json");
+writeFileSync(summaryFilePath, JSON.stringify(languageData));
