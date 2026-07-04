@@ -98,9 +98,6 @@
     "ko": "Mercia's Quill 제공",
     "pt-BR": "Fornecido por Mercia's Quilll"
   },
-  "commands.global.content.utility.Giveaway_Ends_Text": {
-    "en-GB": "Giveaway Ends"
-  },
   "commands.global.meta.base.Help_Description": {
     "en-GB": "Receive help from Mercia's Quill's support server",
     "pt-BR": "Receba ajuda do servidor de suporte do Mercia's Quill's"
@@ -418,6 +415,9 @@
     "en-GB": "Verify your account with Mercia's Quill"
   },
   "commands.global.meta.utility.Verify_Name": { "en-GB": "verify" },
+  "commands.global.content.utility.Giveaway_Ends_Text": {
+    "en-GB": "Giveaway Ends"
+  },
   "scheduling.alerts.components.All_Entries_Button": {
     "en-GB": "All Entries",
     "pt-BR": "Todas as entradas"
