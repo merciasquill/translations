@@ -12,7 +12,7 @@
   "bot.interface.errors.Invalid_Profile_File_Attachment_Description": "The provided attachment does not meet the requirements for a profile picture or banner. Please try again with a different file.",
   "bot.interface.errors.Invalid_Profile_File_Attachment_Name": "Invalid Profile File Attachment",
   "bot.interface.errors.Learn_More_Hyperlink": "learn more",
-  "bot.interface.errors.Locked_Interaction_Collector_Description": "This interaction collector has an specific filter present which prevents use from unknown users.",
+  "bot.interface.errors.Locked_Interaction_Collector_Description": "This interaction collector has a filter present which prevents use from unknown users.",
   "bot.interface.errors.Locked_Interaction_Collector_Name": "Locked Interaction Collector",
   "bot.interface.errors.Missing_Cast_Progress_Description": "No progress using {command_markdown} during the provided timeframe could be found. Please try again with a different timeframe.",
   "bot.interface.errors.Missing_Cast_Progress_Name": "Missing Cast Progress",
