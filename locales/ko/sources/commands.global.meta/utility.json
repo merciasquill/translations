@@ -1,7 +1,9 @@
 {
-  "commands.global.meta.utility.Giveaway_Create_Subcommand_Description": "Create a new giveaway using Mercia's Quill",
+  "commands.global.meta.utility.Giveaway_Create_Subcommand_Description": "Create a new server giveaway",
   "commands.global.meta.utility.Giveaway_Create_Subcommand_Name": "create",
-  "commands.global.meta.utility.Giveaway_Description": "Create and manage giveaways using Mercia's Quill",
+  "commands.global.meta.utility.Giveaway_Description": "Create and manage server giveaways",
+  "commands.global.meta.utility.Giveaway_Integrations_Subcommand_Description": "Configure integration settings for new giveaways",
+  "commands.global.meta.utility.Giveaway_Integrations_Subcommand_Name": "integrations",
   "commands.global.meta.utility.Giveaway_Name": "경품",
   "commands.global.meta.utility.Help_Description": "Receive help from Mercia's Quill's support server",
   "commands.global.meta.utility.Help_Name": "help",
