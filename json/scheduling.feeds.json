@@ -1,0 +1,40 @@
+{
+  "meta.Announcements_Discord_Subcategory": { "en-GB": "#announcements" },
+  "meta.Bluesky_Category": { "en-GB": "Bluesky" },
+  "meta.Discord_Category": { "en-GB": "Discord" },
+  "meta.Game_Updates_Discord_Subcategory": { "en-GB": "#game-updates" },
+  "meta.Insider_Announcements_Discord_Subcategory": {
+    "en-GB": "@insider-announcements"
+  },
+  "meta.Live_Events_Discord_Subcategory": { "en-GB": "@live-events" },
+  "meta.Official_Swag_Discord_Subcategory": { "en-GB": "#official-swag" },
+  "meta.Rare_LTD_Bluesky_Subcategory": { "en-GB": "@rare.co.uk" },
+  "meta.Rare_Limited_Shorts_Youtube_Subcategory": {
+    "en-GB": "Rare Limited Shorts"
+  },
+  "meta.Rare_Limited_Youtube_Subcategory": { "en-GB": "Rare Limited" },
+  "meta.Reddit_Category": { "en-GB": "Reddit" },
+  "meta.Release_Notes_Discord_Subcategory": { "en-GB": "#release-notes" },
+  "meta.Sea_Of_Fashion_Reddit_Subcategory": { "en-GB": "r/SeaofFashion" },
+  "meta.Sea_Of_ThievesLFG_Reddit_Subcategory": { "en-GB": "r/SeaofThievesLFG" },
+  "meta.Sea_Of_Thieves_Bluesky_Subcategory": { "en-GB": "@seaoftheves.com" },
+  "meta.Sea_Of_Thieves_Reddit_Subcategory": { "en-GB": "r/Seaofthieves" },
+  "meta.Sea_Of_Thieves_Shorts_Youtube_Subcategory": {
+    "en-GB": "Sea of Thieves Shorts"
+  },
+  "meta.Sea_Of_Thieves_Support_Bluesky_Subcategory": {
+    "en-GB": "@seaofthieves.uk"
+  },
+  "meta.Sea_Of_Thieves_Youtube_Subcategory": { "en-GB": "Sea of Thieves" },
+  "meta.Twitch_Category": { "en-GB": "Twitch" },
+  "meta.Youtube_Category": { "en-GB": "Youtube" },
+  "short.Posted_Context": {
+    "en-GB": "Posted by {{pretext_author_link}} on {{pretext_platform_link}}"
+  },
+  "short.RePosted_Context": {
+    "en-GB": "Re-Posted by {{pretext_author_link}} on {{pretext_platform_link}}"
+  },
+  "short.Replied_Context": {
+    "en-GB": "Replied by {{pretext_author_link}} on {{pretext_platform_link}}"
+  }
+}
