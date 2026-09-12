@@ -1,7 +1,7 @@
 {
   "bot.interface.credits.Alerts_Powered_by_Footer": "Powered by **{{client_name}}** alerts for **{{public_alert_subcategory}}**",
   "bot.interface.credits.Events_Powered_by_Footer": "Powered by **{{client_name}}** events for **{{public_alert_subcategory}}**",
-  "bot.interface.credits.Feeds_Powered_by_Footer": "Powered by **{{client_name}}** feeds for **{{public_feed_subcategory}}**",
+  "bot.interface.credits.Feeds_Powered_by_Footer": "Powered by {{client_name}} feeds for {{public_feed_category}}",
   "bot.interface.credits.Giveaway_Powered_by_Footer": "Powered by **{{client_name}}** giveaways for **{{server_name}}**",
   "bot.interface.credits.Threads_Powered_by_Footer": "Powered by **{{client_name}}** threads for **{{public_thread_subcategory}}**"
 }
