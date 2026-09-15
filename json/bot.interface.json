@@ -7,17 +7,26 @@
   "credits.Events_Powered_by_Footer": {
     "en-GB": "Powered by **{{client_name}}** events for **{{public_alert_subcategory}}**"
   },
+  "credits.Feeds_Powered_by_Footer": {
+    "en-GB": "Powered by {{client_name}} feeds for {{public_feed_category}}"
+  },
   "credits.Giveaway_Powered_by_Footer": {
     "en-GB": "Powered by **{{client_name}}** giveaways for **{{server_name}}**"
   },
+  "credits.Threads_Powered_by_Footer": {
+    "en-GB": "Powered by **{{client_name}}** threads for **{{public_thread_subcategory}}**"
+  },
   "errors.Active_Command_Cooldown_Description": {
-    "en-GB": "This command is currently under a cooldown. Please try again <t:{time}:R>"
+    "en-GB": "This command is currently under a cooldown. Please try again <t:{{time}}:R>"
   },
   "errors.Active_Command_Cooldown_Name": { "en-GB": "Active Command Cooldown" },
   "errors.Collector_Timeout_Description": {
-    "en-GB": "The interaction collector for this message has timed out. Please try again and select an option within {time}."
+    "en-GB": "The interaction collector for this message has timed out. Please try again and select an option within {{time}}."
   },
-  "errors.Collector_Timeout_Name": { "en-GB": "Collector Timed Out" },
+  "errors.Collector_Timeout_Name": {
+    "en-GB": "Collector Timed Out",
+    "it": "Time out del collettore"
+  },
   "errors.Failed_To_Fetch_Sea_Of_Thieves_Description": {
     "en-GB": "An unexpected error occurred while accessing the Sea Of Thieves API. Please try again later."
   },
@@ -25,10 +34,16 @@
     "en-GB": "Failed To Fetch Sea Of Thieves"
   },
   "errors.Invalid_Autocomplete_Option_Description": {
-    "en-GB": "The provided value for the {option_name} option is not valid. Please try again and select an autocompleted option."
+    "en-GB": "The provided value for the {{option_name}} option is invalid. Please try again and select an autocompleted option."
   },
   "errors.Invalid_Autocomplete_Option_Name": {
     "en-GB": "Invalid Autocomplete Option"
+  },
+  "errors.Invalid_Modal_Field_Value_Description": {
+    "en-GB": "The provided value is invalid. Please try again and submit an appropriate option."
+  },
+  "errors.Invalid_Modal_Field_Value_Name": {
+    "en-GB": "Invalid Modal Field Value"
   },
   "errors.Invalid_Profile_File_Attachment_Description": {
     "en-GB": "The provided attachment does not meet the requirements for a profile picture or banner. Please try again with a different file."
@@ -38,13 +53,13 @@
   },
   "errors.Learn_More_Hyperlink": { "en-GB": "learn more" },
   "errors.Locked_Interaction_Collector_Description": {
-    "en-GB": "This interaction collector has an specific filter present which prevents use from unknown users."
+    "en-GB": "This interaction collector has a filter present which prevents use from unknown users."
   },
   "errors.Locked_Interaction_Collector_Name": {
     "en-GB": "Locked Interaction Collector"
   },
   "errors.Missing_Cast_Progress_Description": {
-    "en-GB": "No progress using {command_markdown} during the provided timeframe could be found. Please try again with a different timeframe."
+    "en-GB": "No progress using {{command_markdown}} during the provided timeframe could be found. Please try again with a different timeframe."
   },
   "errors.Missing_Cast_Progress_Name": { "en-GB": "Missing Cast Progress" },
   "errors.Missing_Interaction_Handler_Description": {
@@ -54,14 +69,26 @@
     "en-GB": "Missing Interaction Handler"
   },
   "errors.Missing_Xbox_Connection_Description": {
-    "en-GB": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please link your account and try again later."
+    "en-GB": "This action requires an active [oAuth2]({{auth_url}}) connection to an Xbox account. Please link your account and try again later."
   },
   "errors.Missing_Xbox_Connection_Name": { "en-GB": "Missing Xbox Connection" },
+  "errors.Restricted_Giveaway_Access_Description": {
+    "en-GB": "This giveaway can only be accessed by users who meet the following requirements:\n> {{giveaway_requirement}}"
+  },
+  "errors.Restricted_Giveaway_Access_Name": {
+    "en-GB": "Restricted Giveaway Access"
+  },
   "errors.Restricted_Profile_Access_Description": {
     "en-GB": "This profile is private and only accessible by limited number of people. Please try again later."
   },
   "errors.Restricted_Profile_Access_Name": {
     "en-GB": "Restricted Profile Access"
+  },
+  "errors.Unauthorized_Giveaway_Integration_Description": {
+    "en-GB": "This giveaway requires some 3rd party integrations to enter. Please [authorise]({{auth_url}}) your {{platform}} account and try again."
+  },
+  "errors.Unauthorized_Giveaway_Integration_Name": {
+    "en-GB": "Unauthorized Giveaway Integration"
   },
   "errors.Unexpected_Server_Error_Description": {
     "en-GB": "An unexpected internal server occurred while trying to process this request. Please try again later."

@@ -164,13 +164,25 @@
     "pt-BR": "Executar esse comando como uma mensagem escondida"
   },
   "globals.Ephemeral_Option_Name": { "en-GB": "ephemeral", "it": "nascosto" },
+  "utility.Giveaway_Create_Duration_Option_Description": {
+    "en-GB": "Set the duration of the giveaway (e.g. 3 days)"
+  },
+  "utility.Giveaway_Create_Duration_Option_Name": { "en-GB": "duration" },
   "utility.Giveaway_Create_Subcommand_Description": {
-    "en-GB": "Create a new giveaway using Mercia's Quill"
+    "en-GB": "Create a new server giveaway"
   },
   "utility.Giveaway_Create_Subcommand_Name": { "en-GB": "create" },
-  "utility.Giveaway_Description": {
-    "en-GB": "Create and manage giveaways using Mercia's Quill"
+  "utility.Giveaway_Create_Winners_Option_Description": {
+    "en-GB": "Set the number of winners to draw for the giveaway"
   },
+  "utility.Giveaway_Create_Winners_Option_Name": { "en-GB": "winners" },
+  "utility.Giveaway_Description": {
+    "en-GB": "Create and manage server giveaways"
+  },
+  "utility.Giveaway_Integrations_Subcommand_Description": {
+    "en-GB": "Configure integration settings for new giveaways"
+  },
+  "utility.Giveaway_Integrations_Subcommand_Name": { "en-GB": "integrations" },
   "utility.Giveaway_Name": {
     "en-GB": "giveaway",
     "es-ES": "sorteo",
@@ -203,11 +215,11 @@
     "en-GB": "feature",
     "pt-BR": "função"
   },
-  "utility.Setup_Feature_WikiGG_Lock_Subcommand_Description": {
-    "en-GB": "Configure automatic redirects to the wiki.gg domain"
+  "utility.Setup_Feature_WikiGG_Redirects_Subcommand_Description": {
+    "en-GB": "Configure suggested redirects to the wiki.gg domain"
   },
-  "utility.Setup_Feature_WikiGG_Lock_Subcommand_Name": {
-    "en-GB": "wikigg_lock"
+  "utility.Setup_Feature_WikiGG_Redirects_Subcommand_Name": {
+    "en-GB": "wikigg_redirects"
   },
   "utility.Setup_Moderation_Alt_Account_Gate_Subcommand_Description": {
     "en-GB": "Setup a verification gate to monitor for alternate accounts",

@@ -7,20 +7,27 @@
   "bot.interface.credits.Events_Powered_by_Footer": {
     "en-GB": "Powered by **{{client_name}}** events for **{{public_alert_subcategory}}**"
   },
+  "bot.interface.credits.Feeds_Powered_by_Footer": {
+    "en-GB": "Powered by {{client_name}} feeds for {{public_feed_category}}"
+  },
   "bot.interface.credits.Giveaway_Powered_by_Footer": {
     "en-GB": "Powered by **{{client_name}}** giveaways for **{{server_name}}**"
   },
+  "bot.interface.credits.Threads_Powered_by_Footer": {
+    "en-GB": "Powered by **{{client_name}}** threads for **{{public_thread_subcategory}}**"
+  },
   "bot.interface.errors.Active_Command_Cooldown_Description": {
-    "en-GB": "This command is currently under a cooldown. Please try again <t:{time}:R>"
+    "en-GB": "This command is currently under a cooldown. Please try again <t:{{time}}:R>"
   },
   "bot.interface.errors.Active_Command_Cooldown_Name": {
     "en-GB": "Active Command Cooldown"
   },
   "bot.interface.errors.Collector_Timeout_Description": {
-    "en-GB": "The interaction collector for this message has timed out. Please try again and select an option within {time}."
+    "en-GB": "The interaction collector for this message has timed out. Please try again and select an option within {{time}}."
   },
   "bot.interface.errors.Collector_Timeout_Name": {
-    "en-GB": "Collector Timed Out"
+    "en-GB": "Collector Timed Out",
+    "it": "Time out del collettore"
   },
   "bot.interface.errors.Failed_To_Fetch_Sea_Of_Thieves_Description": {
     "en-GB": "An unexpected error occurred while accessing the Sea Of Thieves API. Please try again later."
@@ -29,10 +36,16 @@
     "en-GB": "Failed To Fetch Sea Of Thieves"
   },
   "bot.interface.errors.Invalid_Autocomplete_Option_Description": {
-    "en-GB": "The provided value for the {option_name} option is not valid. Please try again and select an autocompleted option."
+    "en-GB": "The provided value for the {{option_name}} option is invalid. Please try again and select an autocompleted option."
   },
   "bot.interface.errors.Invalid_Autocomplete_Option_Name": {
     "en-GB": "Invalid Autocomplete Option"
+  },
+  "bot.interface.errors.Invalid_Modal_Field_Value_Description": {
+    "en-GB": "The provided value is invalid. Please try again and submit an appropriate option."
+  },
+  "bot.interface.errors.Invalid_Modal_Field_Value_Name": {
+    "en-GB": "Invalid Modal Field Value"
   },
   "bot.interface.errors.Invalid_Profile_File_Attachment_Description": {
     "en-GB": "The provided attachment does not meet the requirements for a profile picture or banner. Please try again with a different file."
@@ -42,13 +55,13 @@
   },
   "bot.interface.errors.Learn_More_Hyperlink": { "en-GB": "learn more" },
   "bot.interface.errors.Locked_Interaction_Collector_Description": {
-    "en-GB": "This interaction collector has an specific filter present which prevents use from unknown users."
+    "en-GB": "This interaction collector has a filter present which prevents use from unknown users."
   },
   "bot.interface.errors.Locked_Interaction_Collector_Name": {
     "en-GB": "Locked Interaction Collector"
   },
   "bot.interface.errors.Missing_Cast_Progress_Description": {
-    "en-GB": "No progress using {command_markdown} during the provided timeframe could be found. Please try again with a different timeframe."
+    "en-GB": "No progress using {{command_markdown}} during the provided timeframe could be found. Please try again with a different timeframe."
   },
   "bot.interface.errors.Missing_Cast_Progress_Name": {
     "en-GB": "Missing Cast Progress"
@@ -60,16 +73,28 @@
     "en-GB": "Missing Interaction Handler"
   },
   "bot.interface.errors.Missing_Xbox_Connection_Description": {
-    "en-GB": "This action requires an active [oAuth2]({auth_url}) connection to an Xbox account. Please link your account and try again later."
+    "en-GB": "This action requires an active [oAuth2]({{auth_url}}) connection to an Xbox account. Please link your account and try again later."
   },
   "bot.interface.errors.Missing_Xbox_Connection_Name": {
     "en-GB": "Missing Xbox Connection"
+  },
+  "bot.interface.errors.Restricted_Giveaway_Access_Description": {
+    "en-GB": "This giveaway can only be accessed by users who meet the following requirements:\n> {{giveaway_requirement}}"
+  },
+  "bot.interface.errors.Restricted_Giveaway_Access_Name": {
+    "en-GB": "Restricted Giveaway Access"
   },
   "bot.interface.errors.Restricted_Profile_Access_Description": {
     "en-GB": "This profile is private and only accessible by limited number of people. Please try again later."
   },
   "bot.interface.errors.Restricted_Profile_Access_Name": {
     "en-GB": "Restricted Profile Access"
+  },
+  "bot.interface.errors.Unauthorized_Giveaway_Integration_Description": {
+    "en-GB": "This giveaway requires some 3rd party integrations to enter. Please [authorise]({{auth_url}}) your {{platform}} account and try again."
+  },
+  "bot.interface.errors.Unauthorized_Giveaway_Integration_Name": {
+    "en-GB": "Unauthorized Giveaway Integration"
   },
   "bot.interface.errors.Unexpected_Server_Error_Description": {
     "en-GB": "An unexpected internal server occurred while trying to process this request. Please try again later."
@@ -97,6 +122,9 @@
     "hu": "Mercia's Quill által működtetve",
     "ko": "Mercia's Quill 제공",
     "pt-BR": "Fornecido por Mercia's Quilll"
+  },
+  "commands.global.content.utility.Giveaway_Ends_Text": {
+    "en-GB": "Giveaway Ends"
   },
   "commands.global.meta.base.Help_Description": {
     "en-GB": "Receive help from Mercia's Quill's support server",
@@ -279,14 +307,32 @@
     "en-GB": "ephemeral",
     "it": "nascosto"
   },
+  "commands.global.meta.utility.Giveaway_Create_Duration_Option_Description": {
+    "en-GB": "Set the duration of the giveaway (e.g. 3 days)"
+  },
+  "commands.global.meta.utility.Giveaway_Create_Duration_Option_Name": {
+    "en-GB": "duration"
+  },
   "commands.global.meta.utility.Giveaway_Create_Subcommand_Description": {
-    "en-GB": "Create a new giveaway using Mercia's Quill"
+    "en-GB": "Create a new server giveaway"
   },
   "commands.global.meta.utility.Giveaway_Create_Subcommand_Name": {
     "en-GB": "create"
   },
+  "commands.global.meta.utility.Giveaway_Create_Winners_Option_Description": {
+    "en-GB": "Set the number of winners to draw for the giveaway"
+  },
+  "commands.global.meta.utility.Giveaway_Create_Winners_Option_Name": {
+    "en-GB": "winners"
+  },
   "commands.global.meta.utility.Giveaway_Description": {
-    "en-GB": "Create and manage giveaways using Mercia's Quill"
+    "en-GB": "Create and manage server giveaways"
+  },
+  "commands.global.meta.utility.Giveaway_Integrations_Subcommand_Description": {
+    "en-GB": "Configure integration settings for new giveaways"
+  },
+  "commands.global.meta.utility.Giveaway_Integrations_Subcommand_Name": {
+    "en-GB": "integrations"
   },
   "commands.global.meta.utility.Giveaway_Name": {
     "en-GB": "giveaway",
@@ -320,11 +366,11 @@
     "en-GB": "feature",
     "pt-BR": "função"
   },
-  "commands.global.meta.utility.Setup_Feature_WikiGG_Lock_Subcommand_Description": {
-    "en-GB": "Configure automatic redirects to the wiki.gg domain"
+  "commands.global.meta.utility.Setup_Feature_WikiGG_Redirects_Subcommand_Description": {
+    "en-GB": "Configure suggested redirects to the wiki.gg domain"
   },
-  "commands.global.meta.utility.Setup_Feature_WikiGG_Lock_Subcommand_Name": {
-    "en-GB": "wikigg_lock"
+  "commands.global.meta.utility.Setup_Feature_WikiGG_Redirects_Subcommand_Name": {
+    "en-GB": "wikigg_redirects"
   },
   "commands.global.meta.utility.Setup_Moderation_Alt_Account_Gate_Subcommand_Description": {
     "en-GB": "Setup a verification gate to monitor for alternate accounts",
@@ -415,9 +461,6 @@
     "en-GB": "Verify your account with Mercia's Quill"
   },
   "commands.global.meta.utility.Verify_Name": { "en-GB": "verify" },
-  "commands.global.content.utility.Giveaway_Ends_Text": {
-    "en-GB": "Giveaway Ends"
-  },
   "scheduling.alerts.components.All_Entries_Button": {
     "en-GB": "All Entries",
     "pt-BR": "Todas as entradas"
@@ -905,5 +948,67 @@
     "hu": "Twitch Drop raktár",
     "ko": "트위치 드롭스 인벤토리",
     "pt-BR": "Inventário da Twitch Drops"
+  },
+  "scheduling.feeds.meta.Announcements_Discord_Subcategory": {
+    "en-GB": "#announcements"
+  },
+  "scheduling.feeds.meta.Bluesky_Category": { "en-GB": "Bluesky" },
+  "scheduling.feeds.meta.Discord_Category": { "en-GB": "Discord" },
+  "scheduling.feeds.meta.Game_Updates_Discord_Subcategory": {
+    "en-GB": "#game-updates"
+  },
+  "scheduling.feeds.meta.Insider_Announcements_Discord_Subcategory": {
+    "en-GB": "@insider-announcements"
+  },
+  "scheduling.feeds.meta.Live_Events_Discord_Subcategory": {
+    "en-GB": "@live-events"
+  },
+  "scheduling.feeds.meta.Official_Swag_Discord_Subcategory": {
+    "en-GB": "#official-swag"
+  },
+  "scheduling.feeds.meta.Rare_LTD_Bluesky_Subcategory": {
+    "en-GB": "@rare.co.uk"
+  },
+  "scheduling.feeds.meta.Rare_Limited_Shorts_Youtube_Subcategory": {
+    "en-GB": "Rare Limited Shorts"
+  },
+  "scheduling.feeds.meta.Rare_Limited_Youtube_Subcategory": {
+    "en-GB": "Rare Limited"
+  },
+  "scheduling.feeds.meta.Reddit_Category": { "en-GB": "Reddit" },
+  "scheduling.feeds.meta.Release_Notes_Discord_Subcategory": {
+    "en-GB": "#release-notes"
+  },
+  "scheduling.feeds.meta.Sea_Of_Fashion_Reddit_Subcategory": {
+    "en-GB": "r/SeaofFashion"
+  },
+  "scheduling.feeds.meta.Sea_Of_ThievesLFG_Reddit_Subcategory": {
+    "en-GB": "r/SeaofThievesLFG"
+  },
+  "scheduling.feeds.meta.Sea_Of_Thieves_Bluesky_Subcategory": {
+    "en-GB": "@seaoftheves.com"
+  },
+  "scheduling.feeds.meta.Sea_Of_Thieves_Reddit_Subcategory": {
+    "en-GB": "r/Seaofthieves"
+  },
+  "scheduling.feeds.meta.Sea_Of_Thieves_Shorts_Youtube_Subcategory": {
+    "en-GB": "Sea of Thieves Shorts"
+  },
+  "scheduling.feeds.meta.Sea_Of_Thieves_Support_Bluesky_Subcategory": {
+    "en-GB": "@seaofthieves-support"
+  },
+  "scheduling.feeds.meta.Sea_Of_Thieves_Youtube_Subcategory": {
+    "en-GB": "Sea of Thieves"
+  },
+  "scheduling.feeds.meta.Twitch_Category": { "en-GB": "Twitch" },
+  "scheduling.feeds.meta.Youtube_Category": { "en-GB": "Youtube" },
+  "scheduling.feeds.short.Posted_Context": {
+    "en-GB": "Posted by {{pretext_author_link}} on {{pretext_platform_link}}"
+  },
+  "scheduling.feeds.short.RePosted_Context": {
+    "en-GB": "Re-Posted by {{pretext_author_link}} on {{pretext_platform_link}}"
+  },
+  "scheduling.feeds.short.Replied_Context": {
+    "en-GB": "Replied by {{pretext_author_link}} on {{pretext_platform_link}}"
   }
 }
