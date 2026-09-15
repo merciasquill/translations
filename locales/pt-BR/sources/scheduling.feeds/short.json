@@ -1,0 +1,5 @@
+{
+  "scheduling.feeds.short.Posted_Context": "Posted by {{pretext_author_link}} on {{pretext_platform_link}}",
+  "scheduling.feeds.short.RePosted_Context": "Re-Posted by {{pretext_author_link}} on {{pretext_platform_link}}",
+  "scheduling.feeds.short.Replied_Context": "Replied by {{pretext_author_link}} on {{pretext_platform_link}}"
+}
