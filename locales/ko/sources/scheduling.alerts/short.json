@@ -1,12 +1,14 @@
 {
   "scheduling.alerts.short.Any_Twitch_Drop_Host": "참여 중인 씨 오브 시브즈 스트리머",
   "scheduling.alerts.short.Athenas_Fortune_Faction": "Athena's Fortune",
+  "scheduling.alerts.short.Breaking_Change_Text": "Breaking Change",
   "scheduling.alerts.short.Community_Invite_Text": "커뮤니티 초대",
   "scheduling.alerts.short.Competition_Availability": "대회",
   "scheduling.alerts.short.Custom_Twitch_Drop_Host": "{[custom_username]}",
   "scheduling.alerts.short.Giveaway_Availability": "경품",
   "scheduling.alerts.short.Gold_Hoarders_Faction": "the Gold Hoarders",
   "scheduling.alerts.short.Host_Text": "주최자",
+  "scheduling.alerts.short.Hotfix_Text": "Hotfix",
   "scheduling.alerts.short.Hourglass_Faction": "the Hourglass of Fate",
   "scheduling.alerts.short.Hunters_Call_Faction": "the Hunter's Call",
   "scheduling.alerts.short.Insider_Estimated_Finish": "예상 종료일",
@@ -14,6 +16,7 @@
   "scheduling.alerts.short.Insider_Upcoming_Week": "다가오는 {{week}}주차",
   "scheduling.alerts.short.Login_Reward_Subtitle": "Login Reward",
   "scheduling.alerts.short.Merchant_Alliance_Faction": "the Merchant Alliance",
+  "scheduling.alerts.short.Monthly_Update_Text": "Monthly Update",
   "scheduling.alerts.short.Official_Twitch_Drop_Host": "씨 오브 시브즈 공식 채널",
   "scheduling.alerts.short.Order_of_Souls_Faction": "the Order of Souls",
   "scheduling.alerts.short.Partner_Twitch_Drop_Host": "참여 중인 씨 오브 시브즈 파트너",
@@ -26,7 +29,9 @@
   "scheduling.alerts.short.Reward_Conjunction": " ",
   "scheduling.alerts.short.Riddle_Competition_Availability": "수수께끼 대회",
   "scheduling.alerts.short.Screenshot_Competition_Availability": "스크린샷 대회",
+  "scheduling.alerts.short.Seasonal_Release_Text": "Seasonal Release",
   "scheduling.alerts.short.Thread": "Thread",
   "scheduling.alerts.short.Time_Conjunction": " ",
-  "scheduling.alerts.short.Twitch_Inventory_Text": "트위치 드롭스 인벤토리"
+  "scheduling.alerts.short.Twitch_Inventory_Text": "트위치 드롭스 인벤토리",
+  "scheduling.alerts.short.Weekly_Update_Text": "Weekly Update"
 }
