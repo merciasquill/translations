@@ -21,6 +21,8 @@
   "commands.global.meta.utility.Setup_Moderation_Alt_Account_Gate_Subcommand_Name": "alt_account_gate",
   "commands.global.meta.utility.Setup_Moderation_Gamertag_Nicknames_Subcommand_Description": "Configure automatic nickname changes into gamertags",
   "commands.global.meta.utility.Setup_Moderation_Gamertag_Nicknames_Subcommand_Name": "gamertag_nicknames",
+  "commands.global.meta.utility.Setup_Moderation_Red_Guard_Nicknames_Subcommand_Name": "red_guard",
+  "commands.global.meta.utility.Setup_Moderation_Red_Guard_Subcommand_Description": "Configure enforcement actions for users punished in-game or associated with cheats.",
   "commands.global.meta.utility.Setup_Moderation_Subcommand_Group_Name": "moderation",
   "commands.global.meta.utility.Setup_Name": "beallit",
   "commands.global.meta.utility.Setup_Utility_Alert_Subcommand_Description": "Setup core event alerts for Sea of Thieves",
