@@ -1,12 +1,14 @@
 {
   "scheduling.alerts.short.Any_Twitch_Drop_Host": "qualquer streamer de Sea of Thieves",
   "scheduling.alerts.short.Athenas_Fortune_Faction": "Athena's Fortune",
+  "scheduling.alerts.short.Breaking_Change_Text": "Breaking Change",
   "scheduling.alerts.short.Community_Invite_Text": "Convite da Comunidade",
   "scheduling.alerts.short.Competition_Availability": "competição",
   "scheduling.alerts.short.Custom_Twitch_Drop_Host": "{[custom_username]}",
   "scheduling.alerts.short.Giveaway_Availability": "Sorteio",
   "scheduling.alerts.short.Gold_Hoarders_Faction": "the Gold Hoarders",
   "scheduling.alerts.short.Host_Text": "Host",
+  "scheduling.alerts.short.Hotfix_Text": "Hotfix",
   "scheduling.alerts.short.Hourglass_Faction": "the Hourglass of Fate",
   "scheduling.alerts.short.Hunters_Call_Faction": "the Hunter's Call",
   "scheduling.alerts.short.Insider_Estimated_Finish": "Final Estimado",
@@ -14,6 +16,7 @@
   "scheduling.alerts.short.Insider_Upcoming_Week": "Na semana que vem {{week}}",
   "scheduling.alerts.short.Login_Reward_Subtitle": "Login Reward",
   "scheduling.alerts.short.Merchant_Alliance_Faction": "the Merchant Alliance",
+  "scheduling.alerts.short.Monthly_Update_Text": "Monthly Update",
   "scheduling.alerts.short.Official_Twitch_Drop_Host": "o Canal Oficial do Sea of Thieves",
   "scheduling.alerts.short.Order_of_Souls_Faction": "the Order of Souls",
   "scheduling.alerts.short.Partner_Twitch_Drop_Host": "qualquer Parceiro do Sea of Thieves",
@@ -26,7 +29,9 @@
   "scheduling.alerts.short.Reward_Conjunction": " e ",
   "scheduling.alerts.short.Riddle_Competition_Availability": "torneio de enigmas",
   "scheduling.alerts.short.Screenshot_Competition_Availability": "concurso de fotos",
+  "scheduling.alerts.short.Seasonal_Release_Text": "Seasonal Release",
   "scheduling.alerts.short.Thread": "Thread",
   "scheduling.alerts.short.Time_Conjunction": " e ",
-  "scheduling.alerts.short.Twitch_Inventory_Text": "Inventário da Twitch Drops"
+  "scheduling.alerts.short.Twitch_Inventory_Text": "Inventário da Twitch Drops",
+  "scheduling.alerts.short.Weekly_Update_Text": "Weekly Update"
 }
