@@ -156,6 +156,9 @@
     "en-GB": "Player Information",
     "it": "Informazioni sul giocatore"
   },
+  "commands.global.meta.context.Reroll_Giveaway_Name": {
+    "en-GB": "Reroll Giveaway"
+  },
   "commands.global.meta.fun.Cast_Description": {
     "en-GB": "A cute rng-based fishing mini-game"
   },
@@ -387,6 +390,12 @@
     "en-GB": "gamertag_nicknames",
     "pt-BR": "gamertag_apelidos"
   },
+  "commands.global.meta.utility.Setup_Moderation_Red_Guard_Nicknames_Subcommand_Name": {
+    "en-GB": "red_guard"
+  },
+  "commands.global.meta.utility.Setup_Moderation_Red_Guard_Subcommand_Description": {
+    "en-GB": "Configure enforcement actions for users punished in-game or associated with cheats."
+  },
   "commands.global.meta.utility.Setup_Moderation_Subcommand_Group_Name": {
     "en-GB": "moderation",
     "pt-BR": "moderação"
@@ -554,6 +563,7 @@
   "scheduling.alerts.components.View_Full_Post_Button": {
     "en-GB": "View Full Post"
   },
+  "scheduling.alerts.components.Visit_Button": { "en-GB": "Visit" },
   "scheduling.alerts.components.Visit_Full_Thread_Button": {
     "en-GB": "Visit Full Thread"
   },
@@ -687,6 +697,12 @@
   },
   "scheduling.alerts.meta.Competitions_Category": { "en-GB": "Competitions" },
   "scheduling.alerts.meta.Cosmetics_Category": { "en-GB": "Cosmetics" },
+  "scheduling.alerts.meta.English_Release_Notes_Subcategory": {
+    "en-GB": "English Release Notes"
+  },
+  "scheduling.alerts.meta.French_Release_Notes_Subcategory": {
+    "en-GB": "French Release Notes"
+  },
   "scheduling.alerts.meta.Game_Events_Category": { "en-GB": "Game Events" },
   "scheduling.alerts.meta.Ghoul_And_Glory_Campaign_Name": {
     "en-GB": "Ghoul & Glory"
@@ -708,6 +724,9 @@
     "ko": "골드 러시 주기"
   },
   "scheduling.alerts.meta.Gold_Rush_Subcategory": { "en-GB": "Gold Rush" },
+  "scheduling.alerts.meta.Insider_Release_Notes_Subcategory": {
+    "en-GB": "Insider Release Notes"
+  },
   "scheduling.alerts.meta.Miscellaneous_Category": { "en-GB": "Miscellaneous" },
   "scheduling.alerts.meta.Miscellaneous_Cosmetics_Subcategory": {
     "en-GB": "Miscellaneous Cosmetics"
@@ -726,6 +745,9 @@
   },
   "scheduling.alerts.meta.SoTShot_Competitions_Subcategory": {
     "en-GB": "SoTShot Competitions"
+  },
+  "scheduling.alerts.meta.Spanish_Release_Notes_Subcategory": {
+    "en-GB": "Spanish Release Notes"
   },
   "scheduling.alerts.meta.Special_Twitch_Drops_Subcategory": {
     "en-GB": "Special Twitch Drops"
@@ -801,6 +823,9 @@
   "scheduling.alerts.short.Athenas_Fortune_Faction": {
     "en-GB": "Athena's Fortune"
   },
+  "scheduling.alerts.short.Breaking_Change_Text": {
+    "en-GB": "Breaking Change"
+  },
   "scheduling.alerts.short.Community_Invite_Text": {
     "en-GB": "Community Invite",
     "es-ES": "Invitación a la Comunidad",
@@ -838,6 +863,7 @@
     "hu": "Házigazda",
     "ko": "주최자"
   },
+  "scheduling.alerts.short.Hotfix_Text": { "en-GB": "Hotfix" },
   "scheduling.alerts.short.Hourglass_Faction": {
     "en-GB": "the Hourglass of Fate"
   },
@@ -872,6 +898,7 @@
   "scheduling.alerts.short.Merchant_Alliance_Faction": {
     "en-GB": "the Merchant Alliance"
   },
+  "scheduling.alerts.short.Monthly_Update_Text": { "en-GB": "Monthly Update" },
   "scheduling.alerts.short.Official_Twitch_Drop_Host": {
     "en-GB": "the Official Sea of Thieves Channel",
     "es-ES": "el canal Oficial de Sea of Thieves",
@@ -932,6 +959,9 @@
     "ko": "스크린샷 대회",
     "pt-BR": "concurso de fotos"
   },
+  "scheduling.alerts.short.Seasonal_Release_Text": {
+    "en-GB": "Seasonal Release"
+  },
   "scheduling.alerts.short.Thread": { "en-GB": "Thread" },
   "scheduling.alerts.short.Time_Conjunction": {
     "en-GB": " and ",
@@ -949,6 +979,7 @@
     "ko": "트위치 드롭스 인벤토리",
     "pt-BR": "Inventário da Twitch Drops"
   },
+  "scheduling.alerts.short.Weekly_Update_Text": { "en-GB": "Weekly Update" },
   "scheduling.feeds.meta.Announcements_Discord_Subcategory": {
     "en-GB": "#announcements"
   },

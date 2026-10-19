@@ -86,6 +86,7 @@
     "en-GB": "View Full {[locale_specific-Post_Type]}"
   },
   "components.View_Full_Post_Button": { "en-GB": "View Full Post" },
+  "components.Visit_Button": { "en-GB": "Visit" },
   "components.Visit_Full_Thread_Button": { "en-GB": "Visit Full Thread" },
   "components.Watch_Full_Video_Button": {
     "en-GB": "Watch Full Video",
@@ -215,6 +216,10 @@
   },
   "meta.Competitions_Category": { "en-GB": "Competitions" },
   "meta.Cosmetics_Category": { "en-GB": "Cosmetics" },
+  "meta.English_Release_Notes_Subcategory": {
+    "en-GB": "English Release Notes"
+  },
+  "meta.French_Release_Notes_Subcategory": { "en-GB": "French Release Notes" },
   "meta.Game_Events_Category": { "en-GB": "Game Events" },
   "meta.Ghoul_And_Glory_Campaign_Name": { "en-GB": "Ghoul & Glory" },
   "meta.Gold_And_Glory_Campaign_Name": {
@@ -232,6 +237,9 @@
     "ko": "골드 러시 주기"
   },
   "meta.Gold_Rush_Subcategory": { "en-GB": "Gold Rush" },
+  "meta.Insider_Release_Notes_Subcategory": {
+    "en-GB": "Insider Release Notes"
+  },
   "meta.Miscellaneous_Category": { "en-GB": "Miscellaneous" },
   "meta.Miscellaneous_Cosmetics_Subcategory": {
     "en-GB": "Miscellaneous Cosmetics"
@@ -241,6 +249,9 @@
   "meta.Regular_Twitch_Drops_Subcategory": { "en-GB": "Regular Twitch Drops" },
   "meta.SoTShot_Campaign_Name": { "en-GB": "SoTShot: {{theme_name}}" },
   "meta.SoTShot_Competitions_Subcategory": { "en-GB": "SoTShot Competitions" },
+  "meta.Spanish_Release_Notes_Subcategory": {
+    "en-GB": "Spanish Release Notes"
+  },
   "meta.Special_Twitch_Drops_Subcategory": { "en-GB": "Special Twitch Drops" },
   "meta.Special_Twitch_Drops_Subcategory_Name": {
     "en-GB": "Special Twitch Drops"
@@ -299,6 +310,7 @@
     "pt-BR": "qualquer streamer de Sea of Thieves"
   },
   "short.Athenas_Fortune_Faction": { "en-GB": "Athena's Fortune" },
+  "short.Breaking_Change_Text": { "en-GB": "Breaking Change" },
   "short.Community_Invite_Text": {
     "en-GB": "Community Invite",
     "es-ES": "Invitación a la Comunidad",
@@ -332,6 +344,7 @@
     "hu": "Házigazda",
     "ko": "주최자"
   },
+  "short.Hotfix_Text": { "en-GB": "Hotfix" },
   "short.Hourglass_Faction": { "en-GB": "the Hourglass of Fate" },
   "short.Hunters_Call_Faction": { "en-GB": "the Hunter's Call" },
   "short.Insider_Estimated_Finish": {
@@ -360,6 +373,7 @@
   },
   "short.Login_Reward_Subtitle": { "en-GB": "Login Reward" },
   "short.Merchant_Alliance_Faction": { "en-GB": "the Merchant Alliance" },
+  "short.Monthly_Update_Text": { "en-GB": "Monthly Update" },
   "short.Official_Twitch_Drop_Host": {
     "en-GB": "the Official Sea of Thieves Channel",
     "es-ES": "el canal Oficial de Sea of Thieves",
@@ -416,6 +430,7 @@
     "ko": "스크린샷 대회",
     "pt-BR": "concurso de fotos"
   },
+  "short.Seasonal_Release_Text": { "en-GB": "Seasonal Release" },
   "short.Thread": { "en-GB": "Thread" },
   "short.Time_Conjunction": {
     "en-GB": " and ",
@@ -432,5 +447,6 @@
     "hu": "Twitch Drop raktár",
     "ko": "트위치 드롭스 인벤토리",
     "pt-BR": "Inventário da Twitch Drops"
-  }
+  },
+  "short.Weekly_Update_Text": { "en-GB": "Weekly Update" }
 }

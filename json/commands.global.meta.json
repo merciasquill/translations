@@ -23,6 +23,7 @@
     "en-GB": "Player Information",
     "it": "Informazioni sul giocatore"
   },
+  "context.Reroll_Giveaway_Name": { "en-GB": "Reroll Giveaway" },
   "fun.Cast_Description": { "en-GB": "A cute rng-based fishing mini-game" },
   "fun.Cast_Name": { "en-GB": "cast" },
   "fun.Cast_Play_Subcommand_Description": {
@@ -235,6 +236,12 @@
   "utility.Setup_Moderation_Gamertag_Nicknames_Subcommand_Name": {
     "en-GB": "gamertag_nicknames",
     "pt-BR": "gamertag_apelidos"
+  },
+  "utility.Setup_Moderation_Red_Guard_Nicknames_Subcommand_Name": {
+    "en-GB": "red_guard"
+  },
+  "utility.Setup_Moderation_Red_Guard_Subcommand_Description": {
+    "en-GB": "Configure enforcement actions for users punished in-game or associated with cheats."
   },
   "utility.Setup_Moderation_Subcommand_Group_Name": {
     "en-GB": "moderation",
