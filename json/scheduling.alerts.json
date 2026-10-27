@@ -310,7 +310,10 @@
     "pt-BR": "qualquer streamer de Sea of Thieves"
   },
   "short.Athenas_Fortune_Faction": { "en-GB": "Athena's Fortune" },
-  "short.Breaking_Change_Text": { "en-GB": "Breaking Change" },
+  "short.Breaking_Change_Text": {
+    "en-GB": "Breaking Change",
+    "es-ES": "Versión mayor"
+  },
   "short.Community_Invite_Text": {
     "en-GB": "Community Invite",
     "es-ES": "Invitación a la Comunidad",
@@ -344,7 +347,7 @@
     "hu": "Házigazda",
     "ko": "주최자"
   },
-  "short.Hotfix_Text": { "en-GB": "Hotfix" },
+  "short.Hotfix_Text": { "en-GB": "Hotfix", "es-ES": "Parche" },
   "short.Hourglass_Faction": { "en-GB": "the Hourglass of Fate" },
   "short.Hunters_Call_Faction": { "en-GB": "the Hunter's Call" },
   "short.Insider_Estimated_Finish": {
@@ -373,7 +376,10 @@
   },
   "short.Login_Reward_Subtitle": { "en-GB": "Login Reward" },
   "short.Merchant_Alliance_Faction": { "en-GB": "the Merchant Alliance" },
-  "short.Monthly_Update_Text": { "en-GB": "Monthly Update" },
+  "short.Monthly_Update_Text": {
+    "en-GB": "Monthly Update",
+    "es-ES": "Versión menor"
+  },
   "short.Official_Twitch_Drop_Host": {
     "en-GB": "the Official Sea of Thieves Channel",
     "es-ES": "el canal Oficial de Sea of Thieves",
@@ -430,7 +436,10 @@
     "ko": "스크린샷 대회",
     "pt-BR": "concurso de fotos"
   },
-  "short.Seasonal_Release_Text": { "en-GB": "Seasonal Release" },
+  "short.Seasonal_Release_Text": {
+    "en-GB": "Seasonal Release",
+    "es-ES": "Versión mayor"
+  },
   "short.Thread": { "en-GB": "Thread" },
   "short.Time_Conjunction": {
     "en-GB": " and ",

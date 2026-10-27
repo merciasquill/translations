@@ -824,7 +824,8 @@
     "en-GB": "Athena's Fortune"
   },
   "scheduling.alerts.short.Breaking_Change_Text": {
-    "en-GB": "Breaking Change"
+    "en-GB": "Breaking Change",
+    "es-ES": "Versión mayor"
   },
   "scheduling.alerts.short.Community_Invite_Text": {
     "en-GB": "Community Invite",
@@ -863,7 +864,10 @@
     "hu": "Házigazda",
     "ko": "주최자"
   },
-  "scheduling.alerts.short.Hotfix_Text": { "en-GB": "Hotfix" },
+  "scheduling.alerts.short.Hotfix_Text": {
+    "en-GB": "Hotfix",
+    "es-ES": "Parche"
+  },
   "scheduling.alerts.short.Hourglass_Faction": {
     "en-GB": "the Hourglass of Fate"
   },
@@ -898,7 +902,10 @@
   "scheduling.alerts.short.Merchant_Alliance_Faction": {
     "en-GB": "the Merchant Alliance"
   },
-  "scheduling.alerts.short.Monthly_Update_Text": { "en-GB": "Monthly Update" },
+  "scheduling.alerts.short.Monthly_Update_Text": {
+    "en-GB": "Monthly Update",
+    "es-ES": "Versión menor"
+  },
   "scheduling.alerts.short.Official_Twitch_Drop_Host": {
     "en-GB": "the Official Sea of Thieves Channel",
     "es-ES": "el canal Oficial de Sea of Thieves",
@@ -960,7 +967,8 @@
     "pt-BR": "concurso de fotos"
   },
   "scheduling.alerts.short.Seasonal_Release_Text": {
-    "en-GB": "Seasonal Release"
+    "en-GB": "Seasonal Release",
+    "es-ES": "Versión mayor"
   },
   "scheduling.alerts.short.Thread": { "en-GB": "Thread" },
   "scheduling.alerts.short.Time_Conjunction": {
