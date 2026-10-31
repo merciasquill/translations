@@ -15,6 +15,7 @@
   "scheduling.alerts.components.Theme_Announcement_Button": "Theme Announcement",
   "scheduling.alerts.components.View_Full_Dynamic_Post_Button": "View Full {[locale_specific-Post_Type]}",
   "scheduling.alerts.components.View_Full_Post_Button": "View Full Post",
+  "scheduling.alerts.components.Visit_Button": "Visit",
   "scheduling.alerts.components.Visit_Full_Thread_Button": "Visit Full Thread",
   "scheduling.alerts.components.Watch_Full_Video_Button": "Watch Full Video",
   "scheduling.alerts.components.YouTube_Channel_Button": "Youtube Channel"
